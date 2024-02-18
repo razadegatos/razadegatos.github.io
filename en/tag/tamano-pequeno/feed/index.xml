@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tamaño pequeño &#8211; Raza de Gatos</title>
+	<atom:link href="https://razadegatos.info/en/tag/tamano-pequeno/feed/" rel="self" type="application/rss+xml" />
+	<link>https://razadegatos.info/en</link>
+	<description>All about cat breeds, their physical characteristics and care</description>
+	<lastbuilddate>Mon, 06 Sep 2021 13:00:40 +0000</lastbuilddate>
+	<language>in U.S</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://razadegatos.info/wp-content/uploads/cropped-Icono-del-sitio-razadegatos.info_-32x32.png</url>
+	<title>Tamaño pequeño &#8211; Raza de Gatos</title>
+	<link>https://razadegatos.info/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>American Wirehair (pelo áspero)</title>
+		<link>https://razadegatos.info/en/american-wirehair/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubdate>Sun, 22 Mar 2020 22:06:29 +0000</pubdate>
+				<category><![CDATA[Todas las Razas de Gatos]]></category>
+		<category><![CDATA[Ojos de colores variados]]></category>
+		<category><![CDATA[Pelo corto]]></category>
+		<category><![CDATA[Pelo rizado/ondulado]]></category>
+		<category><![CDATA[Tamaño pequeño]]></category>
+		<guid ispermalink="false">https://razadegatos.info/?page_id=6003</guid>
+
+					<description><![CDATA[<p>The American Wirehair (rough hair) has a striking and extraordinary coat, this being rough and hard, unique among all felines. They are curious, affectionate and sweet cats. Ideal for all types of people or families with or without pets.</p>
+<p style="text-align: right;"><strong><a href="https://razadegatos.info/en/american-wirehair/">SEE MORE ➔</a></strong></p>
+<p>Contenido original de <a rel="nofollow" href="https://razadegatos.info/en">Raza de Gatos</a></p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

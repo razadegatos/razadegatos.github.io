@@ -118,7 +118,7 @@
 								This KML file contains <xsl:value-of select="count(kml:kml/kml:Document/kml:Folder/kml:Placemark)"/> Locations.
 							</p>
 							<p class="expl">
-								<a href="https://razadegatos.info/sitemap_index.xml">&#8592; Índice del mapa del sitio</a>							</p>
+								<a href="https://127.0.0.1/razadegatos/sitemap_index.xml">&#8592; Índice del mapa del sitio</a>							</p>
 							<table id="sitemap" cellpadding="3">
 								<thead>
 									<tr>
@@ -170,7 +170,7 @@
 									Este mapa del sitio XML lo ha generado el plugin <a href="https://rankmath.com/" target="_blank">Rank Math WordPress SEO</a>. Los motores de búsqueda como Google lo utilizan para rastrear y volver a rastrear entradas/páginas/productos/imágenes/archivos de tu web.								</p>
 							
 							<p>
-								Aprende más acerca de <a href="http://sitemaps.org/" target="_blank">mapas del sitio XML</a>.							</p>
+								Aprende más acerca de <a href="http://sitemaps.org" target="_blank">mapas del sitio XML</a>.							</p>
 
 						</div>
 
@@ -213,7 +213,7 @@
 									Este mapa del sitio XML contiene <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong> URLs.								</p>
 
 								<p class="expl">
-									<a href="https://razadegatos.info/sitemap_index.xml">&#8592; Índice del mapa del sitio</a>								</p>
+									<a href="https://127.0.0.1/razadegatos/sitemap_index.xml">&#8592; Índice del mapa del sitio</a>								</p>
 
 								<table id="sitemap" cellpadding="3">
 

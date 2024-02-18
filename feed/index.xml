@@ -10,7 +10,7 @@
 <channel>
 	<title>Raza de Gatos</title>
 	<atom:link href="https://razadegatos.info/feed/" rel="self" type="application/rss+xml" />
-	<link>https://razadegatos.info</link>
+	<link>https://razadegatos.info/</link>
 	<description>Todo sobre razas de gatos, sus características físicas y cuidados</description>
 	<lastBuildDate>Sun, 08 Aug 2021 19:46:22 +0000</lastBuildDate>
 	<language>es</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>https://razadegatos.info/wp-content/uploads/cropped-Icono-del-sitio-razadegatos.info_-32x32.png</url>
 	<title>Raza de Gatos</title>
-	<link>https://razadegatos.info</link>
+	<link>https://razadegatos.info/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -39,7 +39,7 @@
 
 					<description><![CDATA[<p>Algunos fueron el resultado de mutaciones naturales. Pero en otros casos, fueron el resultado de años de trabajo de cría tratando de crear una raza con una apariencia que se asemejara a un gato salvaje. El resultado es un gato familiar, sociable y juguetón, pero que parece un gato salvaje.</p>
 <p style="text-align: right;"><strong><a href="https://razadegatos.info/razas-de-gatos-con-apariencia-salvaje/">VER MÁS ➔</a></strong></p>
-<p>Contenido original de <a rel="nofollow" href="https://razadegatos.info">Raza de Gatos</a></p>
+<p>Contenido original de <a rel="nofollow" href="https://razadegatos.info/">Raza de Gatos</a></p>
 ]]></description>
 		
 					<wfw:commentRss>https://razadegatos.info/razas-de-gatos-con-apariencia-salvaje/feed/</wfw:commentRss>

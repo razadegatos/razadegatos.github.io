@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tamaño grande &#8211; Raza de Gatos</title>
+	<atom:link href="https://razadegatos.info/en/tag/tamano-grande/feed/" rel="self" type="application/rss+xml" />
+	<link>https://razadegatos.info/en</link>
+	<description>All about cat breeds, their physical characteristics and care</description>
+	<lastbuilddate>Mon, 06 Sep 2021 12:55:55 +0000</lastbuilddate>
+	<language>in U.S</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://razadegatos.info/wp-content/uploads/cropped-Icono-del-sitio-razadegatos.info_-32x32.png</url>
+	<title>Tamaño grande &#8211; Raza de Gatos</title>
+	<link>https://razadegatos.info/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Afrodita Gigante (Pelo corto y semi largo)</title>
+		<link>https://razadegatos.info/en/afrodita-gigante/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubdate>Sat, 05 Sep 2020 20:35:21 +0000</pubdate>
+				<category><![CDATA[Todas las Razas de Gatos]]></category>
+		<category><![CDATA[Ojos de colores variados]]></category>
+		<category><![CDATA[Pelo corto]]></category>
+		<category><![CDATA[Pelo semi largo]]></category>
+		<category><![CDATA[Tamaño grande]]></category>
+		<guid ispermalink="false">https://razadegatos.info/?page_id=11634</guid>
+
+					<description><![CDATA[<p>The Giant Aphrodite, or Mountain Giant, is one of the largest and oldest cat breeds in the world. They originated naturally in Cyprus. They are very affectionate and elegant. Being so sociable and demanding, it is not recommended to leave it alone or without the company of another pet.</p>
+<p style="text-align: right;"><strong><a href="https://razadegatos.info/en/afrodita-gigante/">SEE MORE ➔</a></strong></p>
+<p>Contenido original de <a rel="nofollow" href="https://razadegatos.info/en">Raza de Gatos</a></p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
