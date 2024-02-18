@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ojos verdes &#8211; Raza de Gatos</title>
+	<atom:link href="https://razadegatos.info/tag/ojos-verdes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://razadegatos.info</link>
+	<description>Todo sobre razas de gatos, sus características físicas y cuidados</description>
+	<lastBuildDate>Mon, 20 Sep 2021 21:19:06 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://razadegatos.info/wp-content/uploads/cropped-Icono-del-sitio-razadegatos.info_-32x32.png</url>
+	<title>Ojos verdes &#8211; Raza de Gatos</title>
+	<link>https://razadegatos.info</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Azul Ruso</title>
+		<link>https://razadegatos.info/azul-ruso/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2019 13:36:02 +0000</pubDate>
+				<category><![CDATA[Todas las Razas de Gatos]]></category>
+		<category><![CDATA[Ojos verdes]]></category>
+		<category><![CDATA[Pelo corto]]></category>
+		<category><![CDATA[Tamaño mediano]]></category>
+		<guid isPermaLink="false">https://razadegatos.info/?p=4067</guid>
+
+					<description><![CDATA[<p>De pelaje azul grisáceo, plateado y sedoso, con unos llamativos ojos verdes. El gato Azul Ruso es inteligente, atlético, divertido y muy cariñoso. Se debe tener en cuenta, que no le gustan los cambios en sus rutinas, ni estar con gente desconocida.</p>
+<p style="text-align: right;"><strong><a href="https://razadegatos.info/azul-ruso/">VER MÁS ➔</a></strong></p>
+<p>Contenido original de <a rel="nofollow" href="https://razadegatos.info">Raza de Gatos</a></p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
