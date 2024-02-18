@@ -1,0 +1,1 @@
+HashOverConstructor.prototype.permalinkFile=function(r){var e=r.slice(1);return e=(e=e.replace(/r/g,"-")).replace("-pop","")};

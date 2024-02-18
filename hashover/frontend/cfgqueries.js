@@ -1,0 +1,1 @@
+HashOverConstructor.cfgQueries=function(o,r,e){if(r=r||[],e=e||[],"object"==typeof o){for(var n in o)HashOverConstructor.cfgQueries(o[n],r.concat(n),e);return e}var c="["+r.join("][")+"]";o=encodeURIComponent(o);e.push("cfg"+c+"="+o)};

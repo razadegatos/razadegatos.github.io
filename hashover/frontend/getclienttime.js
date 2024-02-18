@@ -1,0 +1,1 @@
+HashOverConstructor.getClientTime=function(){var e=new Date;return e.getHours()+":"+e.getMinutes()};

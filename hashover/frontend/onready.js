@@ -1,0 +1,1 @@
+HashOverConstructor.onReady=function(e){var t=document.readyState;"interactive"===t||"complete"===t?e():document.addEventListener("DOMContentLoaded",function(){e()},!1)};

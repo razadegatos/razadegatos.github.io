@@ -1,0 +1,1 @@
+HashOver.prototype.enterCheck=function(e){return 13!==e.keyCode},HashOver.prototype.preventSubmit=function(e){for(var t=e.getElementsByClassName("hashover-input-info"),n=0,r=t.length;n<r;n++)t[n].onkeypress=this.enterCheck};

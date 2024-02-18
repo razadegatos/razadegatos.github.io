@@ -1,0 +1,1 @@
+HashOverConstructor.prototype.displayError=function(r,e){var t=this.getMainElement(e),n="<b>HashOver</b>: "+r.message;t.innerHTML=n};

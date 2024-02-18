@@ -1,0 +1,4720 @@
+# Translation of Plugins - Ad Inserter &#8211; Ad Manager &amp; AdSense Ads - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ad Inserter &#8211; Ad Manager &amp; AdSense Ads - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-16 15:20:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ad Inserter &#8211; Ad Manager &amp; AdSense Ads - Stable (latest release)\n"
+
+#. translators: Maximum number of list selection items
+#: settings.php:2821
+msgid "Max list selection items"
+msgstr "Maximum d’éléments de sélection de la liste"
+
+#: ad-inserter.php:457
+msgctxt "Menu item, to disable debugging"
+msgid "Disable Debugging"
+msgstr "Désactiver le débogage"
+
+#: settings.php:2292
+msgid "REST  requests"
+msgstr "Demandes  REST"
+
+#: settings.php:2292
+msgid "Enable insertion for REST requests"
+msgstr "Activer lʼinsertion pour les demandes REST"
+
+#: class.php:2669
+msgid "REST REQUEST"
+msgstr "Demande REST"
+
+#: ad-inserter.php:3803
+msgid "REST CALL"
+msgstr "Appel REST"
+
+#: ad-inserter.php:1442
+msgid "CONTENT MARKER"
+msgstr "Marqueur du contenu"
+
+#. translators: %s: NO CODE FOR INSERTION ON NORMAL/AMP PAGES
+#: class.php:4177
+msgid "NORMAL"
+msgstr "Normal"
+
+#. translators: %s: NO CODE FOR INSERTION ON NORMAL/AMP PAGES
+#: class.php:4175
+msgid "NO CODE FOR INSERTION ON %s PAGES"
+msgstr "Aucun code pour l’insertion sur les pages %s"
+
+#: settings.php:5836 settings.php:5841 settings.php:6060 settings.php:6069
+#: settings.php:6097 settings.php:6122
+msgid "The Google Analytics Alternative"
+msgstr "L’alternative à Google Analytics"
+
+#: class.php:3951 class.php:4049
+msgid "ACTIVATED GROUPS"
+msgstr "Groupes activés"
+
+#. translators: disable feature
+#: settings.php:185
+msgid "disable"
+msgstr "désactiver"
+
+#: settings.php:185
+msgid "Legacy JavaScript code used"
+msgstr "Utilisation d’un code JavaScript ancien"
+
+#: settings.php:185
+msgid "Information"
+msgstr "Informations"
+
+#: strings.php:38
+msgid "File"
+msgstr "Fichier"
+
+#: strings.php:37
+msgid "Inline"
+msgstr "En ligne"
+
+#: settings.php:2640
+msgid "Inline means inserting JavaScript code in the footer of the page, File means loading external JavaScript file"
+msgstr "En ligne signifie l’insertion du code JavaScript dans le pied de page, Fichier signifie le chargement d’un fichier JavaScript externe."
+
+#: settings.php:2637
+msgid "JavaScript code"
+msgstr "Code JavaScript"
+
+#: settings.php:2593
+msgid "Frontend"
+msgstr "Interface publique"
+
+#: settings.php:2594
+msgid "Administration"
+msgstr "Administration"
+
+#: ad-inserter.php:465
+msgctxt "Menu item, to label blocks"
+msgid "Label Blocks"
+msgstr "Blocs de libellés"
+
+#: strings.php:208
+msgid "Top menu"
+msgstr "Menu supérieur"
+
+#: strings.php:207
+msgid "Settings submenu"
+msgstr "Sous-menu Réglages"
+
+#. translators: %s: Ad Inserter
+#: settings.php:2813
+msgid "WordPress sidebar menu for link to %s"
+msgstr "Menu de la barre latérale de WordPress pour le lien vers %s"
+
+#: settings.php:2810
+msgid "Menu for link"
+msgstr "Menu pour le lien"
+
+#: settings.php:5760 settings.php:5774
+msgid "Google AdX"
+msgstr "Google AdX"
+
+#: settings.php:5747
+msgid "bcm Ad Exchange"
+msgstr "bcm Ad Exchange"
+
+#. translators: %s HTML tags
+#: settings.php:6192
+msgid "Stop invalid traffic with %s reCAPTCHA score check %s"
+msgstr "Arrêtez le trafic invalide avec %s la vérification du score reCAPTCHA %s"
+
+#: settings.php:6099 settings.php:6115 settings.php:6149
+msgid "Stop invalid traffic with reCAPTCHA v3 score check"
+msgstr "Arrêtez le trafic invalide avec la vérification du score reCAPTCHA v3"
+
+#. translators: %s: HTML tags
+#: settings.php:4976
+msgid "Now you can authorize %s to access your AdSense account. "
+msgstr "Vous pouvez maintenant autoriser %s à accéder à votre compte AdSense. "
+
+#. translators: %s: HTML tags
+#: settings.php:4973
+msgid "Authorize %s to access your AdSense account."
+msgstr "Autoriser %s à accéder à votre compte AdSense."
+
+#. Translators: %d: constant number
+#: settings.php:2897
+msgid "Constant %d name"
+msgstr "Nom de la constante %d"
+
+#. Translators: %d: constant number
+#: settings.php:2898 settings.php:2909
+msgid "Constant name"
+msgstr "Nom de la constante"
+
+#: settings.php:2595
+msgid "Constants"
+msgstr "Constantes"
+
+#: settings.php:2899
+msgid "Value"
+msgstr "Valeur"
+
+#: settings.php:5853 settings.php:5858 settings.php:5870 settings.php:5875
+msgid "Maximize Revenue"
+msgstr "Maximiser les revenus"
+
+#: strings.php:118
+msgid "all devices"
+msgstr "tous les appareils"
+
+#: settings.php:3161
+msgid "Enabled for"
+msgstr "Activé pour"
+
+#: ad-inserter.php:4051 ad-inserter.php:4306
+msgid "UNFILTERED HTML DISABLED"
+msgstr "HTML non filtré désactivé"
+
+#. translators: %s: HTML link code
+#: settings.php:202
+msgid "Warning: %s Unfiltered HTML %s is disabled for this website - most ad codes can't be used"
+msgstr "Avertissement : %s HTML non filtré %s est désactivé pour ce site - la plupart des codes publicitaires ne peuvent pas être utilisés"
+
+#: settings.php:5752 settings.php:5765 settings.php:5779 settings.php:6056
+#: settings.php:6057 settings.php:6083 settings.php:6084 settings.php:6093
+#: settings.php:6094 settings.php:6116 settings.php:6117
+msgid "Maximize Your Ad Revenue"
+msgstr "Maximisez vos revenus publicitaires"
+
+#: settings.php:2441
+msgid "Block background: empty means background not defined, #hex number means HTML color"
+msgstr "Arrière-plan du bloc : vide signifie que l’arrière-plan n’est pas défini, le nombre #hex signifie la couleur HTML"
+
+#: class.php:3144
+msgctxt "Block"
+msgid "FALLBACK CODE"
+msgstr "Code alternatif"
+
+#: class.php:3122
+msgctxt "fallback"
+msgid "ACTIVE"
+msgstr "Actif"
+
+#: class.php:3121
+msgctxt "fallback"
+msgid "INACTIVE"
+msgstr "Inactif"
+
+#. translators: 1: Ad Inserter, 2, 3: HTML tags
+#: ad-inserter.php:3474
+msgid "Error: plugin settings corrupt"
+msgstr "Erreur : réglages de l’extension corrompus"
+
+#: settings.php:2063
+msgid "Comma separated cookies with optional values (use 'cookie' or 'cookie=value')"
+msgstr "Cookies séparés par des virgules avec des valeurs facultatives (utilisez ’cookie’ ou ’cookie=valeur’)"
+
+#: settings.php:2060
+msgid "Toggle cookie editor"
+msgstr "Ouvrir/Fermer lʼéditeur de cookies"
+
+#: settings.php:2056
+msgid "Cookies"
+msgstr "Cookies"
+
+#: class.php:4583
+msgid "cookies='%s' type='%s'"
+msgstr "pays=ʼ%sʼ type=ʼ%sʼ"
+
+#. translators: %s HTML tags
+#: settings.php:6184
+msgid "Ad rotation %s optimization based on CTR %s"
+msgstr "Optimisation de la rotation des annonces %s basée sur le CTR %s"
+
+#: strings.php:141
+msgid "Element scrolls out"
+msgstr "L’élément défile vers l’extérieur"
+
+#: strings.php:140
+msgid "Element scrolls in"
+msgstr "L’élément défile à l’intérieur"
+
+#: class.php:5040 strings.php:294
+msgctxt "alternative block"
+msgid "FALLBACK"
+msgstr "Alternative"
+
+#: settings.php:3223
+msgid "Use external scripts"
+msgstr "Utiliser des scripts externes"
+
+#: settings.php:3223
+msgid "Use external scripts for ad blocking detection. Disable when you need to obtain user consent before collecting personal information. In such case use shortcut to insert external scripts after the consent is given."
+msgstr "Utilisez des scripts externes pour la détection du blocage des publicités. Désactivez-les lorsque vous devez obtenir le consentement de l’internaute avant de collecter des informations personnelles. Dans ce cas, utilisez un raccourci pour insérer des scripts externes après l’obtention du consentement."
+
+#. translators: %s: dates
+#: strings.php:247
+msgid "Delete website?"
+msgstr "Voulez-vous supprimer le site ?"
+
+#: strings.php:238
+msgid "Delete all"
+msgstr "Tout supprimer"
+
+#: settings.php:1128 settings.php:1278
+msgid "Block on consent"
+msgstr "Blocage de consentement"
+
+#: settings.php:420
+msgid "Scheduling parameters"
+msgstr "Paramètres de planification"
+
+#. translators: %s HTML tags
+#: settings.php:6193
+msgid "Support for %s GDPR consent cookie checks %s"
+msgstr "Prise en charge des contrôles des cookies de consentement %s GDPR %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5047
+msgid "Click on %s Create OAuth client ID %s and then click on %s DONE %s"
+msgstr "Cliquez sur « %s Créer un ID client OAuth %s » puis cliquez sur « %s Terminé %s »"
+
+#. translators: %s: HTML tags
+#: settings.php:5046
+msgid "Create an OAuth 2.0 client ID: For %s OAuth 2.0 client ID %s name enter %s Ad Inserter client %s and then click on %s REFRESH %s"
+msgstr "Créez un ID client OAuth 2.0 : Pour %s ID client OAuth 2.0 %s, saisissez « %s Client Ad Inserter %s », puis cliquez sur %s actualiser %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5045
+msgid "Click again on %s SAVE AND CONTINUE %s and then on %s BACK TO DASHBOARD %s"
+msgstr "Cliquez à nouveau sur %s enregistrer et continuer %s, puis sur %s retour au tableau de bord %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5044
+msgid "Click again on %s SAVE AND CONTINUE %s and then click on %s ADD USERS %s and add your Google account email address"
+msgstr "Cliquez à nouveau sur %s enregistrer et continuer %s, puis cliquez sur %s ajouter des comptes %s et ajoutez l’adresse électronique de votre compte Google"
+
+#. translators: %s: HTML tags
+#: settings.php:5043
+msgid "For %s Developer contact information %s enter your email address and click on %s SAVE AND CONTINUE %s"
+msgstr "Pour les %s informations de contact du développeur/développeuse %s, saisissez votre adresse e-mail et cliquez sur %s enregistrer et continuer %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5042
+msgid "For %s App name %s enter %s and for %s User support email %s select your Google account email address"
+msgstr "Pour %s Nom de l’application %s, saisissez %s et pour %s Adresse électronique du support utilisateur %s, sélectionnez l’adresse électronique de votre compte Google."
+
+#. translators: %s: HTML tags
+#: settings.php:5041
+msgid "For %s User Type %s select %s External %s and click on %s CREATE %s"
+msgstr "Pour %s type d’utilisateur/utilisatrice %s sélectionnez %s externe %s et cliquez sur %s creer %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5040
+msgid "When %s Set up OAuth consent screen %s window is displayed select %s Setup Consent Screen %s"
+msgstr "Lorsque la fenêtre %s Configurer l’écran de consentement OAuth %s s’affiche, sélectionnez %s Configurer l’écran de consentement %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5036
+msgid "For %s Which API are you using? %s select %s AdSense Management API %s"
+msgstr "Pour %s Quelle API utilisez-vous ? %s sélectionnez %s AdSense Management API %s"
+
+#. translators: %s: Ad Inserter
+#: settings.php:3425
+msgid "%s HTML CODE"
+msgstr "Code HTML %s"
+
+#. translators: %s: Ad Inserter
+#: settings.php:3387
+msgid "Disable %s HTML code"
+msgstr "Désactiver le code HTML %s"
+
+#. Translators: do not translate [[height]] - it is a CSS property
+#: settings.php:2435
+msgid "Block height: empty means height not defined, number means height in pixels, any other value means CSS [[height]] property"
+msgstr "Hauteur du bloc : vide signifie hauteur non définie, nombre signifie hauteur en pixels, toute autre valeur signifie propriété CSS [[hauteur]]"
+
+#. Translators: do not translate [[width]] - it is a CSS property
+#: settings.php:2431
+msgid "Block width: empty means width not defined, number means width in pixels, any other value means CSS [[width]] property"
+msgstr "Largeur de bloc : vide signifie largeur non définie, nombre signifie largeur en pixels, toute autre valeur signifie propriété CSS [[largeur]]"
+
+#: settings.php:2138
+msgid "Sidebars (or widget positions) where this widget is used"
+msgstr "Barres latérales (ou positions de widget) où ce widget est utilisé"
+
+#: settings.php:1613
+msgid "Time in ms to delay insertion"
+msgstr "Temps en ms pour retarder lʼinsertion"
+
+#: settings.php:1612
+msgid "Delay"
+msgstr "Retard"
+
+#: settings.php:1606
+msgid "Wait for HTML element to be loaded"
+msgstr "Attendre que lʼélément HTML soit chargé"
+
+#: settings.php:1594
+msgid "Wait for"
+msgstr "Attendre"
+
+#: settings.php:1029
+msgid "Lazy loading"
+msgstr "Chargement différé"
+
+#: settings.php:1021
+msgid "Alt text"
+msgstr "Texte alternatif"
+
+#: ad-inserter.php:4046
+msgid "Click to delete the cookie for the consents"
+msgstr "Cliquez pour supprimer le cookie pour les consentements"
+
+#. translators: %s HTML tags
+#: settings.php:6175
+msgid "%s Background ads %s with one or left and right background images"
+msgstr "%s Annonces dʼarrière-plan %s avec une ou des images dʼarrière-plan gauche et droite"
+
+#: settings.php:6074
+msgid "Insert ads on AMP pages"
+msgstr "Insérer des annonces sur les pages AMP"
+
+#: settings.php:6055 settings.php:6068 settings.php:6141
+msgid "Ad blocking detection and content protection"
+msgstr "Détection du blocage des publicités et protection du contenu"
+
+#. translators: %s: HTML tags
+#: settings.php:5995
+msgid "%s New to %s AdSense? %s %s %s Connect your site %s - %s In-feed ads, %s %s Auto ads, %s %s AMP ads %s"
+msgstr "%s Nouveau sur %s AdSense ? %s %s %s Connectez votre site %s - %s Annonces In-Feed, %s %s Annonces automatiques, %s %s Annonces AMP %s"
+
+#: settings.php:4820
+msgid "No block matches search keywords"
+msgstr "Aucun bloc ne correspond aux mots-clés de recherche"
+
+#: settings.php:4819
+msgid "No active block"
+msgstr "Aucun bloc actif"
+
+#: settings.php:4752
+msgid "Pause block"
+msgstr "Mettre en pause le bloc"
+
+#: settings.php:2829
+msgid "Tab setup delay"
+msgstr "Délai de configuration de lʼonglet"
+
+#: settings.php:2351
+msgid "Embed JS code"
+msgstr "Incorporer le code JS"
+
+#: settings.php:2347
+msgid "When enabled, Javascript code (if needed for the blok) will be inserted next to the block HTML code. Otherwise, the Javascript code will be inserted in the page footer. Plugin Javascript functions will still be inserted in the footer."
+msgstr "Lorsquʼil est activé, le code Javascript (si nécessaire pour le bloc) sera inséré à côté du code HTML du bloc. Sinon, le code Javascript sera inséré dans le pied de page. Les fonctions Javascript de lʼextension seront toujours insérées dans le pied de page."
+
+#: settings.php:2107
+msgid "Comma separated names (operating systems, browsers, devices). You can also list partial user agent strings with * (user-agent-start*. *user-agent-pattern*, *user-agent-end)"
+msgstr "Noms séparés par des virgules (systèmes dʼexploitation, navigateurs, appareils). Vous pouvez également répertorier des chaînes dʼagent utilisateur partielles avec * (user-agent-start*. *user-agent-pattern*, *user-agent-end)"
+
+#: settings.php:1784
+msgid "Excludes last paragraphs from insertion, leave empty for no exclusion of last paragraphs"
+msgstr "Exclut les derniers paragraphes de lʼinsertion, laissez vide pour aucune exclusion des derniers paragraphes"
+
+#. Translators: Do not insert for first X and last Y paragraphs
+#: settings.php:1778
+msgid "and last"
+msgid_plural "and last"
+msgstr[0] "et le dernier"
+msgstr[1] "et les derniers"
+
+#: settings.php:1775
+msgid "Excludes first paragraphs from insertion, leave empty for no exclusion of first paragraphs"
+msgstr "Exclut les premiers paragraphes de lʼinsertion, laissez vide pour aucune exclusion des premiers paragraphes"
+
+#. Translators: Do not insert for first X and last Y paragraphs
+#: settings.php:1769
+msgid "Do not insert for first"
+msgid_plural "Do not insert for first"
+msgstr[0] "Ne pas insérer pour la première"
+msgstr[1] "Ne pas insérer pour les premièrs"
+
+#: settings.php:1756
+msgid "Check only tag attributes"
+msgstr "Vérifier uniquement les attributs de lʼétiquette"
+
+#: settings.php:1755 settings.php:1756
+msgid "If checked it will search for the text only in tag attributes like [[id]], [[class]], [[style]], etc. Otherwise the whole tag including its content will be searched."
+msgstr "Si coché, il recherchera le texte uniquement dans les attributs de lʼétiquette comme [[id]], [[class]], [[style]], etc. Sinon, lʼétiquette entière, y compris son contenu, sera recherchée."
+
+#: settings.php:192 settings.php:195
+msgid "Warning: only exceptions for %d posts cleared, %d posts still have exceptions"
+msgstr "Avertissement : seules les exceptions pour %d messages ont été supprimées, %d messages ont encore des exceptions"
+
+#: strings.php:301
+msgctxt "Element"
+msgid "Parent"
+msgstr "Parent"
+
+#: strings.php:268
+msgid "Select or upload background image"
+msgstr "Sélectionner ou téléverser une image dʼarrière-plan"
+
+#: strings.php:243
+msgid "Rotation code editor active. Click on the rotation button to generate code."
+msgstr "Éditeur de code de rotation actif. Cliquez sur le bouton de rotation pour générer le code."
+
+#: strings.php:241
+msgid "OK"
+msgstr "OK"
+
+#: strings.php:183
+msgctxt "Manual loading"
+msgid "Always"
+msgstr "Toujours"
+
+#: strings.php:182
+msgctxt "Manual loading"
+msgid "Auto"
+msgstr "Auto"
+
+#: strings.php:154
+msgid "Fill"
+msgstr "Remplir"
+
+#: strings.php:153
+msgctxt "image size"
+msgid "Fit"
+msgstr "Ajuster"
+
+#: strings.php:152
+msgid "Cover"
+msgstr "Couverture"
+
+#: strings.php:151
+msgctxt "image size"
+msgid "Default"
+msgstr "Par défaut"
+
+#: strings.php:149
+msgid "Round"
+msgstr "Ronde"
+
+#: strings.php:148
+msgid "Space"
+msgstr "Espace"
+
+#: strings.php:147
+msgid "Vertically"
+msgstr "Verticalement"
+
+#: strings.php:146
+msgid "Horizontally"
+msgstr "Horizontalement"
+
+#: strings.php:145
+msgid "Yes"
+msgstr "Oui"
+
+#: strings.php:144
+msgid "No"
+msgstr "Non"
+
+#: strings.php:143
+msgctxt "image repeat"
+msgid "Default"
+msgstr "Par défaut"
+
+#: strings.php:69
+msgctxt "position"
+msgid "Center"
+msgstr "Centre"
+
+#: includes/preview.php:2749 strings.php:211
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: includes/preview.php:2586
+msgid "Repeat image"
+msgstr "Répéter lʼimage"
+
+#: includes/preview.php:2573
+msgid "Image size"
+msgstr "Taille de lʼimage"
+
+#: includes/preview.php:2568
+msgid "Color to be used for the background"
+msgstr "Couleur à utiliser pour lʼarrière-plan"
+
+#: class.php:4573
+msgid "start='%s' end='%s' days='%s' type='%s'"
+msgstr "début=ʼ%sʼ fin=ʼ%sʼ jours=ʼ%sʼ type=ʼ%sʼ"
+
+#: class.php:4902 class.php:4905
+msgid "viewport='%s' type='%s'"
+msgstr "viewport=ʼ%sʼ type=ʼ%sʼ"
+
+#: class.php:2968
+msgctxt "viewports"
+msgid "ALL"
+msgstr "Tous"
+
+#: strings.php:278
+msgctxt "Sunday"
+msgid "SU"
+msgstr "Di"
+
+#: strings.php:277
+msgctxt "Saturday"
+msgid "SA"
+msgstr "Sa"
+
+#: strings.php:276
+msgctxt "Friday"
+msgid "FR"
+msgstr "Ve"
+
+#: strings.php:275
+msgctxt "Thursday"
+msgid "TH"
+msgstr "Je"
+
+#: strings.php:274
+msgctxt "Wednesday"
+msgid "WE"
+msgstr "Me"
+
+#: strings.php:273
+msgctxt "Tuesday"
+msgid "TU"
+msgstr "Ma"
+
+#: strings.php:272
+msgctxt "Monday"
+msgid "MO"
+msgstr "Lu"
+
+#: strings.php:201
+msgctxt "AMP ad"
+msgid "Sticky"
+msgstr "Épinglé"
+
+#: strings.php:196
+msgctxt "AdSense Ad Type"
+msgid "AMP Only"
+msgstr "Amp uniquement"
+
+#: ad-inserter.php:3518
+msgid "Safe mode"
+msgstr "Mode sans échec"
+
+#: ad-inserter.php:3518
+msgid "Load settings page in safe mode to avoid collisions with other plugins or theme"
+msgstr "Charger la page des réglages en mode sans échec pour éviter les collisions avec dʼautres extensions ou thèmes"
+
+#. translators: 1: Ad Inserter, 2, 3: HTML tags
+#: ad-inserter.php:3467
+msgid "Warning: %1$s requires PHP 5.6 or newer. %2$s Please update! %3$s"
+msgstr "Avertissement : %1$s nécessite PHP 5.6 ou plus récent. %2$s Veuillez mettre à jour ! %3$s"
+
+#: ad-inserter.php:3443
+msgid "Sure"
+msgstr "Bien sûr"
+
+#: ad-inserter.php:3435
+msgid "Please take a moment to rate the plugin. When you rate it with 5 stars it's like saying 'Thank you'. Somebody will be happy."
+msgstr "Veuillez prendre un moment pour évaluer l’extension. Lorsque vous lʼévaluez avec 5 étoiles, cʼest comme dire « Merci ». Quelquʼun sera heureux."
+
+#: ad-inserter.php:3422
+msgid "OK, but please help me with the settings first"
+msgstr "OK, mais aidez-moi dʼabord avec les réglages"
+
+#. Translators: %s: Ad Inserter
+#: ad-inserter.php:3419
+msgid "Hey, you are using %s and I hope you're happy with it."
+msgstr "Hé, vous utilisez %s et jʼespère que vous en êtes satisfait."
+
+#: ad-inserter.php:3414
+msgid "Maybe later"
+msgstr "Peut-être plus tard"
+
+#: ad-inserter.php:3410
+msgid "Please help me to solve a problem first"
+msgstr "Aidez-moi dʼabord à résoudre un problème"
+
+#: ad-inserter.php:599
+msgctxt "Menu item"
+msgid "Show Log"
+msgstr "Afficher le journal"
+
+#: settings.php:5907
+msgctxt "Rate Ad Inserter"
+msgid "Rate"
+msgstr "Évaluer"
+
+#: settings.php:5907
+msgid "If you like Ad Inserter and have a moment, please help me spread the word by rating the plugin on WordPres"
+msgstr "Si vous aimez Ad Inserter et que vous avez un moment, aidez-moi à passer le mot en notant lʼextension sur WordPress"
+
+#: settings.php:2734
+msgid "Block name class"
+msgstr "Classe de nom de bloc"
+
+#: settings.php:2734
+msgid "Include block name class"
+msgstr "Inclure la classe de nom de bloc"
+
+#: settings.php:2629
+msgid "When enabled, Ad Inserter will wait for jQuery library to be loaded before it will run the scripts that may need it"
+msgstr "Lorsquʼil est activé, Ad Inserter attend le chargement de la bibliothèque jQuery avant dʼexécuter les scripts qui peuvent en avoir besoin"
+
+#. translators: disable feature
+#: settings.php:185 settings.php:2626
+msgid "Wait for jQuery"
+msgstr "Attendre jQuery"
+
+#. translators: %s: HTML tags for text and link
+#: settings.php:2500
+msgid "%s WARNING: %s Settings Filter or Max insertions can't work with %s Client-side %s insertion. Use %s Server-side %s insertion."
+msgstr "%s Avertissement : Le filtre de réglages %s ou les insertions maximales ne peuvent pas fonctionner avec lʼinsertion %s côté client %s. Utilisez lʼinsertion %s côté serveur %s."
+
+#: settings.php:1930 settings.php:1953 settings.php:1976 settings.php:1999
+#: settings.php:2022 settings.php:2045 settings.php:2068 settings.php:2090
+#: settings.php:2112
+msgid "Click to select black or white list"
+msgstr "Cliquez pour sélectionner la liste noire ou blanche"
+
+#: settings.php:1619
+msgid "Page position where the code for client-side insertion will be inserted."
+msgstr "Position de la page où le code dʼinsertion côté client sera inséré."
+
+#: settings.php:1618
+msgid "Code position"
+msgstr "Position du code"
+
+#. translators: %s: HTML tags
+#: settings.php:373
+msgid "Page is loaded in %s safe mode. %s Not all scripts are loaded."
+msgstr "La page est chargée en mode sans échec %s. %s Tous les scripts ne sont pas chargés."
+
+#: settings.php:371
+msgid "SAFE MODE"
+msgstr "Mode sans échec"
+
+#. translators: %s HTML tags
+#: settings.php:6218
+msgid "Premium support"
+msgstr "Assistance Premium"
+
+#. translators: %s HTML tags
+#: settings.php:6206
+msgid "%s Black/White-list %s categories, tags, taxonomies, users, post IDs, urls, referrers, operating systems, browsers"
+msgstr "%s Liste noire/blanche %s catégories, étiquettes, taxonomies, comptes, ID de publication, URL, référents, systèmes dʼexploitation, navigateurs"
+
+#. translators: %s HTML tags
+#: settings.php:6191
+msgid "Click fraud %s protection %s"
+msgstr "Cliquez sur la protection contre la fraude %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6190
+msgid "Frequency capping - %s limit impressions or clicks %s"
+msgstr "Limitation du nombre dʼexpositions - %s limite dʼimpressions ou de clics %s"
+
+#. translators: %s HTML tags
+#: settings.php:6188
+msgid "%s Public web reports %s for clients, export to PDF"
+msgstr "%s Rapports Web publics %s pour les clients, exportation au format PDF"
+
+#. translators: %s HTML tags
+#: settings.php:6187
+msgid "Internal or external %s tracking %s (via Google Analytics or Matomo)"
+msgstr "Suivi %s interne ou externe %s (via Google Analytics ou Matomo)"
+
+#. translators: %s HTML tags
+#: settings.php:6185
+msgid "Create, edit and check %s ads.txt %s file"
+msgstr "Créer, modifier et vérifier le fichier %s ads.txt %s"
+
+#. Translators: %s: price of Ad Inserter Pro
+#: settings.php:6159
+msgid "Different license types starting from %s"
+msgstr "Différents types de licences à partir de %s"
+
+#. translators: %s: HTML tags
+#: settings.php:6012
+msgid "Become an %s affiliate %s for Ad Inserter Pro and earn commission for each purchase you refer to us"
+msgstr "Devenez un affilié %s %s pour Ad Inserter Pro et gagnez une commission pour chaque achat que vous nous référez"
+
+#: settings.php:5179
+msgid "All static pages"
+msgstr "Toutes les pages statiques"
+
+#: settings.php:5178
+msgid "All posts"
+msgstr "Tous les articles"
+
+#: settings.php:4802
+msgid "Limits"
+msgstr "Limites"
+
+#: settings.php:4801
+msgid "Tracking"
+msgstr "Suivi"
+
+#: settings.php:4796
+msgid "Device detection"
+msgstr "Détection d’appareil"
+
+#: settings.php:4795
+msgid "Exceptions"
+msgstr "Exceptions"
+
+#: settings.php:4380
+msgid "Account ID found in block but not present in ads.txt"
+msgstr "ID de compte trouvé dans le bloc, mais nʼest pas présent dans ads.txt"
+
+#: settings.php:4376
+msgid "Account ID found in block and present in ads.txt"
+msgstr "ID de compte trouvé dans le bloc et présent dans ads.txt"
+
+#: settings.php:4361
+msgid "Certification authority ID"
+msgstr "ID de lʼautorité de certification"
+
+#: settings.php:4359
+msgid "Account ID"
+msgstr "ID de compte"
+
+#: settings.php:4358
+msgid "Advertising system"
+msgstr "Système publicitaire"
+
+#. translators: %s: Ad Inserter
+#: settings.php:4336
+msgid "%s virtual ads.txt file"
+msgstr "%s fichier virtuel ads.txt"
+
+#: settings.php:4330
+msgid "Account IDs found in blocks but not present in the ads.txt file"
+msgstr "ID de compte trouvés dans des blocs, mais ne sont pas présents dans le fichier ads.txt"
+
+#: settings.php:4320
+msgid "file %s not found"
+msgstr "fichier %s introuvable"
+
+#: settings.php:4313
+msgid "NOT WRITABLE"
+msgstr "Non inscriptible"
+
+#: settings.php:4313
+msgid "ads.txt file"
+msgstr "fichier ads.txt"
+
+#: settings.php:4308
+msgid "ads.txt file must be placed on the root domain"
+msgstr "le fichier ads.txt doit être placé sur le domaine racine"
+
+#: settings.php:4308
+msgid "IMPORTANT"
+msgstr "Important"
+
+#. translators: %s: Ad Inserter
+#: settings.php:4300
+msgid "%s virtual file ads.txt not found"
+msgstr "%s fichier virtuel ads.txt introuvable"
+
+#. translators: %s: Ad Inserter
+#: settings.php:4295
+msgid "ads.txt file: %s virtual ads.txt file"
+msgstr "fichier ads.txt : %s fichier virtuel ads.txt"
+
+#: settings.php:4109
+msgid "Reload ads.txt file"
+msgstr "Recharger le fichier ads.txt"
+
+#. translators: %s: ads.txt
+#: settings.php:4101
+msgid "Open %s"
+msgstr "Ouvrir %s"
+
+#: settings.php:4081
+msgid "Switch to virtual ads.txt file"
+msgstr "Passer au fichier virtuel ads.txt"
+
+#: settings.php:4080
+msgid "Switch to physical ads.txt file"
+msgstr "Passer au fichier ads.txt physique"
+
+#: settings.php:3971
+msgid "Position not available because output buffering (tab [*]) is not enabled"
+msgstr "Position non disponible car le tampon de sortie (onglet [*]) nʼest pas activée"
+
+#: settings.php:3912
+msgid "Archive pages"
+msgstr "Pages dʼarchives"
+
+#: settings.php:3907
+msgid "Position"
+msgstr "Position"
+
+#: settings.php:3900
+msgctxt "Button"
+msgid "Check"
+msgstr "Vérification"
+
+#: settings.php:3900
+msgid "Toggle theme checker for available positions for automatic insertion"
+msgstr "Ouvrir/Fermer le vérificateur de thème pour les positions disponibles pour lʼinsertion automatique"
+
+#: settings.php:3897
+msgid "Error checking pages"
+msgstr "Erreur lors de la vérification des pages"
+
+#: settings.php:3896
+msgid "Available positions for current theme"
+msgstr "Positions disponibles pour le thème actuel"
+
+#: settings.php:3326
+msgid "Users which can close the warning message."
+msgstr "Utilisateurs qui peuvent fermer le message dʼavertissement."
+
+#: settings.php:3325
+msgid "Not undismissible for"
+msgstr "Rejetable pour"
+
+#: settings.php:3187
+msgid "Exceptions for global action when ad blocking is detected."
+msgstr "Exceptions pour une action globale lors de la détection dʼun blocage des publicités."
+
+#: settings.php:3186
+msgid "No action for"
+msgstr "Aucune action pour"
+
+#: settings.php:3151
+msgctxt "ad blocking detection"
+msgid "NOT ENABLED"
+msgstr "Pas activé"
+
+#: settings.php:3141
+msgid "Code for ad blocking detection inserted. Click for details."
+msgstr "Code de détection de blocage des publicités inséré. Cliquer pour les détails."
+
+#. translators: %s: HTML tags
+#: settings.php:3092
+msgctxt "code in the footer"
+msgid "NOT ENABLED"
+msgstr "Pas activé"
+
+#: settings.php:3023
+msgctxt "code in the header"
+msgid "NOT ENABLED"
+msgstr "Pas activé"
+
+#: settings.php:2850
+msgid "Enabled means that logged in administrators will see non-cached (live) pages (applies to WP Super Cache, W3 Total Cache and WP Rocket plugins)"
+msgstr "Activé signifie que les administrateurs connectés verront les pages non mises en cache (en direct) (sʼapplique aux extensions WP Super Cache, W3 Total Cache et WP Rocket)"
+
+#: settings.php:2847
+msgid "Disable caching for logged in administrators"
+msgstr "Désactiver la mise en cache pour les administrateurs connectés"
+
+#: settings.php:2187
+msgid "Either show/hide or insert when the page is loaded on wanted viewports"
+msgstr "Afficher/masquer ou insérer lorsque la page est chargée dans les fenêtres d’affichage souhaitées"
+
+#: settings.php:2104
+msgid "Toggle client editor"
+msgstr "Ouvrir/Fermer lʼéditeur de client"
+
+#: settings.php:2101
+msgid "Clients"
+msgstr "Clients"
+
+#. Translators: Do not insert for first X and last Y paragraphs
+#. Translators: Post/Static page must have between X and Y paragraphs
+#: settings.php:1787 settings.php:1813
+msgid "paragraph"
+msgid_plural "paragraphs"
+msgstr[0] "paragraphe"
+msgstr[1] "paragraphes"
+
+#: settings.php:1810
+msgid "Maximum number of paragraphs, leave empty for no limit"
+msgstr "Nombre maximum de paragraphes, laissez vide pour aucune limite"
+
+#: settings.php:1801
+msgid "Minimum number of paragraphs, leave empty for no limit"
+msgstr "Nombre minimum de paragraphes, laissez vide pour aucune limite"
+
+#. translators: inside [HTML tags] elements that contain
+#: settings.php:1725
+msgid "elements that"
+msgstr "éléments qui"
+
+#: settings.php:1716
+msgid "Comma separated HTML tag names of container elements"
+msgstr "Noms des étiquettes HTML séparés par des virgules des éléments de conteneur"
+
+#. translators: inside [HTML tags] elements that contain
+#: settings.php:1710
+msgid "inside"
+msgstr "à lʼintérieur"
+
+#. Translators: %s: HTML tags
+#: settings.php:1761
+msgid "Count inside %s elements"
+msgstr "Compter à lʼintérieur de %s éléments"
+
+#: settings.php:1518
+msgid "Toggle insertion and alignment icons"
+msgstr "Ouvrir/Fermer les icônes dʼinsertion et dʼalignement"
+
+#: settings.php:1500
+msgid "Toggle insertion filter settings"
+msgstr "Ouvrir/Fermer les réglages de filtre dʼinsertion"
+
+#: settings.php:1497
+msgid "Toggle paragraph clearance settings"
+msgstr "Ouvrir/Fermer les réglages de suppression des paragraphes"
+
+#: settings.php:1496
+msgid "Toggle paragraph counting settings"
+msgstr "Ouvrir/Fermer les réglages de comptage des paragraphes"
+
+#: settings.php:1489
+msgid "Insertion Filter Mirror Setting | Comment number or comma separated comment numbers, %N means every N comments, empty means all comments"
+msgstr "Réglage du miroir du filtre dʼinsertion | Numéro de commentaire ou numéros de commentaire séparés par des virgules, %N signifie tous les N commentaires, vide signifie tous les commentaires"
+
+#: settings.php:1488
+msgid "Insertion Filter Mirror Setting | Post number or comma separated post numbers, %N means every N posts, empty means all posts"
+msgstr "Réglage du miroir du filtre dʼinsertion | Numéro dʼarticle ou numéros dʼarticle séparés par des virgules, %N signifie tous les N articles, vide signifie tous les articles"
+
+#: settings.php:1487
+msgid "Insertion Filter Mirror Setting | Excerpt number or comma separated excerpt numbers, %N means every N excerpts, empty means all excerpts"
+msgstr "Réglage du miroir du filtre dʼinsertion | Numéro dʼextrait ou numéros dʼextrait séparés par des virgules, %N signifie tous les N extraits, vide signifie tous les extraits"
+
+#: settings.php:1382
+msgid "No exception for post or static page defined. Block will not be inserted."
+msgstr "Aucune exception pour la publication ou la page statique définie. Le bloc ne sera pas inséré."
+
+#. Translators: Disabled means...
+#: settings.php:1374
+msgid "When individual post/page exceptions are enabled they can be configured on the individual post/page editor page (in the settings below the editor)."
+msgstr "Lorsque les exceptions dʼarticle/page individuelles sont activées, elles peuvent être configurées sur la page individuelle de lʼéditeur dʼarticle/page (dans les réglages sous lʼéditeur)."
+
+#. Translators: Disabled means...
+#: settings.php:1373
+msgid "means the insertion for this block is disabled by default and enabled for exceptions."
+msgstr "signifie que lʼinsertion de ce bloc est désactivée par défaut et activée pour les exceptions."
+
+#. Translators: Enabled means...
+#: settings.php:1372
+msgid "means the insertion for this block is enabled by default and disabled for exceptions."
+msgstr "signifie que lʼinsertion de ce bloc est activée par défaut et désactivée pour les exceptions."
+
+#: settings.php:1364
+msgid "Use exceptions for individual posts or pages to change insertion"
+msgstr "Utiliser des exceptions pour des articles ou des pages individuels pour modifier lʼinsertion"
+
+#: settings.php:1364
+msgid "Enable individual post/page exceptions for insertion of this block. When enabled they can be configured on the individual post/page editor page (in the settings below the editor)."
+msgstr "Activez les exceptions dʼarticle/page individuelles pour lʼinsertion de ce bloc. Lorsquʼils sont activés, ils peuvent être configurés sur la page individuelle de lʼéditeur dʼarticle/page (dans les réglages sous lʼéditeur)."
+
+#: settings.php:1363
+msgid "Enable individual post/page exceptions for insertion of this block. They can be configured on the individual post/page editor page (in the settings below the editor)."
+msgstr "Activez les exceptions dʼarticle/page individuelles pour lʼinsertion de ce bloc. Ils peuvent être configurés sur la page individuelle de lʼéditeur dʼarticle/page (dans les réglages sous lʼéditeur)."
+
+#: settings.php:1351
+msgid "Toggle settings for default insertion and list of individual exceptions"
+msgstr "Permuter les réglages pour lʼinsertion par défaut et la liste des exceptions individuelles"
+
+#: settings.php:1178
+msgctxt "Full width"
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: settings.php:1177
+msgctxt "Full width"
+msgid "Enabled"
+msgstr "Activé"
+
+#: settings.php:1175
+msgid "Full width"
+msgstr "Pleine largeur"
+
+#: settings.php:969
+msgid "Rotation groups"
+msgstr "Groupes de rotation"
+
+#: settings.php:404
+msgid "Group name"
+msgstr "Nom de groupe"
+
+#: settings.php:330
+msgid "List all blocks"
+msgstr "Lister tous les blocs"
+
+#: settings.php:326 settings.php:1330
+msgid "Check theme for available positions for automatic insertion"
+msgstr "Vérifiez le thème pour les positions disponibles pour lʼinsertion automatique"
+
+#: settings.php:323
+msgid "Edit ads.txt file"
+msgstr "Modifier le fichier ads.txt"
+
+#: settings.php:1387
+msgid "Settings for individual exceptions have been updated. Please check all blocks that have exceptions and and then save settings."
+msgstr "Les réglages des exceptions individuelles ont été mis à jour. Veuillez cocher tous les blocs qui ont des exceptions, puis enregistrer les réglages."
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:7785 ad-inserter.php:8105
+msgid "Invalid data received - %s settings not saved."
+msgstr "Données non valides reçues - réglages %s non enregistrés."
+
+#: ad-inserter.php:3729
+msgid "This way you can individually enable or disable blocks on specific posts or pages."
+msgstr "De cette façon, vous pouvez activer ou désactiver individuellement les blocs sur des articles ou des pages spécifiques."
+
+#: ad-inserter.php:3728
+msgid "When individual exceptions for a block are enabled, a checkbox will be listed here to change default insertion for this post or page."
+msgstr "Lorsque des exceptions individuelles pour un blocage sont activées, une case à cocher sera répertoriée ici pour modifier lʼinsertion par défaut pour cet article ou cette page."
+
+#. translators: 1: Ad Inserter Settings (page), 2: Tag / Archive pages
+#: ad-inserter.php:3723
+msgid "Default insertion can be configured for each block on %1$s page - button next to %2$s checkbox."
+msgstr "Lʼinsertion par défaut peut être configurée pour chaque bloc sur la page %1$s - bouton à côté de la case à cocher %2$s."
+
+#. translators: No individual exceptions enabled for pages or posts
+#: ad-inserter.php:3716
+msgid "No block has individual exceptions enabled"
+msgstr "Aucun bloc nʼa activé les exceptions individuelles"
+
+#. translators: Not enabled for pages or posts
+#: ad-inserter.php:3688
+msgid "Not enabled for"
+msgstr "Non activé pour"
+
+#: ad-inserter.php:3686
+msgid "No individual exceptions"
+msgstr "Aucune exception individuelle"
+
+#: ad-inserter.php:3646 settings.php:1370
+msgid "Default insertion"
+msgstr "Insertion par défaut"
+
+#. translators: 1: AMPforWP Plugin Manager, 2: Ad Inserter
+#. translators: 1: AMPforWP Plugin Manager, 2: Ad Inserter, 3, 4: HTML tags
+#: ad-inserter.php:3460 ad-inserter.php:3503
+msgid "Warning: %1$s %3$s disabled %4$s %2$s on AMP pages."
+msgstr "Avertissement : %1$s %3$s a désactivé %4$s %2$s sur les pages AMP."
+
+#: class.php:5809
+msgid "for block"
+msgstr "pour bloc"
+
+#. translators: %s: list parameters and type
+#: class.php:4587
+msgid "clients='%s' type='%s'"
+msgstr "clients=ʼ%sʼ type=ʼ%sʼ"
+
+#. Translators: %s: custom hook name
+#: class.php:2623
+msgid "Custom hook %s call"
+msgstr "Appel du crochet personnalisé %s"
+
+#: strings.php:270
+msgid "Switching to physical ads.txt file will delete virtual ads.txt file."
+msgstr "Le passage au fichier ads.txt physique supprimera le fichier ads.txt virtuel."
+
+#: strings.php:269
+msgid "Use this image"
+msgstr "Utiliser cette image"
+
+#: strings.php:267
+msgid "Select or upload banner image"
+msgstr "Sélectionnez ou téléchargez une image de bannière"
+
+#: strings.php:266
+msgid "Select or upload header image"
+msgstr "Sélectionnez ou téléchargez lʼimage dʼen-tête"
+
+#: strings.php:265
+msgid "Position available"
+msgstr "Position disponible"
+
+#: strings.php:264
+msgid "Theme check | Selected position for automatic insertion might not be not available on this page type"
+msgstr "Vérification du thème | La position sélectionnée pour lʼinsertion automatique peut ne pas être disponible sur ce type de page"
+
+#: strings.php:263
+msgid "Position not available"
+msgstr "Position non disponible"
+
+#: settings.php:3974 strings.php:262
+msgid "Position not checked yet"
+msgstr "Position non encore vérifiée"
+
+#: strings.php:239
+msgid "Switch"
+msgstr "Basculer"
+
+#: strings.php:217
+msgid "Advanced WordPress Ad Management Plugin"
+msgstr "Extension avancée de gestion des publicités WordPress"
+
+#. Translators: %s: Ad Inserter Pro
+#: strings.php:216
+msgid "Impressions and clicks"
+msgstr "Impressions et clics"
+
+#. Translators: %s: Ad Inserter Pro
+#: strings.php:215
+msgid "%s Report"
+msgstr "Rapport %s"
+
+#: strings.php:72
+msgctxt "alignment"
+msgid "No wrapping"
+msgstr "Aucun emballage"
+
+#: strings.php:71
+msgctxt "alignment"
+msgid "Float right"
+msgstr "Flotter à droite"
+
+#: strings.php:70
+msgctxt "alignment"
+msgid "Float left"
+msgstr "Flotter à gauche"
+
+#: strings.php:68
+msgctxt "alignment"
+msgid "Center"
+msgstr "Centré"
+
+#: strings.php:67
+msgctxt "alignment"
+msgid "Right"
+msgstr "À droite"
+
+#: strings.php:66
+msgctxt "alignment"
+msgid "Left"
+msgstr "À gauche"
+
+#: strings.php:55
+msgid "Count only"
+msgstr "Compter seulement"
+
+#: strings.php:54
+msgid "Do not count"
+msgstr "Ne compte pas"
+
+#. translators: %s HTML tags
+#: settings.php:6203
+msgid "Client-side %s mobile device detection %s (works with caching)"
+msgstr "Détection de périphérique mobile %s côté client %s (fonctionne avec la mise en cache)"
+
+#: settings.php:2965 settings.php:2968
+msgid "Enable hook"
+msgstr "Activer crochet"
+
+#: settings.php:2085
+msgid "Comma separated domains, use # for no referrer, you can also use partial domains with * (domain-start*. *domain-pattern*, *domain-end)"
+msgstr "Domaines séparés par des virgules, utilisez # pour aucun référent, vous pouvez également utiliser des domaines partiels avec * (domain-start*. *Domain-pattern*, *domain-end)"
+
+#: settings.php:1474
+msgid "Image number or comma separated image numbers: 1 to N means image number, %N means every N images, empty means all images, 0 means random image, value between 0 and 1 means relative position on the page (0.2 means paragraph at 20% of page images, 0.5 means middle image, 0.9 means paragraph at 90% of page images, etc.), negative number means counting from the opposite direction"
+msgstr "Numéro dʼimage ou numéros dʼimage séparés par des virgules : 1 à N signifie le numéro dʼimage, %N signifie toutes les N images, vide signifie toutes les images, 0 signifie une image aléatoire, une valeur comprise entre 0 et 1 signifie la position relative sur la page (0,2 signifie paragraphe à 20% dʼimages de la page, 0,5 signifie lʼimage du milieu, 0,9 signifie le paragraphe à 90% des images de la page, etc.), un nombre négatif signifie compter dans la direction opposée"
+
+#: ad-inserter.php:4311
+msgid "JAVASCRIPT ERRORS"
+msgstr "Erreurs javascript"
+
+#: ad-inserter.php:4311
+msgid "NO JAVASCRIPT ERRORS"
+msgstr "Aucune erreur javascript"
+
+#: strings.php:261
+msgctxt "Button"
+msgid "Filter"
+msgstr "Filtre"
+
+#: strings.php:260
+msgid "Use filter to limit names in the list"
+msgstr "Utilisez un filtre pour limiter les noms dans la liste"
+
+#: strings.php:259
+msgctxt "Search field placeholder"
+msgid "Filter..."
+msgstr "Filtre..."
+
+#: strings.php:258
+msgctxt "Search field placeholder"
+msgid "Search..."
+msgstr "Chercher..."
+
+#: strings.php:91
+msgctxt "using"
+msgid "images counter"
+msgstr "compteur de images"
+
+#: strings.php:35
+msgid "After image"
+msgstr "Après lʼimage"
+
+#: strings.php:34
+msgid "Before image"
+msgstr "Avant lʼimage"
+
+#: class.php:5806 includes/preview.php:2484 includes/preview.php:2521
+msgid "Code"
+msgstr "Code"
+
+#: class.php:2705
+msgid "Ajax request url, click to open it in a new tab"
+msgstr "URL de la requête Ajax, cliquez pour lʼouvrir dans un nouvel onglet"
+
+#: class.php:2664
+msgid "Ajax request for block in iframe"
+msgstr "Requête Ajax pour le bloc dans iframe"
+
+#: settings.php:3430
+msgid "FOOTER CODE"
+msgstr "Code de pied de page"
+
+#. translators: %s: Ad Inserter
+#: settings.php:3427
+msgid "%s JS CODE"
+msgstr "Code JS %s"
+
+#. translators: %s: PHP tags
+#: settings.php:3420
+msgid "BLOCK PHP CODE"
+msgstr "Bloquer le code PHP"
+
+#: settings.php:3414
+msgid "HEADER CODE"
+msgstr "Code d’en-tête"
+
+#. translators: %s: Ad Inserter
+#: settings.php:3411
+msgid "%s CSS CODE"
+msgstr "Code CSS %s"
+
+#: settings.php:3399
+msgid "Disable insertions"
+msgstr "Désactiver les insertions"
+
+#: settings.php:3395
+msgid "Disable insertion of all blocks"
+msgstr "Désactiver lʼinsertion de tous les blocs"
+
+#: settings.php:3391
+msgid "Disable PHP code processing (in all blocks including header and footer code)"
+msgstr "Désactiver le traitement du code PHP (dans tous les blocs, y compris le code dʼen-tête et de pied de page)"
+
+#. translators: %s: Ad Inserter
+#: settings.php:3383
+msgid "Disable %s CSS code"
+msgstr "Désactiver le code CSS %s"
+
+#. translators: %s: Ad Inserter
+#: settings.php:3379
+msgid "Disable %s JavaScript code"
+msgstr "Désactiver le code JavaScript %s"
+
+#: settings.php:3375
+msgid "Disable footer code (Footer tab)"
+msgstr "Désactiver le code pied de page (onglet Pied de page)"
+
+#: settings.php:3371
+msgid "Disable header code (Header tab)"
+msgstr "Désactiver le code dʼen-tête (onglet En-tête)"
+
+#: settings.php:3363
+msgid "Force showing admin toolbar for administrators when viewing site. Enable this option when you are logged in as admin and you don't see admin toolbar."
+msgstr "Forcer lʼaffichage de la barre dʼoutils dʼadministration pour les administrateurs lors de lʼaffichage du site. Activez cette option lorsque vous êtes connecté en tant quʼadministrateur et que vous ne voyez pas la barre dʼoutils dʼadministration."
+
+#: settings.php:2373
+msgid "Filter multiple insertions by specifying wanted insertions for this block - single number, comma separated numbers or %N for every N insertions - empty means all insertions / no filter. Set Counter for filter to Auto if you are using only one insertion type."
+msgstr "Filtrez plusieurs insertions en spécifiant les insertions souhaitées pour ce bloc - numéro unique, nombres séparés par des virgules ou %N pour toutes les N insertions - vide signifie toutes les insertions/pas de filtre. Définissez Compteur du filtre sur Auto si vous nʼutilisez quʼun seul type dʼinsertion."
+
+#: settings.php:387
+msgid "Debugging functions enabled - some code is not inserted"
+msgstr "Fonctions de débogage activées - du code nʼest pas inséré"
+
+#: settings.php:385
+msgid "To disable debugging functions and to enable insertions go to tab [*] / tab Debugging"
+msgstr "Pour désactiver les fonctions de débogage et activer les insertions, allez dans lʼonglet [*]/onglet Débogage"
+
+#: class.php:3005 class.php:3046 class.php:4902 strings.php:293
+msgctxt "Block"
+msgid "HIDDEN"
+msgstr "Masqué"
+
+#: class.php:3053 class.php:4905 strings.php:292
+msgctxt "Block"
+msgid "VISIBLE"
+msgstr "Visible"
+
+#: strings.php:308
+msgid "SELECTOR"
+msgstr "Sélecteur"
+
+#: strings.php:307
+msgid "PATH"
+msgstr "Chemin"
+
+#: strings.php:306
+msgid "ELEMENT"
+msgstr "Élément"
+
+#: strings.php:305
+msgid "Use current selector"
+msgstr "Utiliser le sélecteur de courant"
+
+#: strings.php:304
+msgid "CSS selector"
+msgstr "Sélecteur CSS"
+
+#: strings.php:303
+msgid "Select parent element"
+msgstr "Sélectionnez lʼélément parent"
+
+#: strings.php:302
+msgid "Cancel element selection"
+msgstr "Annuler la sélection dʼéléments"
+
+#: strings.php:300
+msgid "Add"
+msgstr "Ajouter"
+
+#: strings.php:256
+msgid "Error reloading settings"
+msgstr "Erreur lors du rechargement des réglages"
+
+#: strings.php:255
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: strings.php:253
+msgid "Updating..."
+msgstr "Mise à jour..."
+
+#: strings.php:252
+msgid "update error"
+msgstr "erreur de mise à jour"
+
+#: strings.php:251
+msgid "download error"
+msgstr "erreur de téléchargement"
+
+#: strings.php:250
+msgid "downloading..."
+msgstr "téléchargement..."
+
+#: strings.php:248
+msgid "Cancel block order rearrangement"
+msgstr "Annuler la réorganisation de lʼordre des blocs"
+
+#. translators: %s: dates
+#: strings.php:246
+msgid "Delete statistics data between %s and %s?"
+msgstr "Supprimer les données statistiques entre %s et %s ?"
+
+#: strings.php:242
+msgid "Delete all statistics data?"
+msgstr "Supprimer toutes les données statistiques  ?"
+
+#: strings.php:237
+msgid "Delete"
+msgstr "Supprimer"
+
+#: settings.php:4300 settings.php:4320 strings.php:236
+msgid "Warning"
+msgstr "Avertissement"
+
+#: strings.php:230 strings.php:231 strings.php:232 strings.php:233
+#: strings.php:234 strings.php:235
+msgid "day"
+msgid_plural "days"
+msgstr[0] "jour"
+msgstr[1] "jours"
+
+#: strings.php:229
+msgid "Invalid date range - only data for 1 year can be displayed"
+msgstr "Plage de dates non valide - seules les données pour 1 an peuvent être affichées"
+
+#: strings.php:228
+msgid "Invalid start date - only data for 1 year back is available"
+msgstr "Date de début incorrecte - seules les données remontant à 1 an sont disponibles"
+
+#: strings.php:227
+msgid "Invalid end date - must be after start date"
+msgstr "Date de fin non valide - doit être postérieure à la date de début"
+
+#: strings.php:226
+msgid "Duration"
+msgstr "Durée"
+
+#: strings.php:225
+msgid "Insertion expired"
+msgstr "Lʼinsertion a expiré"
+
+#: strings.php:223
+msgctxt "Button"
+msgid "Hide"
+msgstr "Masquer"
+
+#: strings.php:205
+msgctxt "size"
+msgid "Fixed by viewport"
+msgstr "Fixé par le viewport"
+
+#: strings.php:204
+msgctxt "size"
+msgid "Responsive"
+msgstr "Responsive"
+
+#: strings.php:203
+msgctxt "size"
+msgid "Fixed"
+msgstr "Fixée"
+
+#: strings.php:200
+msgid "Below the fold"
+msgstr "Sous le pli"
+
+#: strings.php:199
+msgid "Above the fold"
+msgstr "Au-dessus du pli"
+
+#: strings.php:198
+msgctxt "AMP ad"
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: strings.php:195
+msgctxt "AdSense Ad Type"
+msgid "Auto Ads"
+msgstr "Annonces automatiques"
+
+#: strings.php:194
+msgctxt "AdSense Ad Type"
+msgid "Matched content"
+msgstr "Contenu correspondant"
+
+#: strings.php:193
+msgctxt "AdSense Ad Type"
+msgid "In-feed"
+msgstr "Dans le flux"
+
+#: strings.php:192
+msgctxt "AdSense Ad Type"
+msgid "In-article"
+msgstr "Dans lʼarticle"
+
+#: strings.php:191
+msgctxt "AdSense Ad Type"
+msgid "Link"
+msgstr "Lien"
+
+#: strings.php:190
+msgctxt "AdSense Ad Type"
+msgid "Standard"
+msgstr "Standard"
+
+#: strings.php:188
+msgid "Bottom left"
+msgstr "En bas à gauche"
+
+#: strings.php:187
+msgid "Bottom right"
+msgstr "En bas à droite"
+
+#: strings.php:186
+msgid "Top left"
+msgstr "En haut à gauche"
+
+#: strings.php:185
+msgid "Top right"
+msgstr "En haut à droite"
+
+#: strings.php:179
+msgctxt "detection"
+msgid "Advanced"
+msgstr "Avancée"
+
+#: strings.php:178
+msgctxt "tracking"
+msgid "Internal"
+msgstr "Interne"
+
+#: strings.php:176
+msgctxt "Action when ad blocking detected"
+msgid "Hide"
+msgstr "Masquer"
+
+#: strings.php:175
+msgctxt "Action when ad blocking detected"
+msgid "Show"
+msgstr "Afficher"
+
+#: strings.php:173
+msgid "Do nothing"
+msgstr "Ne fais rien"
+
+#: strings.php:171
+msgid "Redirection"
+msgstr "Redirection"
+
+#: strings.php:170
+msgid "Popup Message"
+msgstr "Message contextuel"
+
+#: strings.php:169
+msgctxt "button"
+msgid "None"
+msgstr "Acun"
+
+#: strings.php:168
+msgctxt "action"
+msgid "None"
+msgstr "Acune"
+
+#: strings.php:166
+msgctxt "functions"
+msgid "Multibyte"
+msgstr "Multibyte"
+
+#: strings.php:165
+msgctxt "detection"
+msgid "Standard"
+msgstr "Standard"
+
+#: strings.php:164
+msgctxt "functions"
+msgid "Standard"
+msgstr "Standard"
+
+#: strings.php:162
+msgid "Insert for posts published outside dates"
+msgstr "Insérer pour les articles publiés en dehors des dates"
+
+#: strings.php:161
+msgid "Insert for posts published between dates"
+msgstr "Insérer pour les articles publiés entre les dates"
+
+#: strings.php:160
+msgid "Insert only"
+msgstr "Insérer seulement"
+
+#: strings.php:159
+msgid "Insert outside dates"
+msgstr "Insérer en dehors des dates"
+
+#: strings.php:158
+msgid "Insert between dates"
+msgstr "Insérer entre les dates"
+
+#: strings.php:157
+msgid "Delay insertion"
+msgstr "Retarder lʼinsertion"
+
+#: strings.php:156
+msgid "Insert immediately"
+msgstr "Insérer immédiatement"
+
+#: strings.php:139
+msgid "Page scrolled (px)"
+msgstr "Page défilée (px)"
+
+#: strings.php:138
+msgid "Page scrolled (%)"
+msgstr "Page défilée (%)"
+
+#: strings.php:137
+msgid "Page loaded"
+msgstr "Page chargé"
+
+#: strings.php:135
+msgid "Turn"
+msgstr "Tour"
+
+#: strings.php:134
+msgid "Zoom Out"
+msgstr "Dézoomer"
+
+#: strings.php:133
+msgid "Zoom In"
+msgstr "Zoom avant"
+
+#: strings.php:132
+msgid "Flip"
+msgstr "Retourner"
+
+#: strings.php:131
+msgid "Slide and Fade"
+msgstr "Glisser et fondre"
+
+#: strings.php:130
+msgid "Slide"
+msgstr "Glissement"
+
+#: strings.php:129
+msgid "Fade"
+msgstr "Fondu"
+
+#: strings.php:127
+msgid "Stick to the bottom"
+msgstr "Épinglé en bas"
+
+#: strings.php:126
+msgid "Scroll with the content"
+msgstr "Faites défiler avec le contenu"
+
+#: strings.php:125
+msgid "Stick to the top"
+msgstr "Épinglé en haut"
+
+#: strings.php:123
+msgid "Stick to the right"
+msgstr "Épinglé à droite"
+
+#: strings.php:122
+msgid "Stick to the content right"
+msgstr "Épinglé à droite du contenu"
+
+#: strings.php:121
+msgid "Stick to the content left"
+msgstr "Épinglé à gauche du contenu"
+
+#: strings.php:120
+msgid "Stick to the left"
+msgstr "Épinglé à gauche"
+
+#: strings.php:117
+msgid "desktop and phone devices"
+msgstr "appareils de bureau et de téléphone"
+
+#: strings.php:116
+msgid "desktop and tablet devices"
+msgstr "appareils de bureau et tablettes"
+
+#: strings.php:115
+msgid "phone devices"
+msgstr "appareils téléphoniques"
+
+#: strings.php:114
+msgid "tablet devices"
+msgstr "tablettes"
+
+#: strings.php:113
+msgid "mobile devices"
+msgstr "appareils mobiles"
+
+#: strings.php:112
+msgid "desktop devices"
+msgstr "appareils de bureau"
+
+#: strings.php:110
+msgid "Replace element"
+msgstr "Remplacer lʼélément"
+
+#: strings.php:104
+msgctxt "Insertion"
+msgid "Server-side using W3 Total Cache"
+msgstr "Côté serveur utilisant W3 Total Cache"
+
+#: strings.php:103
+msgctxt "Dynamic blocks"
+msgid "Client-side insert"
+msgstr "Insértion côté client"
+
+#: strings.php:102
+msgctxt "Dynamic blocks"
+msgid "Client-side show"
+msgstr "Afficher côté client"
+
+#: strings.php:101
+msgctxt "Insertion"
+msgid "Client-side"
+msgstr "Côté client"
+
+#: strings.php:100
+msgid "Server-side"
+msgstr "Du côté serveur"
+
+#: strings.php:98
+msgctxt "static pages"
+msgid "Individually enabled"
+msgstr "Activées individuellement"
+
+#: strings.php:97
+msgctxt "static pages"
+msgid "Individually disabled"
+msgstr "Désactivées individuellement"
+
+#: strings.php:95
+msgctxt "posts"
+msgid "Individually enabled"
+msgstr "Activés individuellement"
+
+#: strings.php:94
+msgctxt "posts"
+msgid "Individually disabled"
+msgstr "Désactivés individuellement"
+
+#: strings.php:90
+msgctxt "using"
+msgid "comments counter"
+msgstr "compteur de commentaires"
+
+#: strings.php:89
+msgctxt "using"
+msgid "paragraphs counter"
+msgstr "compteur de paragraphes"
+
+#: strings.php:88
+msgctxt "using"
+msgid "posts counter"
+msgstr "compteur de articles"
+
+#: strings.php:87
+msgctxt "using"
+msgid "subpages counter"
+msgstr "compteur de sous-pages"
+
+#: strings.php:86
+msgctxt "using"
+msgid "widget drawing counter"
+msgstr "compteur de dessin de widget"
+
+#: strings.php:85
+msgctxt "using"
+msgid "after post processing counter"
+msgstr "après le compteur dʼarticle-traitement"
+
+#: strings.php:84
+msgctxt "using"
+msgid "before post processing counter"
+msgstr "avant le compteur dʼarticle-traitement"
+
+#: strings.php:83
+msgctxt "using"
+msgid "excerpt processing counter"
+msgstr "compteur de traitement dʼextrait"
+
+#: strings.php:82
+msgctxt "using"
+msgid "content processing counter"
+msgstr "compteur de traitement de contenu"
+
+#: strings.php:81
+msgctxt "using"
+msgid "PHP function calls counter"
+msgstr "Compteur dʼappels de fonction PHP"
+
+#: strings.php:80
+msgctxt "using"
+msgid "auto counter"
+msgstr "compteur automatique"
+
+#: strings.php:78
+msgctxt "alignment"
+msgid "Sticky"
+msgstr "Épinglé"
+
+#: strings.php:77
+msgid "Sticky bottom"
+msgstr "Collante en bas"
+
+#: strings.php:76
+msgid "Sticky top"
+msgstr "Collante en haut"
+
+#: strings.php:75
+msgid "Sticky right"
+msgstr "Collante à droite"
+
+#: strings.php:74
+msgid "Sticky left"
+msgstr "Collante à gauche"
+
+#: strings.php:73
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: strings.php:65
+msgctxt "alignment"
+msgid "Default"
+msgstr "Par défaut"
+
+#: strings.php:63
+msgid "White list"
+msgstr "Liste blanche"
+
+#: strings.php:62
+msgid "Black list"
+msgstr "Liste noire"
+
+#: strings.php:60
+msgctxt "insert for"
+msgid "administrators"
+msgstr "administrateurs"
+
+#: strings.php:59
+msgctxt "insert for"
+msgid "not logged in users"
+msgstr "utilisateurs non connectés"
+
+#: strings.php:58
+msgctxt "insert for"
+msgid "logged in users"
+msgstr "utilisateurs connectés"
+
+#: strings.php:57
+msgctxt "insert for"
+msgid "all users"
+msgstr "tous les utilisateurs"
+
+#: strings.php:52
+msgctxt "paragraphs"
+msgid "do not contain"
+msgstr "ne contient pas"
+
+#: strings.php:51
+msgctxt "paragraphs"
+msgid "contain"
+msgstr "contient"
+
+#: strings.php:49
+msgid "from bottom"
+msgstr "du bas"
+
+#: strings.php:48
+msgid "from top"
+msgstr "de haut"
+
+#: strings.php:46
+msgid "below and then above"
+msgstr "dessous puis en dessus"
+
+#: strings.php:45
+msgid "above and then below"
+msgstr "dessus puis en dessous"
+
+#: strings.php:44
+msgid "below"
+msgstr "au dessous de"
+
+#: strings.php:43
+msgid "above"
+msgstr "au-dessus"
+
+#: strings.php:41
+msgid "try to shift position"
+msgstr "essayez de changer de position"
+
+#: strings.php:40
+msgid "do not insert"
+msgstr "ne pas insérer"
+
+#: strings.php:33
+msgid "Inside HTML element"
+msgstr "À lʼintérieur du élément HTML"
+
+#: strings.php:32
+msgid "After HTML element"
+msgstr "Après lʼélément HTML"
+
+#: strings.php:31
+msgid "Before HTML element"
+msgstr "Avant lʼélément HTML"
+
+#: strings.php:29
+msgid "Above header"
+msgstr "Au-dessus de lʼen-tête"
+
+#: strings.php:28
+msgid "After comments"
+msgstr "Après les commentaires"
+
+#: strings.php:27
+msgid "Between comments"
+msgstr "Entre les commentaires"
+
+#: strings.php:26
+msgid "Before comments"
+msgstr "Avant les commentaires"
+
+#: class.php:2603 strings.php:25
+msgid "Between posts"
+msgstr "Entre les articles"
+
+#: strings.php:24
+msgid "After excerpt"
+msgstr "Après lʼextrait"
+
+#: strings.php:23
+msgid "Before excerpt"
+msgstr "Avant lʼextrait"
+
+#: strings.php:22
+msgid "After paragraph"
+msgstr "Après le paragraphe"
+
+#: strings.php:21
+msgid "Before paragraph"
+msgstr "Avant le paragraphe"
+
+#: strings.php:20
+msgid "After content"
+msgstr "Après le contenu"
+
+#: strings.php:19
+msgid "Before content"
+msgstr "Avant le contenu"
+
+#: strings.php:13
+msgid "Insert"
+msgstr "Insérer"
+
+#: strings.php:11
+msgctxt "ad-inserter"
+msgid "Group"
+msgstr "Groupe"
+
+#: strings.php:9
+msgctxt "Viewport name"
+msgid "Phone"
+msgstr "Téléphone"
+
+#: strings.php:8
+msgctxt "Viewport name"
+msgid "Tablet"
+msgstr "Tablette"
+
+#: strings.php:7
+msgctxt "Viewport name"
+msgid "Desktop"
+msgstr "Ordinateur"
+
+#: strings.php:5
+msgid ""
+"<p><strong>Blocked because of Ad Blocker</strong></p>\n"
+"<p>It seems that you are using some ad blocking software which is preventing the page from fully loading. Please whitelist this website or disable ad blocking software.</p>"
+msgstr ""
+"<p><strong>Bloqué en raison du bloqueur de publicités</strong></p>\n"
+"<p>Il semble que vous utilisez un logiciel de blocage des publicités qui empêche la page de se charger complètement. Veuillez ajouter ce site Web à la liste blanche ou désactiver le logiciel de blocage des publicités.</p>"
+
+#: strings.php:4
+msgid "Advertisements"
+msgstr "Annonces"
+
+#: includes/editor.php:71
+msgid "Visual Code Editor"
+msgstr "Éditeur de code visuel"
+
+#: includes/preview.php:2857
+msgid ""
+"This is a preview of the code for sticky ads. Here you can test various horizontal and vertical alignments, close button locations, visually edit margin values\n"
+"or write CSS code directly and watch live preview. Highlight button highlights background, margin and code area, while Reset button restores all the values to those of the current block."
+msgstr ""
+"Ceci est un aperçu du code pour les publicités épinglées. Ici, vous pouvez tester divers alignements horizontaux et verticaux, emplacement des boutons fermer, modifier visuellement les valeurs de marge\n"
+"ou écrivez directement du code CSS et regardez un aperçu en direct. Le bouton de surbrillance met en évidence lʼarrière-plan, la marge et la zone de code, tandis que le bouton de réinitialisation restaure toutes les valeurs à celles du bloc actuel."
+
+#: includes/preview.php:2851 includes/preview.php:2865
+#: includes/preview.php:2875 includes/preview.php:2885
+#: includes/preview.php:2895
+msgid ""
+"Few very important things you need to know in order to insert code and display some ad:\n"
+"Enable and use at least one insertion option (Automatic insertion, Widget, Shortcode, PHP function call).\n"
+"Enable insertion on at least one WordPress page type (Posts, Static pages, Homepage, Category pages, Search pages, Archive pages).\n"
+"Single pages (posts and static pages) have also additional setting for individual exceptions. Use default blank value unless you are using individual post/page exceptions."
+msgstr ""
+"Peu de choses très importantes que vous devez savoir a fin de insérer du code et afficher une annonce :\n"
+"Activez et utilisez au moins une option dʼinsertion (insertion automatique, widget, code court, appel de fonction PHP).\n"
+"Activez lʼinsertion sur au moins un type de page WordPress (publication, pages statiques, page dʼaccueil, pages de catégories, pages de recherche, pages dʼarchives).\n"
+"Les pages uniques (publications et pages statiques) ont également des réglages supplémentaires pour les exceptions individuelles. Utilisez la valeur vide par défaut, sauf si vous utilisez des exceptions de publication/page individuelles."
+
+#: includes/preview.php:2846 includes/preview.php:2860
+#: includes/preview.php:2870 includes/preview.php:2880
+#: includes/preview.php:2890
+msgid ""
+"Ad Inserter can be configured to insert any code anywhere on the page. Each code with it's settings is called a block.\n"
+"Free Ad Inserter supports 16 blocks, Ad Inserter Pro supports up to 96 blocks (depending on the license type).\n"
+"The settings page is divided into tabs - 16 blocks and general plugin settings. Black number means inactive block (code is not inserted anywhere),\n"
+"red number means block is using automatic insertion, blue number means block is using manual insertion while violet number means block is using automatic and manual insertion."
+msgstr ""
+"Ad Inserter peut être configuré pour insérer nʼimporte quel code nʼimporte où sur la page. Chaque code avec ses réglages est appelé un bloc.\n"
+"Free Ad Inserter prend en charge 16 blocs, Ad Inserter Pro prend en charge jusquʼà 96 blocs (selon le type de licence).\n"
+"La page des réglages est divisée en onglets - 16 blocs et réglages généraux de lʼextension. Le nombre noir signifie un bloc inactif (le code nʼest inséré nulle part),\n"
+"le nombre rouge signifie que le bloc utilise lʼinsertion automatique, le nombre bleu signifie que le bloc utilise lʼinsertion manuelle tandis que le nombre violet signifie que le bloc utilise lʼinsertion automatique et manuelle."
+
+#: includes/preview.php:2841
+msgid ""
+"Please note that the code, block name, alignment and style are taken from the current block settings (may not be saved).\n"
+"<strong>No wrapping</strong> style inserts the code as it is so margin and padding can't be set. However, you can use own HTML code for the block."
+msgstr ""
+"Veuillez noter que le code, le nom du bloc, lʼalignement et le style sont tirés des réglages de bloc actuels (peuvent ne pas être enregistrés).\n"
+"Le style <strong> Aucun emballage </strong> insère le code car il est impossible de définir une marge et un remplissage. Cependant, vous pouvez utiliser votre propre code HTML pour le bloc."
+
+#: includes/preview.php:2839
+msgid ""
+"You can resize the window (and refresh the page to reload ads) to check display with different screen widths.\n"
+"Once you are satisfied with alignment click on the Use button and the settings will be copied to the active block."
+msgstr ""
+"Vous pouvez redimensionner la fenêtre (et actualiser la page pour recharger les publicités) pour vérifier lʼaffichage avec différentes largeurs dʼécran.\n"
+"Une fois que vous êtes satisfait de lʼalignement, cliquez sur le bouton Utiliser et les réglages seront copiés dans le bloc actif."
+
+#: includes/preview.php:2833
+msgid "This is a preview of AdSense ad block between dummy paragraphs. AdSense ad code was loaded from your AdSense account. The ad block is displayed on a dummy page so it may be blank (no ads). Click on the Highlight button to highlight ad block."
+msgstr "Ceci est un aperçu du bloc dʼannonces AdSense entre les paragraphes factices. Le code dʼannonce AdSense a été chargé à partir de votre compte AdSense. Le bloc dʼannonces est affiché sur une page factice, il peut donc être vide (pas dʼannonces). Cliquez sur le bouton Mettre en évidence pour mettre en évidence le bloc dʼannonces."
+
+#: includes/preview.php:2831
+msgid "This is a preview of the saved block between dummy paragraphs. It shows the code with the alignment and style as it is set for this block. Highlight button highlights background, wrapping div margin and code area."
+msgstr "Ceci est un aperçu du bloc enregistré entre les paragraphes factices. Il montre le code avec lʼalignement et le style tels quʼils sont définis pour ce bloc. Le bouton de mise en évidence met en évidence lʼarrière-plan, la marge de la div dʼemballage et la zone de code."
+
+#: includes/preview.php:2828
+msgid ""
+"This is a preview of the code between dummy paragraphs. Here you can test various block alignments, visually edit margin and padding values of the wrapping div\n"
+"or write CSS code directly and watch live preview. Highlight button highlights background, wrapping div margin and code area, while Reset button restores all the values to those of the current block."
+msgstr ""
+"Ceci est un aperçu du code entre les paragraphes factices. Ici, vous pouvez tester divers alignements de blocs, modifier visuellement les valeurs de marge et de remplissage de la div dʼemballage\n"
+"ou écrivez directement du code CSS et regardez un aperçu en direct. Le bouton Mettre en surbrillance met en évidence lʼarrière-plan, la marge de la div dʼemballage et la zone de code, tandis que le bouton Réinitialiser restaure toutes les valeurs à celles du bloc actuel."
+
+#: includes/preview.php:2744
+msgid "Animate"
+msgstr "Animer"
+
+#: includes/preview.php:2731
+msgid "Animation"
+msgstr "Animation"
+
+#: includes/preview.php:2720
+msgid "Vertical margin"
+msgstr "Marge verticale"
+
+#: includes/preview.php:2676
+msgid "Vertical position"
+msgstr "Position verticale"
+
+#: includes/preview.php:2668
+msgid "Horizontal margin"
+msgstr "Marge horizontale"
+
+#: includes/preview.php:2616
+msgid "Horizontal position"
+msgstr "Position horizontale"
+
+#: includes/preview.php:2515 includes/preview.php:2522
+msgid "background"
+msgstr "arriére-plan"
+
+#: includes/preview.php:2510
+msgid "wrapping div"
+msgstr "div dʼemballage"
+
+#: includes/preview.php:2441
+msgid "AdSense ad unit"
+msgstr "Bloc dʼannonces AdSense"
+
+#: includes/editor.php:5 includes/preview.php:2426
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: includes/preview.php:2426
+msgid "Reset to block settings"
+msgstr "Réinitialiser les réglages de bloc"
+
+#: includes/preview.php:2423
+msgid "Highlight"
+msgstr "Surbrillance"
+
+#: includes/preview.php:2423
+msgid "Highlight inserted code"
+msgstr "Mettre le code inséré en surbrillance"
+
+#: includes/preview.php:299
+msgid "Code Preview"
+msgstr "Aperçu du code"
+
+#: includes/preview.php:299
+msgid "Sticky Code Preview"
+msgstr "Aperçu du code Épinglé"
+
+#: includes/editor.php:261 includes/preview-adb.php:303
+#: includes/preview.php:2417
+msgid "PAGE BLOCKED"
+msgstr "Page bloquée"
+
+#: includes/editor.php:259 includes/preview-adb.php:301
+#: includes/preview.php:2415
+msgid "This page was not loaded properly. Please check browser, plugins and ad blockers."
+msgstr "Cette page nʼa pas été chargée correctement. Veuillez vérifier le navigateur, les extensions et les bloqueurs de publicités."
+
+#: includes/preview-adb.php:60
+msgid "Ad Blocking Detected Message Preview"
+msgstr "Aperçu du message de détection du blocage des publicités"
+
+#: includes/preview-adb.php:9
+msgctxt "Button "
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/preview-adb.php:9 includes/preview.php:2428
+msgid "Close preview window"
+msgstr "Fermer la fenêtre dʼaperçu"
+
+#: includes/preview-adb.php:8
+msgctxt "Button"
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/preview-adb.php:8
+msgid "Reset to the default settings"
+msgstr "Rétablir les réglages par défaut"
+
+#: includes/preview-adb.php:7
+msgctxt "Button"
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: includes/preview-adb.php:7
+msgid "Reset to the saved settings"
+msgstr "Réinitialiser les réglages enregistrés"
+
+#: includes/preview-adb.php:6
+msgctxt "Button"
+msgid "Use"
+msgstr "Utiliser"
+
+#: includes/preview-adb.php:6 includes/preview.php:2425
+msgid "Use current settings"
+msgstr "Utiliser les réglages actuels"
+
+#: includes/preview-adb.php:5
+msgid "Remove dummy paragraph"
+msgstr "Supprimer le paragraphe factice"
+
+#: includes/preview-adb.php:4
+msgid "Add dummy paragraph"
+msgstr "Ajouter un paragraphe factice"
+
+#: includes/placeholders.php:425
+msgid ""
+"Ad Inserter has a simple code generator for banners and placeholders.\n"
+"You can select banner image (or placeholder), optionally define link (web page address that will open when the banner will be clicked) and select whether to open link in a new tab."
+msgstr ""
+"Ad Inserter dispose dʼun générateur de code simple pour les bannières et les textes indicatifs.\n"
+"Vous pouvez sélectionner lʼimage de la bannière (ou lʼespace réservé), éventuellement définir le lien (adresse de la page Web qui sʼouvrira lorsque la bannière sera cliquée) et choisir dʼouvrir ou non le lien dans un nouvel onglet."
+
+#: includes/placeholders.php:422
+msgid ""
+"Code generator for banners and AdSense generates the code only when you click on the button Generate code.\n"
+"It is a tool that can help you to create code for AdSense or banners with links. So if you are using rotation editor and switch between options, you need to (optionally) import and generate code for each rotation option."
+msgstr ""
+"Le générateur de code pour les bannières et AdSense génère le code uniquement lorsque vous cliquez sur le bouton Générer du code.\n"
+"Cʼest un outil qui peut vous aider à créer du code pour AdSense ou des bannières avec des liens. Donc, si vous utilisez lʼéditeur de rotation et basculez entre les options, vous devez (éventuellement) importer et générer du code pour chaque option de rotation."
+
+#: includes/placeholders.php:419
+msgid ""
+"<strong>Please note</strong>: if you have active rotation editor the code window shows only the code for the currently selected option.\n"
+"Therefore, code generator will in such case import or generate code for the currently selected option."
+msgstr ""
+"<strong>Remarque</strong> : si vous avez un éditeur de rotation actif, la fenêtre de code nʼaffiche que le code de lʼoption actuellement sélectionnée.\n"
+"Par conséquent, le générateur de code importera ou générera dans ce cas du code pour lʼoption actuellement sélectionnée."
+
+#: includes/placeholders.php:415
+msgid ""
+"Choose between common ad sizes 300x250, 336x280, 728x90, 468x60, 250x250, 300x600 or define custom size.\n"
+"Default placeholders are gray with size as placeholder text but you can use any color or text you want. Click on <strong>Edit</strong> button to edit placeholder size, color or text.\n"
+"You can also create blank solid color rectangles by clearing placeholder text."
+msgstr ""
+"Choisissez entre les tailles dʼannonces courantes 300x250, 336x280, 728x90, 468x60, 250x250, 300x600 ou définissez une taille personnalisée.\n"
+"Les espaces réservés par défaut sont gris avec la taille comme texte du texte indicatif, mais vous pouvez utiliser la couleur ou le texte de votre choix. Cliquez sur le bouton <strong> Modifier </strong> pour modifier la taille, la couleur ou le texte du texte indicatif.\n"
+"Vous pouvez également créer des rectangles de couleur unie vides en effaçant le texte du texte indicatif."
+
+#: includes/placeholders.php:410
+msgid ""
+"Here you can create a universal placeholder image that can be used in place of ads when they are not available yet.\n"
+"Placeholder images created here will behave as any other image. You can also save them to local computer or server."
+msgstr ""
+"Ici, vous pouvez créer une image du texte indicatif universelle qui peut être utilisée à la place dʼannonces lorsquʼelles ne sont pas encore disponibles.\n"
+"Les images du texte indicatif créées ici se comportent comme nʼimporte quelle autre image. Vous pouvez également les enregistrer sur un ordinateur ou un serveur local."
+
+#: includes/placeholders.php:401
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: includes/placeholders.php:396
+msgid "Text"
+msgstr "Texte"
+
+#: includes/placeholders.php:387 settings.php:1265 settings.php:2430
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/placeholders.php:382 settings.php:1271 settings.php:2434
+msgid "Height"
+msgstr "Hauteur"
+
+#: includes/placeholders.php:377 includes/preview.php:2565 settings.php:2439
+msgid "Background color"
+msgstr "Couleur dʼarriére-plan"
+
+#: includes/placeholders.php:356
+msgid "Placeholder"
+msgstr "Texte indicatif"
+
+#: includes/editor.php:6 includes/placeholders.php:352
+#: includes/preview.php:2428 settings.php:4109 strings.php:240 strings.php:298
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/placeholders.php:352
+msgid "Close placeholder editor"
+msgstr "Fermer lʼéditeur du texte indicatif"
+
+#: includes/placeholders.php:351
+msgid "Edit placeholder size, colors and text"
+msgstr "Modifier la taille du texte indicatif"
+
+#. Translators: %d: constant number
+#: includes/editor.php:4 includes/placeholders.php:350
+#: includes/preview.php:2425 settings.php:2898 settings.php:2909
+#: strings.php:299
+msgid "Use"
+msgstr "Utilisation"
+
+#: includes/placeholders.php:350
+msgid "Select placeholder"
+msgstr "Sélectionnez le texte indicatif"
+
+#: includes/placeholders.php:100
+msgid "Placeholder Editor"
+msgstr "Éditeur du texte indicatif"
+
+#: includes/placeholders.php:17
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: includes/dst/dst.php:1414
+msgctxt "Button"
+msgid "Submit and Deactivate"
+msgstr "Envoyer & désactiver"
+
+#: includes/dst/dst.php:1414
+msgctxt "Button"
+msgid "Just Deactivate"
+msgstr "Désactivez simplement"
+
+#: includes/dst/dst.php:1414
+msgctxt "Button"
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/dst/dst.php:1275
+msgid "Submitting form"
+msgstr "Soumission du formulaire"
+
+#: includes/dst/dst.php:1232
+msgid "Goodbye!"
+msgstr "Au revoir !"
+
+#: includes/dst/dst.php:1231
+msgid "This information will greatly help us to improve the plugin."
+msgstr "Ces informations nous aideront grandement à améliorer lʼextension."
+
+#: includes/dst/dst.php:1230
+msgid "Details (optional)"
+msgstr "Détails (facultatif)"
+
+#: includes/dst/dst.php:1228
+msgid "Don't show this form again"
+msgstr "Ne plus afficher ce formulaire"
+
+#: includes/dst/dst.php:1227
+msgid "Only required temporarily"
+msgstr "Seulement requis temporairement"
+
+#: includes/dst/dst.php:1226
+msgid "Just testing"
+msgstr "Juste des tests"
+
+#: includes/dst/dst.php:1225
+msgid "Installed by mistake"
+msgstr "Installé par erreur"
+
+#: includes/dst/dst.php:1224
+msgid "Found a better plugin"
+msgstr "Jʼai trouvé une meilleure extension"
+
+#: includes/dst/dst.php:1223
+msgid "Doesn't work"
+msgstr "Ne marche pas"
+
+#: includes/dst/dst.php:1222
+msgid "Not the features I wanted"
+msgstr "Pas les fonctionnalités que je voulais"
+
+#: includes/dst/dst.php:1221
+msgid "Lack of documentation"
+msgstr "Manque de documentation"
+
+#: includes/dst/dst.php:1220
+msgid "Set up is too difficult"
+msgstr "La configuration est trop difficile"
+
+#: includes/dst/dst.php:1218
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Avant de désactiver lʼextension, pourriez-vous nous donner rapidement la raison pour laquelle vous le faites ?"
+
+#: includes/dst/dst.php:1217
+msgid "Sorry to see you go"
+msgstr "Désolé de vous voir partir"
+
+#: includes/dst/dst.php:1195
+msgid "Thank you for opting in to tracking. Would you like to receive occasional news about this theme, including details of new features and special offers?"
+msgstr "Merci dʼavoir choisi le suivi. Souhaitez-vous recevoir occasionnellement des informations sur ce thème, y compris des détails sur les nouvelles fonctionnalités et offres spéciales ?"
+
+#: includes/dst/dst.php:1193
+msgid "Thank you for opting in to tracking. Would you like to receive occasional news about this plugin, including details of new features and special offers?"
+msgstr "Merci dʼavoir choisi le suivi. Souhaitez-vous recevoir occasionnellement des informations sur cette extension, y compris des détails sur les nouvelles fonctionnalités et les offres spéciales ?"
+
+#: includes/dst/dst.php:1183
+msgid "We don't record any sensitive data, only information regarding the WordPress environment and theme settings, which will help us to make improvements to the theme."
+msgstr "Nous nʼenregistrons aucune donnée sensible, uniquement des informations concernant lʼenvironnement WordPress et les paramètres du thème, ce qui nous aidera à apporter des améliorations au thème."
+
+#: includes/dst/dst.php:1182
+msgid "Thank you for installing our theme. We would like to track its usage on your site. This is completely optional."
+msgstr "Merci dʼavoir installé notre thème. Nous aimerions suivre son utilisation sur votre site. Ceci est complètement facultatif."
+
+#: includes/dst/dst.php:1179
+msgid "We don't record any sensitive data, only information regarding the WordPress environment and plugin settings, which will help us to make improvements to the plugin."
+msgstr "Nous nʼenregistrons aucune donnée sensible, uniquement des informations concernant lʼenvironnement WordPress et lʼutilisation de lʼextension, ce qui nous aidera à apporter des améliorations à lʼextension."
+
+#: includes/dst/dst.php:1178
+msgid "Thank you for installing our plugin. We would like to track its usage on your site. This is completely optional."
+msgstr "Merci dʼavoir installé notre extension. Nous aimerions suivre son utilisation sur votre site. Ceci est complètement facultatif."
+
+#: includes/dst/dst.php:1170
+msgid "We won't record any sensitive data, only information regarding the WordPress environment and theme settings, which will help us to make improvements to the theme."
+msgstr "Nous nʼenregistrons aucune donnée sensible, uniquement des informations concernant lʼenvironnement WordPress et lʼutilisation de lʼextension, ce qui nous aidera à apporter des améliorations à lʼextension."
+
+#: includes/dst/dst.php:1169
+msgid "Thank you for installing our theme. We'd like your permission to track its usage on your site and subscribe you to our newsletter. This is completely optional."
+msgstr "Merci dʼavoir installé notre thème. Nous aimerions votre permission pour suivre son utilisation sur votre site et vous abonner à notre newsletter. Ceci est complètement facultatif."
+
+#: includes/dst/dst.php:1166
+msgid "We won't record any sensitive data, only information regarding the WordPress environment and plugin settings, which will help us to make improvements to the plugin."
+msgstr "Nous nʼenregistrons aucune donnée sensible, uniquement des informations concernant lʼenvironnement WordPress et lʼutilisation de lʼextension, ce qui nous aidera à apporter des améliorations à lʼextension."
+
+#: includes/dst/dst.php:1165
+msgid "Thank you for installing our plugin. We'd like your permission to track its usage on your site and subscribe you to our newsletter. This is completely optional."
+msgstr "Merci dʼavoir installé notre extension. Nous aimerions votre permission pour suivre son utilisation sur votre site et vous abonner à notre newsletter. Ceci est complètement facultatif."
+
+#: includes/dst/dst.php:937
+msgctxt "Button"
+msgid "Do not allow"
+msgstr "Ne pas autoriser"
+
+#: includes/dst/dst.php:935
+msgctxt "Button"
+msgid "Allow"
+msgstr "Autoriser"
+
+#: includes/dst/dst.php:563
+msgid "No plugin data."
+msgstr "Aucunes données de lʼextension."
+
+#: includes/dst/dst.php:369
+msgid "Twice Monthly"
+msgstr "Deux fois par mois"
+
+#: includes/dst/dst.php:365
+msgid "Once Monthly"
+msgstr "Une fois par mois"
+
+#: includes/dst/dst.php:361
+msgid "Once Weekly"
+msgstr "Une fois par semaine"
+
+#: includes/dst/dst.php:356
+msgid "Every minute"
+msgstr "Chaque minute"
+
+#: ad-inserter.php:12624
+msgid "<strong>WARNING</strong>: Please note that saving settings in Ad Inserter will clear all settings that are available only in the Pro version (additional block and plugin settings)!"
+msgstr "<strong>Avertissement</strong> : Veuillez noter que lʼenregistrement des réglages dans Ad Inserter effacera tous les réglages disponibles uniquement dans la version Pro (réglages de bloc et dʼextension supplémentaires) !"
+
+#: ad-inserter.php:12623
+msgid "Ad Inserter can't be used while Ad Inserter Pro is active! To activate Ad Inserter you need to first deactivate Ad Inserter Pro."
+msgstr "Ad Inserter ne peut pas être utilisé tant quʼAd Inserter Pro est actif ! Pour activer Ad Inserter, vous devez dʼabord désactiver Ad Inserter Pro."
+
+#: ad-inserter.php:12572
+msgctxt "Widget"
+msgid "Sticky"
+msgstr "Épinglé"
+
+#: ad-inserter.php:12541
+msgid "Unknown block"
+msgstr "Bloc inconnu"
+
+#. translators: block status (widget title)
+#: ad-inserter.php:12540
+msgid "WIDGET DISABLED"
+msgstr "Widget désactivé"
+
+#. translators: block status (widget title)
+#: ad-inserter.php:12539
+msgctxt "block"
+msgid "PAUSED"
+msgstr "Mis en pause"
+
+#. translators: widget title
+#: ad-inserter.php:12532 ad-inserter.php:12563
+msgid "Debugging tools"
+msgstr "Outils de débogage"
+
+#. translators: widget title
+#: ad-inserter.php:12530 ad-inserter.php:12565
+msgid "Dummy widget"
+msgstr "Widget factice"
+
+#. translators: widget title
+#: ad-inserter.php:12528 ad-inserter.php:12564
+msgid "Processing log"
+msgstr "Journal de traitement"
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:12512
+msgid "%s block."
+msgstr "Bloc %s."
+
+#. translators: Deactivation message: %s: HTML tags
+#: ad-inserter.php:12464
+msgid "Looking for %s Documentation, %s %s Common Settings, %s %s Quick Start %s or help for %s AdSense ads? %s The plugin doesn't work with your theme? %s Let us know %s and we'll try to help you."
+msgstr "Vous recherchez la documentation de %s, les réglages communs de %s %s, le démarrage rapide de %s %s %s ou de lʼaide pour les annonces AdSense %s ? %s Lʼextension ne fonctionne pas avec votre thème ? %s Faites-nous savoir %s et nous essaierons de vous aider."
+
+#: ad-inserter.php:12424
+msgid "We don't record any sensitive data, only information regarding the WordPress environment and plugin usage, which will help us to make improvements to the plugin."
+msgstr "Nous nʼenregistrons aucune donnée sensible, uniquement des informations concernant lʼenvironnement WordPress et lʼutilisation de lʼextension, ce qui nous aidera à apporter des améliorations à lʼextension."
+
+#. translators: Opt-in message: %s: HTML tags
+#: ad-inserter.php:12422
+msgid "We would like to %s track its usage %s on your site. This is completely optional and can be disabled at any time."
+msgstr "Nous aimerions %s suivre son utilisation %s sur votre site. Ceci est complètement facultatif et peut être désactivé à tout moment."
+
+#. translators: Opt-in message: Thank you for installing Ad Inserter (plugin
+#. name with HTML tags will be added)
+#: ad-inserter.php:12420
+msgid "Thank you for installing"
+msgstr "Merci dʼavoir installé"
+
+#: ad-inserter.php:12135
+msgid "Please update!"
+msgstr "Veuillez mettre à jour !"
+
+#: ad-inserter.php:12135
+msgid "requires WordPress 4.6 or newer"
+msgstr "nécessite WordPress 4.6 ou plus récent"
+
+#: ad-inserter.php:8961
+msgid "BETWEEN COMMENTS"
+msgstr "Entre les commentaires"
+
+#: ad-inserter.php:8884
+msgid "AFTER COMMENTS"
+msgstr "Après les commentaires"
+
+#: ad-inserter.php:8755
+msgid "BEFORE COMMENTS"
+msgstr "Avant les commentaires"
+
+#: ad-inserter.php:8549 ad-inserter.php:8676
+msgid "HTML TAGS REMOVED"
+msgstr "Étiquettes HTML supprimées"
+
+#. Translators: Post/Static page must have between X and Y words
+#: ad-inserter.php:8510 ad-inserter.php:8512 ad-inserter.php:8535
+#: settings.php:2405
+msgid "word"
+msgid_plural "words"
+msgstr[0] "mot"
+msgstr[1] "mots"
+
+#: ad-inserter.php:8125
+msgid "Settings cleared."
+msgstr "Réglages effacés."
+
+#: ad-inserter.php:8103
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:8080
+msgid "Error importing settings for block"
+msgid_plural "Error importing settings for blocks:"
+msgstr[0] "Erreur lors de lʼimportation des réglages du bloc"
+msgstr[1] "Erreur lors de lʼimportation des réglages des blocs:"
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:8079
+msgid "Error importing %s settings."
+msgstr "Erreur lors de lʼimportation des réglages %s."
+
+#. translators: block name (block with default settings)
+#: ad-inserter.php:7332
+msgctxt "Block name"
+msgid "Default"
+msgstr "Par défaut"
+
+#: ad-inserter.php:4297
+msgctxt "Footer code"
+msgid "DISABLED"
+msgstr "Désactivé."
+
+#: ad-inserter.php:4297
+msgid "Footer code"
+msgstr "Code de pied de page"
+
+#: ad-inserter.php:4311
+msgid "JAVASCRIPT NOT WORKING"
+msgstr "Javascript ne fonctionne pas"
+
+#: strings.php:295
+msgid "Automatically placed by AdSense Auto ads code"
+msgstr "Placé automatiquement par le code dʼannonces automatiques AdSense"
+
+#: ad-inserter.php:4026 ad-inserter.php:4297
+msgid "character inserted"
+msgid_plural "characters inserted"
+msgstr[0] "caractère inséré"
+msgstr[1] "caractères insérés"
+
+#: ad-inserter.php:4026
+msgctxt "Header code"
+msgid "DISABLED"
+msgstr "Désactivé."
+
+#: ad-inserter.php:4026
+msgid "Header code"
+msgstr "Code d’en-tête"
+
+#: ad-inserter.php:4005
+msgid "character"
+msgid_plural "characters"
+msgstr[0] "caractère"
+msgstr[1] "caractères"
+
+#: ad-inserter.php:4005
+msgid "Code for insertion"
+msgstr "Code à insérer"
+
+#. translators: %s: AdSense Auto Ads
+#: ad-inserter.php:3853
+msgid "Code for %s detected - Code will automatically insert AdSense ads at optimal positions"
+msgstr "Code pour %s détecté - Le code insère automatiquement les annonces AdSense aux positions optimales"
+
+#: ad-inserter.php:3824
+msgid "AD BLOCKING STATUS UNKNOWN"
+msgstr "État de blocage des annonces inconnu"
+
+#: ad-inserter.php:3823
+msgid "Click to delete ad blocking detection cokies"
+msgstr "Cliquez pour supprimer les cookies de détection de blocage des publicités"
+
+#: ad-inserter.php:3806
+msgid "UNKNOWN PAGE TYPE"
+msgstr "Type de page inconnu"
+
+#: ad-inserter.php:3800
+msgid "AJAX CALL"
+msgstr "Appel AJAX"
+
+#: ad-inserter.php:3797
+msgid "ERROR 404 PAGE"
+msgstr "Page erreur 404"
+
+#: ad-inserter.php:3794
+msgid "ARCHIVE PAGE"
+msgstr "Page d’archive"
+
+#: ad-inserter.php:3791
+msgid "SEARCH PAGE"
+msgstr "Page de recherche"
+
+#: ad-inserter.php:3788
+msgid "CATEGORY PAGE"
+msgstr "Catégorie de page"
+
+#: ad-inserter.php:3785
+msgid "HOMEPAGE"
+msgstr "Page d’accueil"
+
+#: ad-inserter.php:3782
+msgid "POST"
+msgstr "Publication"
+
+#: ad-inserter.php:3779
+msgid "STATIC PAGE"
+msgstr "Page statique"
+
+#. translators: Ad Inserter Exceptions documentation page
+#: ad-inserter.php:3733
+msgid "Individual Exceptions"
+msgstr "Exceptions individuelles"
+
+#: ad-inserter.php:3731
+msgid "For more information check page %s"
+msgstr "Pour plus dʼinformations, consultez la page %s"
+
+#. translators: Menu items
+#: ad-inserter.php:3684 ad-inserter.php:3696 strings.php:16
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: ad-inserter.php:3684 ad-inserter.php:3696 strings.php:180
+msgid "Enabled"
+msgstr "Activé"
+
+#: ad-inserter.php:3665
+msgctxt "Enabled/disabled on all"
+msgid "posts"
+msgstr "articles"
+
+#: ad-inserter.php:3662
+msgctxt "Enabled/disabled on all"
+msgid "pages"
+msgstr "pages"
+
+#: ad-inserter.php:3650
+msgctxt "Post"
+msgid "For this"
+msgstr "Pour cet"
+
+#. translators: For this post or page
+#: ad-inserter.php:3649
+msgctxt "Page"
+msgid "For this"
+msgstr "Pour cette"
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:3613
+msgctxt "Meta box name"
+msgid "%s Individual Exceptions"
+msgstr "%s exceptions individuelles"
+
+#: ad-inserter.php:3485
+msgctxt "Menu item"
+msgid "Settings"
+msgstr "Réglages"
+
+#: ad-inserter.php:3437
+msgid "Positive reviews are a great incentive to fix bugs and to add new features for better monetization of your website."
+msgstr "Les avis positifs sont une excellente incitation à corriger les bogues et à ajouter de nouvelles fonctionnalités pour une meilleure monétisation de votre site Web."
+
+#. Translators: 1: number of blocks, 2: Ad Inserter
+#: ad-inserter.php:3407
+msgid "Hey, you are now using %1$s %2$s block."
+msgid_plural "Hey, you are now using %1$s %2$s blocks."
+msgstr[0] "Hé, vous utilisez maintenant le bloc %1$s %2$s."
+msgstr[1] "Hé, vous utilisez maintenant les blocs %1$s %2$s."
+
+#: ad-inserter.php:2945
+msgid "AD BLOCKING DETECTED - NO ACTION"
+msgstr "Blocage des publicités détecté - aucune action"
+
+#: ad-inserter.php:2944
+msgid "AD BLOCKING DETECTION COOKIES DELETED"
+msgstr "Cookies de détection de blocage de publicité supprimés"
+
+#: ad-inserter.php:2943
+msgid "AD BLOCKING NOT DETECTED"
+msgstr "Blocage des publicités non détecté"
+
+#: ad-inserter.php:2942
+msgid "AD BLOCKING DETECTED - ACTION"
+msgstr "Blocage des publicités détecté - action"
+
+#. translators: AD BLOCKING DETECTED, PAGE VIEWS: n - NO ACTION
+#: ad-inserter.php:2941
+msgid "AD BLOCKING DETECTED, COOKIE DETECTED - NO ACTION"
+msgstr "Blocage des publicités détecté, cookie détecté - pas dʼaction"
+
+#. translators: AD BLOCKING DETECTED, PAGE VIEWS: n - NO ACTION
+#: ad-inserter.php:2940
+msgid "NO ACTION"
+msgstr "Aucune action"
+
+#. translators: AD BLOCKING DETECTED, PAGE VIEWS: n - NO ACTION
+#: ad-inserter.php:2940
+msgid "AD BLOCKING DETECTED, PAGE VIEWS"
+msgstr "Blocage des publicités détecté, pages vues"
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:2135 ad-inserter.php:2138 ad-inserter.php:3725
+msgid "%s Settings"
+msgstr "Réglages de %s"
+
+#: ad-inserter.php:1715
+msgctxt "Menu item"
+msgid "Log In"
+msgstr "Sʼidentifier"
+
+#. translators: Debugging position
+#: ad-inserter.php:1381
+msgid "Above Header"
+msgstr "Au-dessus de lʼen-tête"
+
+#. translators: Debugging message when output buffering is enabled
+#: ad-inserter.php:1377
+msgid "OUTPUT BUFFERING"
+msgstr "Tampon de sortie"
+
+#. translators: Debugging position name Replace HTML element
+#: ad-inserter.php:1330 strings.php:174
+msgid "Replace"
+msgstr "Remplacer"
+
+#. translators: Debugging position name Replace content of HTML element
+#: ad-inserter.php:1325 strings.php:109
+msgid "Replace content"
+msgstr "Remplacer le contenu"
+
+#. translators: Debugging position name Append content of HTML element (after
+#. the content of the HTML element)
+#: ad-inserter.php:1320 strings.php:108
+msgid "Append content"
+msgstr "Ajouter du contenu"
+
+#. translators: Debugging position name Prepend content of HTML element (before
+#. the content of the HTML element)
+#: ad-inserter.php:1315 strings.php:107
+msgid "Prepend content"
+msgstr "Mettre le contenu avant"
+
+#. translators: Debugging position name After HTML element
+#: ad-inserter.php:1310
+msgid "After"
+msgstr "Après"
+
+#. translators: Debugging position name Before HTML element
+#: ad-inserter.php:1305
+msgid "Before"
+msgstr "Avant"
+
+#: ad-inserter.php:592
+msgctxt "Menu item"
+msgid "Log Processing"
+msgstr "Traitement des journaux"
+
+#: ad-inserter.php:581
+msgctxt "Menu item"
+msgid "Simulate Ad Blocking"
+msgstr "Simuler le blocage des publicités"
+
+#: ad-inserter.php:574
+msgctxt "Menu item"
+msgid "Ad Blocking Status"
+msgstr "État du blocage des publicités"
+
+#: ad-inserter.php:565
+msgctxt "Menu item"
+msgid "Disable Insertion"
+msgstr "Désactiver lʼinsertion"
+
+#: ad-inserter.php:558
+msgctxt "Menu item"
+msgid "Show HTML Tags"
+msgstr "Afficher les balises HTML"
+
+#: ad-inserter.php:472
+msgctxt "Menu item"
+msgid "Show Positions"
+msgstr "Afficher les positions"
+
+#: ad-inserter.php:440
+msgctxt "Menu item"
+msgid "Debugging DEMO"
+msgstr "Débogage demo"
+
+#: class.php:10447
+msgid "ERROR: class DOMDocument not found. Your webhost needs to install the DOM extension for PHP."
+msgstr "Erreur : classe DOMDocument introuvable. Votre hébergeur web doit installer lʼextension DOM pour PHP."
+
+#: ad-inserter.php:11729 ad-inserter.php:11830
+msgctxt "category name"
+msgid "Uncategorized"
+msgstr "Non classé"
+
+#: class.php:5737 strings.php:287
+msgid "AFTER"
+msgstr "APRÈS"
+
+#: class.php:5726 strings.php:291
+msgid "REPLACE ELEMENT"
+msgstr "Remplacer lʼélément"
+
+#: class.php:5722 strings.php:290
+msgid "REPLACE CONTENT"
+msgstr "Remplacer le contenu"
+
+#: class.php:5718 strings.php:289
+msgid "APPEND CONTENT"
+msgstr "Ajouter du contenu"
+
+#: class.php:5714 strings.php:288
+msgid "PREPEND CONTENT"
+msgstr "Mettre le contenu avant"
+
+#: class.php:5706 strings.php:286
+msgid "BEFORE"
+msgstr "Avant"
+
+#: class.php:2743
+msgctxt "block or widget"
+msgid "INSERTED BUT NOT VISIBLE"
+msgstr "Inséré mais non visible"
+
+#: class.php:2743
+msgid "BLOCK"
+msgstr "Bloc"
+
+#: class.php:2708
+msgid "NO"
+msgstr "Non"
+
+#: class.php:2708
+msgid "YES"
+msgstr "Oui"
+
+#: class.php:2708
+msgid "IN THE LOOP"
+msgstr "Dans la boucle"
+
+#: class.php:2661
+msgid "AJAX REQUEST"
+msgstr "Demande AJAX"
+
+#. translators: %s: list parameters and type
+#: class.php:4786
+msgid "ip addresses='%s' type='%s'"
+msgstr "adresses IP=ʼ%sʼ type=ʼ%sʼ"
+
+#. translators: %s: list parameters and type
+#: class.php:4784
+msgid "countries='%s' type='%s'"
+msgstr "pays=ʼ%sʼ type=ʼ%sʼ"
+
+#. translators: %s: list parameters and type
+#: class.php:4585
+msgid "referers='%s' type='%s'"
+msgstr "référents=ʼ%sʼ type=ʼ%sʼ"
+
+#: class.php:4581
+msgid "parameters='%s' type='%s'"
+msgstr "réglages=ʼ%sʼ type=ʼ%sʼ"
+
+#: class.php:2598 strings.php:18
+msgid "After post"
+msgstr "Après lʼarticle"
+
+#. translators: Menu items
+#: class.php:2593 strings.php:17
+msgid "Before post"
+msgstr "Avant lʼarticle"
+
+#: class.php:2588
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: class.php:2583
+msgid "Content"
+msgstr "Contenu"
+
+#: class.php:2579
+msgid "Counters"
+msgstr "Compteurs"
+
+#. translators: %s: Ad Inserter
+#: class.php:647 class.php:656 class.php:659
+msgid "PHP error in %s block"
+msgstr "Erreur PHP dans le bloc %s"
+
+#. translators: %s HTML tags
+#: settings.php:6274
+msgid "%s Scheduling %s"
+msgstr "%s Planification %s"
+
+#. translators: %s HTML tags
+#: settings.php:6273
+msgid "%s GEO targeting %s"
+msgstr "%s ciblage GEO %s"
+
+#. translators: %s HTML tags
+#: settings.php:6272
+msgid "64 code blocks"
+msgstr "64 blocs de code"
+
+#. translators: %s HTML tags
+#: settings.php:6265
+msgid "%s Mobile device detection %s"
+msgstr "%s Détection des appareils mobile %s"
+
+#. translators: %s HTML tags
+#: settings.php:6264
+msgid "%s Ad blocking detection %s"
+msgstr "%s Détection de blocage des publicités %s"
+
+#. translators: %s HTML tags
+#: settings.php:6263
+msgid "Support for %s AMP pages %s"
+msgstr "Prise en charge des pages AMP %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6257
+msgid "%s Ad tracking %s"
+msgstr "%s Suivi des annonces %s"
+
+#. translators: %s HTML tags
+#: settings.php:6256
+msgid "%s A/B testing %s"
+msgstr "%s Test A/B %s"
+
+#. translators: %s HTML tags
+#: settings.php:6255
+msgid "Ad rotation"
+msgstr "Rotation des annonces"
+
+#. translators: %s HTML tags
+#: settings.php:6249
+msgid "%s Clearance %s options"
+msgstr "Options de liquidation %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6248
+msgid "%s Limit insertions %s"
+msgstr "%s Limiter les insertions %s"
+
+#. translators: %s HTML tags
+#: settings.php:6247
+msgid "%s Sticky positions %s"
+msgstr "%s Positions persistantes %s"
+
+#. translators: %s HTML tags
+#: settings.php:6240
+msgid "Ads between comments"
+msgstr "Annonces entre les commentaires"
+
+#. translators: %s HTML tags
+#: settings.php:6239
+msgid "Ads between posts"
+msgstr "Annonces entre les articles"
+
+#. translators: %s HTML tags
+#: settings.php:6234
+msgid "Looking for %s Pro Ad Management plugin? %s"
+msgstr "Vous recherchez une extension %s pour la gestion professionnelle des annonces ? %s"
+
+#. translators: %s HTML tags
+#: settings.php:6221
+msgid "Ad Inserter Pro is a complete all-in-one ad management plugin for WordPress website with many advertising features to automatically insert adverts on posts and pages. With Ad Inserter Pro you also get <strong>one year of free updates and support via email</strong>. If you find Ad Inserter useful and need ad statistics for impressions and clicks, A/B testing, sticky ads, slider ads, pop-up ads, geotargeting or geolocation to serve country-specific ads, to protect content or to serve different ads for users using ad blockers, multisite options to limit settings for ads, to block some IP addresses, to schedule ads, then you can simply upgrade to %s Ad Inserter Pro %s (existing settings will be preserved)."
+msgstr "Ad Inserter Pro est une extension complet de gestion dʼannonces tout-en-un pour site Web WordPress avec de nombreuses fonctionnalités publicitaires pour insérer automatiquement des publicités sur les articles et les pages. Avec Ad Inserter Pro, vous bénéficiez également dʼun <strong> an de mises à jour gratuites et dʼassistance par e-mail </strong>. Si vous trouvez Ad Inserter utile et avez besoin de statistiques publicitaires pour les impressions et les clics, des tests A/B, des publicités fixes, des publicités à curseur, des publicités pop-up, un ciblage géographique ou une géolocalisation pour diffuser des publicités spécifiques à un pays, protéger le contenu ou diffuser différentes publicités les utilisateurs utilisant des bloqueurs de publicités, des options multisites pour limiter les réglages des publicités, pour bloquer certaines adresses IP, pour planifier des publicités, vous pouvez simplement passer à %s Ad Inserter Pro %s (les réglages existants seront préservés)."
+
+#. translators: %s HTML tags
+#: settings.php:6241
+msgid "Support via email"
+msgstr "Support par e-mail"
+
+#. translators: %s HTML tags
+#: settings.php:6217
+msgid "No ads on the settings page"
+msgstr "Aucune annonce sur la page des réglages"
+
+#. translators: %s HTML tags
+#: settings.php:6216
+msgid "%s Clipboard support %s to easily copy blocks or settings"
+msgstr "%s Prise en charge du presse-papiers %s pour copier facilement des blocs ou des réglages"
+
+#. translators: %s HTML tags
+#: settings.php:6215
+msgid "%s Visualization %s of HTML tags for easier ad placement between paragraphs"
+msgstr "%s Visualisation %s des étiquettes HTML pour faciliter le placement dʼannonces entre les paragraphes"
+
+#. translators: %s HTML tags
+#: settings.php:6214
+msgid "%s Visualization %s of available positions for automatic ad insertion"
+msgstr "%s Visualisation %s des positions disponibles pour lʼinsertion automatique dʼannonces"
+
+#. translators: %s HTML tags
+#: settings.php:6213
+msgid "%s Visualization %s of inserted blocks or ads for easier placement"
+msgstr "%s Visualisation %s des blocs ou annonces insérés pour un placement plus facile"
+
+#. translators: %s HTML tags
+#: settings.php:6212
+msgid "Simple troubleshooting with many %s debugging functions %s"
+msgstr "Dépannage simple avec de nombreuses fonctions de débogage %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6211
+msgid "Country-level %s GEO targeting %s (works also with caching)"
+msgstr "Ciblage GEO %s au niveau du pays %s (fonctionne également avec la mise en cache)"
+
+#. translators: %s HTML tags
+#: settings.php:6210
+msgid "%s Insertion scheduling %s with fallback option"
+msgstr "%s Planification dʼinsertion %s avec option de secours"
+
+#. translators: %s HTML tags
+#: settings.php:6209
+msgid "%s Import/Export %s block or plugin settings"
+msgstr "%s Importer/Exporter les réglages du bloc ou de lʼextension %s"
+
+#. translators: %s HTML tags
+#: settings.php:6208
+msgid "%s Multisite options %s to limit settings on the sites"
+msgstr "%s Options multisites %s pour limiter les réglages sur les sites"
+
+#. translators: %s HTML tags
+#: settings.php:6207
+msgid "%s Black/White-list %s IP addresses or countries (works also with caching)"
+msgstr "%s Adresses IP ou pays de la liste noire/blanche %s (fonctionne également avec la mise en cache)"
+
+#. translators: %s HTML tags
+#: settings.php:6205
+msgid "%s Ad blocking statistics %s"
+msgstr "%s Statistiques de blocage des publicités %s"
+
+#. translators: %s HTML tags
+#: settings.php:6204
+msgid "%s Ad blocking detection %s - popup message, ad replacement, content protection"
+msgstr "%s Détection de blocage des publicités %s - message contextuel, remplacement des publicités, protection du contenu"
+
+#. translators: %s HTML tags
+#: settings.php:6202
+msgid "Desktop, tablet and phone server-side %s device detection %s"
+msgstr "Détection de périphérique %s côté serveur de bureau, tablette et téléphone %s"
+
+#. translators: %s HTML tags
+#: settings.php:6201
+msgid "Support for Google Analytics, Matomo or any other web analytics code"
+msgstr "Prise en charge de Google Analytics, Matomo ou tout autre code dʼanalyse Web"
+
+#. translators: %s HTML tags
+#: settings.php:6200
+msgid "Support for %s header and footer %s code"
+msgstr "Prise en charge du code %s en-tête et pied de page %s"
+
+#. translators: %s HTML tags
+#: settings.php:6199
+msgid "%s Banner %s code generator"
+msgstr "Générateur de code %s Bannière %s"
+
+#. translators: %s HTML tags
+#: settings.php:4794 settings.php:6198
+msgid "PHP code processing"
+msgstr "Traitement de code PHP"
+
+#. translators: %s HTML tags
+#: settings.php:6197
+msgid "Custom CSS class name for wrapping divs to avoid ad blockers"
+msgstr "Nom de classe CSS personnalisé pour envelopper les divs afin dʼéviter les bloqueurs de publicités"
+
+#. translators: %s HTML tags
+#: settings.php:6196
+msgid "Support for contextual %s Amazon Native Shopping Ads %s (responsive)"
+msgstr "Prise en charge des annonces contextuelles %s Amazon Native Shopping %s (réactives)"
+
+#. translators: %s HTML tags
+#: settings.php:6195
+msgid "Support for ads on %s AMP pages %s"
+msgstr "Prise en charge des annonces sur les pages AMP %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6194
+msgid "Support for %s lazy loading %s"
+msgstr "Prise en charge du chargement paresseux %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6189
+msgid "Support for %s A/B testing %s"
+msgstr "Prise en charge des tests A/B %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6186
+msgid "Ad impression and click %s tracking %s (works also with Javascript ads like AdSense)"
+msgstr "Impression dʼannonce et suivi des clics %s %s (fonctionne également avec les annonces Javascript comme AdSense)"
+
+#. translators: %s HTML tags
+#: settings.php:6183
+msgid "%s Ad rotation %s (works also with caching)"
+msgstr "%s Rotation des annonces %s (fonctionne également avec la mise en cache)"
+
+#. translators: %s HTML tags
+#: settings.php:6182
+msgid "Options to %s disable insertion %s on Ajax calls, 404 error pages or in RSS feeds"
+msgstr "Options pour %s désactiver lʼinsertion %s sur les appels Ajax, les pages dʼerreur 404 ou dans les flux RSS"
+
+#. translators: %s HTML tags
+#: settings.php:6181
+msgid "%s Clearance %s options to avoid insertion near images or headers (AdSense TOS)"
+msgstr "%s Dégagement %s options pour éviter lʼinsertion à proximité dʼimages ou dʼen-têtes (AdSense TOS)"
+
+#. translators: %s HTML tags
+#: settings.php:6180
+msgid "Block %s alignment and style %s customizations"
+msgstr "Bloquer lʼalignement de %s et les personnalisations de style %s"
+
+#. translators: %s HTML tags
+#: settings.php:6179
+msgid "%s Sticky (fixed) widgets %s (sidebar does not move when the page scrolls)"
+msgstr "%s Widgets fixes (fixes) %s (la barre latérale ne bouge pas lorsque la page défile)"
+
+#. translators: %s HTML tags
+#: settings.php:6178
+msgid "%s Sticky ad trigger %s (page scroll in %% or px, HTML element becomes visible)"
+msgstr "%s Déclencheur dʼannonce fixe %s (défilement de la page en %% ou px, lʼélément HTML devient visible)"
+
+#. translators: %s HTML tags
+#: settings.php:6177
+msgid "%s Sticky ad animations %s (fade, slide, turn, flip, zoom)"
+msgstr "%s Animations dʼannonces épinglés %s (fondu, glisser, tourner, retourner, zoomer)"
+
+#. translators: %s HTML tags
+#: settings.php:6176
+msgid "%s Sticky sidebar ads %s (stick to the screen or to the content)"
+msgstr "%s Publicités épinglées de la barre latérale %s (coller à lʼécran ou au contenu)"
+
+#. translators: %s HTML tags
+#: settings.php:6174
+msgid "%s Sticky ads %s with optional close button (ads stay fixed when the page scrolls)"
+msgstr "%s Annonces épinglés %s avec bouton de fermeture facultatif (les annonces restent fixes lorsque la page défile)"
+
+#. translators: %s HTML tags
+#: settings.php:6173
+msgid "%s Manual insertion: %s widgets, shortcodes, PHP function call"
+msgstr "%s Insertion manuelle : widgets %s, codes courtss, appel de fonction PHP"
+
+#. translators: %s HTML tags
+#: settings.php:6172
+msgid "%s Insertion exceptions %s for individual posts and pages"
+msgstr "%s Exceptions dʼinsertion %s pour des articles et des pages individuels"
+
+#. translators: %s HTML tags
+#: settings.php:6171
+msgid "Insertion %s before or after any HTML element on the page %s (using CSS selectors)"
+msgstr "Insertion %s avant ou après tout élément HTML sur la page %s (à lʼaide des sélecteurs CSS)"
+
+#. translators: %s HTML tags
+#: settings.php:6170
+msgid "Automatic insertion at %s custom hook positions %s"
+msgstr "Insertion automatique à %s positions de crochet personnalisées %s"
+
+#. translators: %s HTML tags
+#: settings.php:6169
+msgid "%s Automatic insertion %s after %s or before %s tag"
+msgstr "%s Insertion automatique %s après %s ou avant lʼétiquette %s"
+
+#. translators: %s HTML tags
+#: settings.php:6168
+msgid "%s Automatic insertion %s before, between and after comments"
+msgstr "%s Insertion automatique %s avant, entre et après les commentaires"
+
+#. translators: %s HTML tags
+#: settings.php:6167
+msgid "%s Automatic insertion %s between posts on blog pages"
+msgstr "%s Insertion automatique %s entre les articles sur les pages de blog"
+
+#. translators: %s HTML tags
+#: settings.php:6166
+msgid "%s Automatic insertion %s before or after post / content / %s paragraph %s / image / excerpt"
+msgstr "%s Insertion automatique %s avant ou après lʼarticle/contenu/%s paragraphe %s/image/extrait"
+
+#. translators: %s HTML tags
+#: settings.php:6165
+msgid "Simple user interface - all settings on a single page"
+msgstr "Interface utilisateur simple - tous les réglages sur une seule page"
+
+#. translators: %s HTML tags
+#: settings.php:6164
+msgid "%s Code preview %s with visual CSS editor"
+msgstr "%s Aperçu du code %s avec lʼéditeur visuel CSS"
+
+#. translators: %s HTML tags
+#: settings.php:6163
+msgid "Syntax highlighting %s editor %s"
+msgstr "Syntaxe mettant en évidence lʼéditeur %s %s"
+
+#. translators: %s HTML tags
+#: settings.php:6162
+msgid "%s AdSense Integration %s"
+msgstr "%s Intégration AdSense %s"
+
+#: settings.php:6158
+msgid "To Optimally Monetize your WordPress website?"
+msgstr "Pour monétiser de manière optimale votre site WordPress ?"
+
+#: settings.php:6157
+msgid "Looking for Pro Ad Management plugin?"
+msgstr "Vous recherchez une extension pour la gestion professionnelle des annonces ? "
+
+#: settings.php:6050 settings.php:6059 settings.php:6121 settings.php:6129
+#: settings.php:6137
+msgid "Code preview with visual CSS editor"
+msgstr "Aperçu du code avec lʼéditeur visuel CSS"
+
+#: settings.php:6123
+msgid "A/B testing - Track ad impressions and clicks"
+msgstr "Test A/B - Suivez les impressions dʼannonces et les clics"
+
+#. translators: %s: HTML tags
+#: settings.php:6023
+msgid "If you need any kind of help or support, please do not hesitate to open a thread on the %s support forum. %s"
+msgstr "Si vous avez besoin dʼaide ou de support, nʼhésitez pas à ouvrir un fil de discussion sur le forum de support %s. %s"
+
+#. translators: %s: HTML tags
+#: settings.php:6019
+msgid "Ads are not showing? Check %s troubleshooting guide %s to find out how to diagnose and fix the problem."
+msgstr "Les annonces ne sʼaffichent pas ? Consultez le guide de dépannage %s %s pour savoir comment diagnostiquer et résoudre le problème."
+
+#. translators: %s: HTML tags
+#: settings.php:5983
+msgid "Need help with %s settings? %s Check %s Quick Start, %s %s Code Editing %s and %s Common Settings %s pages"
+msgstr "Besoin dʼaide avec les réglages %s ? %s Vérifier le démarrage rapide de %s, %s %s Modification du code %s et %s pages de réglages communs %s"
+
+#: settings.php:5956
+msgid "Follow Ad Inserter"
+msgstr "Suivez Ad Inserter"
+
+#: settings.php:5953
+msgid "Ad Inserter on Facebook"
+msgstr "Ad Inserter sur Facebook"
+
+#: settings.php:5952
+msgid "Ad Inserter on Twitter"
+msgstr "Ad Inserter sur Twitter"
+
+#: settings.php:5948
+msgid "Review"
+msgstr "Avis"
+
+#. translators: %s: Ad Inserter, HTML tags
+#: settings.php:5930
+msgid "You've been using %s for a while now, and I hope you're happy with it. Positive %s reviews %s are a great way to show your appreciation for my work. Besides being an incredible boost to my morale, they are also a great incentive to fix bugs and to add new features for better monetization of your website. When you rate it with 5 stars it's like saying 'Thank you'."
+msgstr "Vous utilisez %s depuis un certain temps maintenant, et j’espère que vous en êtes satisfait. Les %s avis positifs %s sont un excellent moyen de afficher votre appréciation de mon travail. En plus de me remonter le moral, ils m’incitent à corriger les bogues et à ajouter de nouvelles fonctionnalités pour améliorer la monétisation de votre site. Lorsque vous donnez une note de 5 étoiles, c’est comme si vous me disiez « Merci »."
+
+#: settings.php:5919 settings.php:5963
+msgid "Average rating of the plugin - Thank you!"
+msgstr "Évaluation moyenne de lʼextension - Merci !"
+
+#: settings.php:5912
+msgid "Donate"
+msgstr "Faire un don"
+
+#: settings.php:5912
+msgid "Support free Ad Inserter development. If you are making money with Ad Inserter consider donating some small amount. Even 1 dollar counts. Thank you!"
+msgstr "Soutenez le development gratuit dʼAd Inserter. Si vous gagnez de lʼargent avec Ad Inserter, envisagez de donner une petite somme. Même 1 dollar est important. Merci !"
+
+#: settings.php:5902
+msgctxt "Review Ad Inserter"
+msgid "Review"
+msgstr "Avis"
+
+#: settings.php:5902 settings.php:5948
+msgid "If you like Ad Inserter and have a moment, please help me spread the word by reviewing the plugin on WordPres"
+msgstr "Si vous aimez Ad Inserter et que vous avez un moment, aidez-moi à passer le mot en examinant lʼextension sur WordPress"
+
+#: settings.php:5897 settings.php:5947
+msgid "Support plugin development"
+msgstr "Soutenir le développement des extensions"
+
+#: settings.php:5824 settings.php:6051 settings.php:6073 settings.php:6100
+#: settings.php:6128
+msgid "Use Infolinks ads with Adsense to earn more"
+msgstr "Utilisez les annonces Infolinks avec Adsense pour gagner plus"
+
+#: settings.php:5819
+msgid "Try Infolinks Ads with Adsense or Media.net ads"
+msgstr "Essayez les annonces Infolinks avec des annonces Adsense ou Media.net"
+
+#: settings.php:5793 settings.php:5807 settings.php:6053 settings.php:6078
+#: settings.php:6102 settings.php:6103 settings.php:6111
+msgid "Looking for AdSense alternative?"
+msgstr "Vous recherchez une alternative AdSense ?"
+
+#: settings.php:5788 settings.php:5802
+msgid "Blank ad blocks? Looking for AdSense alternative?"
+msgstr "Blocs dʼannonces vides ? Vous recherchez une alternative AdSense ?"
+
+#: settings.php:4115 settings.php:5081
+msgid "Save"
+msgstr "Enregistrer"
+
+#: settings.php:5076
+msgid "Use default API IDs"
+msgstr "Utiliser les ID API par défaut"
+
+#: settings.php:5066
+msgid "Enter Client secret"
+msgstr "Entrer Client secret"
+
+#: settings.php:5063
+msgid "Client secret"
+msgstr "Client secret"
+
+#: settings.php:5058
+msgid "Enter Client ID"
+msgstr "Entrer ID Client"
+
+#: settings.php:5055
+msgid "Client ID"
+msgstr "ID Client"
+
+#. translators: %s: HTML tags
+#: settings.php:5049
+msgid "Copy them to the appropriate fields below"
+msgstr "Copiez-les dans les champs appropriés ci-dessous"
+
+#. translators: %s: HTML tags
+#: settings.php:5048
+msgid "Click on %s Ad Inserter client %s to get %s Client ID %s and %s Client secret %s"
+msgstr "Cliquez sur le client %s Ad Inserter %s pour obtenir %s ID client %s et %s Client secret %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5039
+msgid "Click on %s What credentials do I need? %s"
+msgstr "Cliquez sur %s De quelles informations ai-je besoin ? %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5038
+msgid "For %s What data will you be accessing? %s select %s User data %s"
+msgstr "Pour %s À quelles données allez-vous accéder ? %s sélectionne %s Données utilisateur %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5037
+msgid "For %s Where will you be calling the API from? %s select %s Other UI %s"
+msgstr "Pour %s Dʼoù allez-vous appeler lʼAPI ? %s sélectionne %s Autre interface utilisateur %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5035
+msgid "Click on %s CREATE CREDENTIALS %s"
+msgstr "Cliquez sur %s créer des crédentiels %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5034
+msgid "Search for adsense and enable %s"
+msgstr "Rechercher adsense et activer %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5033
+msgid "Click on %s ENABLE APIS AND SERVICES %s"
+msgstr "Cliquez sur %s activer les apis et les services %s"
+
+#. translators: %s: HTML tags
+#: settings.php:5032
+msgid "Click on project selection, wait for the project to be created and then and select %s as the current project"
+msgstr "Cliquez sur la sélection de projet, attendez que le projet soit créé, puis sélectionnez %s comme projet actuel"
+
+#. translators: 1: Ad Inserter, 2, 3: HTML tags
+#: settings.php:5031
+msgid "Enter %1$s for project name and click on the %2$s Create %3$s button"
+msgstr "Entrez %1$s comme nom du projet et cliquez sur le bouton %2$s Créer %3$s"
+
+#. translators: %s: HTML tags
+#: settings.php:5030
+msgid "Click on project selection and then click on the %s NEW PROJECT %s button to create a new project"
+msgstr "Cliquez sur la sélection de projet puis cliquez sur le bouton %s Nouveau projet %s pour créer un nouveau projet"
+
+#. translators: %1: Ad Inserter, 2, 3: HTML tags
+#: settings.php:5029
+msgid "Create %1$s project - if the project and IDs are already created click on the %2$s Credentials %3$s in the sidebar and go to step 21"
+msgstr "Créer le projet %1$s - si le projet et les ID sont déjà créés, cliquez sur les %2$s info de connexion %3$s dans la colonne latérale et passez à lʼétape 21"
+
+#. translators: %s: HTML tags
+#: settings.php:5028
+msgid "Go to %s Google APIs and Services console %s"
+msgstr "Accéder à la console des API et services Google %s %s"
+
+#. translators: %s: Ad Inserter
+#: settings.php:5019
+msgid "Here can %s list configured AdSense ad units and get code for AdSense ads. To do this you need to authorize %s to access your AdSense account. The first step is to create a Google API project in order to get Client ID and Client Secret."
+msgstr "Vous pouvez ici %s répertorier les blocs dʼannonces AdSense configurés et obtenir le code des annonces AdSense. Pour ce faire, vous devez autoriser %s à accéder à votre compte AdSense. La première étape consiste à créer un projet dʼAPI Google afin dʼobtenir lʼID client et le Client secret."
+
+#: settings.php:5015
+msgid "AdSense Integration - Step 1"
+msgstr "Intégration AdSense - Étape 1"
+
+#: settings.php:4999
+msgid "Authorize"
+msgstr "Autoriser"
+
+#: settings.php:4995
+msgid "Clear and return to Step 1"
+msgstr "Effacez et revenez à lʼétape 1"
+
+#: settings.php:4993
+msgid "Use own API IDs"
+msgstr "Utilisez vos propres ID API"
+
+#. translators: %s: HTML tags
+#: settings.php:4977
+msgid "If you get error %s invalid client %s click on the button %s Clear and return to Step 1 %s to re-enter Client ID and Client Secret."
+msgstr "Si vous obtenez lʼerreur %s client non valide %s, cliquez sur le bouton %s Effacer et revenez à lʼétape 1 %s pour ressaisir lʼID client et le Client secret."
+
+#. translators: %s: HTML tags
+#: settings.php:4974
+msgid "If you get error, can't access ad units or would like to use own Google API IDs click on the button %s Use own API IDs %s to enter Client ID and Client Secret."
+msgstr "Si vous obtenez une erreur, que vous ne pouvez pas accéder aux blocs dʼannonces ou que vous souhaitez utiliser vos propres ID API Google, cliquez sur le bouton %s Utilisez vos propres ID API %s pour saisir lʼID client et le Client secret."
+
+#: settings.php:4967
+msgid "AdSense Integration - Step 2"
+msgstr "Intégration AdSense - Étape 2"
+
+#: settings.php:4965
+msgid "AdSense Integration"
+msgstr "Intégration AdSense"
+
+#. translators: %s: HTML tags
+#: settings.php:4946
+msgid "Please %s clear authorization %s with the button %s above and once again authorize access to your AdSense account."
+msgstr "Veuillez %s effacer lʼautorisation %s avec le bouton %s ci-dessus et autoriser à nouveau lʼaccès à votre compte AdSense."
+
+#: settings.php:4914
+msgid "Get AdSense code"
+msgstr "Obtenir le code AdSense"
+
+#: settings.php:4911
+msgid "Preview AdSense ad"
+msgstr "Prévisualiser lʼannonce AdSense"
+
+#: settings.php:4908
+msgid "Copy AdSense code"
+msgstr "Copier le code AdSense"
+
+#: settings.php:4360 settings.php:4883
+msgid "Type"
+msgstr "Type"
+
+#: settings.php:4882
+msgid "Slot ID"
+msgstr "ID dʼemplacement"
+
+#: settings.php:4880
+msgid "Ad unit"
+msgstr "Bloc dʼannonces"
+
+#: class.php:2613 settings.php:4806
+msgid "PHP function call"
+msgstr "Appel de fonction PHP"
+
+#: includes/preview.php:2549 includes/preview.php:2761 settings.php:1504
+msgid "Alignment"
+msgstr "Alignement"
+
+#: ad-inserter.php:3643 settings.php:4791 settings.php:4881
+msgid "Name"
+msgstr "Nom"
+
+#: ad-inserter.php:3642 ad-inserter.php:12555 class.php:2629
+#: includes/preview.php:2439 includes/preview.php:2484
+#: includes/preview.php:2521 settings.php:4790 strings.php:3 strings.php:210
+msgid "Block"
+msgstr "Bloc"
+
+#: settings.php:4745
+msgid "Preview block"
+msgstr "Aperçu le bloc"
+
+#: settings.php:4059 settings.php:4969 settings.php:5016 strings.php:257
+msgid "Google AdSense Homepage"
+msgstr "Page dʼaccueil de Google AdSense"
+
+#: settings.php:4055
+msgid "Clear authorization to access AdSense account"
+msgstr "Effacer lʼautorisation dʼaccéder au compte AdSense"
+
+#: settings.php:4051
+msgid "Reload AdSense ad units"
+msgstr "Recharger les blocs dʼannonces AdSense"
+
+#: settings.php:4047
+msgid "Toggle active/all ad units"
+msgstr "Permuter actifs/toutes les blocs dʼannonces"
+
+#: settings.php:4029 settings.php:4065 settings.php:4126 strings.php:254
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: settings.php:4021
+msgid "Save new block order"
+msgstr "Enregistrer le nouvel ordre de blocs"
+
+#: settings.php:4015 strings.php:249
+msgid "Rearrange block order"
+msgstr "Réorganiser lʼordre des blocs"
+
+#: settings.php:4010
+msgid "Toggle active/all blocks"
+msgstr "Permuter actifs/tous les blocs"
+
+#: settings.php:3479
+msgid "Disable translation"
+msgstr "Désactiver la traduction"
+
+#: settings.php:3477
+msgid "Disable translation to see original texts for the settings and messages in English"
+msgstr "Désactivez la traduction pour afficher les textes originaux des réglages et des messages en anglais"
+
+#: settings.php:3468
+msgid "Remote debugging"
+msgstr "Débogage à distance"
+
+#: settings.php:3466
+msgid "Enable Debugger widget and code insertion debugging (blocks, positions, tags, processing) by url parameters for non-logged in users. Enable this option to allow other users to see Debugger widget, labeled blocks and positions in order to help you to diagnose problems. For logged in administrators debugging is always enabled."
+msgstr "Activez le débogage du widget Debugger et de lʼinsertion de code (blocs, positions, étiquettes, traitement) par réglages dʼURL pour les utilisateurs non connectés. Activez cette option pour permettre aux autres utilisateurs de voir le widget Debugger, les blocs étiquetés et les positions afin de vous aider à diagnostiquer les problèmes. Pour les administrateurs connectés, le débogage est toujours activé."
+
+#: settings.php:3457
+msgid "Debugging functions on mobile screens"
+msgstr "Fonctions de débogage sur les écrans mobiles"
+
+#: settings.php:3455
+msgid "Enable debugging functions in admin toolbar on mobile screens"
+msgstr "Activer les fonctions de débogage dans la barre dʼoutils dʼadministration sur les écrans mobiles"
+
+#: settings.php:3448
+msgid "Debugging functions in admin toolbar"
+msgstr "Fonctions de débogage dans la barre dʼoutils dʼadministration"
+
+#: settings.php:3446
+msgid "Enable debugging functions in admin toolbar"
+msgstr "Activer les fonctions de débogage dans la barre dʼoutils dʼadministration"
+
+#: settings.php:3439
+msgid "Force showing admin toolbar when viewing site"
+msgstr "Forcer lʼaffichage de la barre dʼoutils dʼadministration lors de lʼaffichage du site"
+
+#: settings.php:3319
+msgid "Undismissible Message"
+msgstr "Message non rejetable"
+
+#: settings.php:3319
+msgid "Prevent visitors from closing the warning message"
+msgstr "Empêcher les visiteurs de fermer le message dʼavertissement"
+
+#: includes/preview-adb.php:365 settings.php:3311
+msgid "Overlay CSS"
+msgstr "Superposer CSS"
+
+#: includes/preview-adb.php:360 settings.php:3303
+msgid "Message CSS"
+msgstr "Message CSS"
+
+#: settings.php:3290
+msgid "Preview message when ad blocking is detected"
+msgstr "Aperçu du message lorsquʼun blocage des publicités est détecté"
+
+#: settings.php:3275
+msgid "Message HTML code"
+msgstr "Code HTML du message"
+
+#: settings.php:3263
+msgid "Custom Redirection Url"
+msgstr "URL de redirection personnalisée"
+
+#: settings.php:3254
+msgid "Static page for redirection when ad blocking is detected. For other pages select Custom url and set it below."
+msgstr "Page statique pour la redirection lorsque le blocage des publicités est détecté. Pour les autres pages, sélectionnez URL personnalisée et définissez-la ci-dessous."
+
+#: settings.php:3249
+msgid "Custom Url"
+msgstr "URL personnalisé"
+
+#: settings.php:3237
+msgid "Redirection Page"
+msgstr "Page de redirection"
+
+#: settings.php:3216
+msgid "Comma seprarated list of selectors (.class, #id) used for additional ad blocking detection. Invisible element or element with zero height means ad blocking is present."
+msgstr "Liste de sélecteurs séparés par des virgules (.class, #id) utilisés pour une détection supplémentaire du blocage des publicités. Un élément invisible ou un élément de hauteur nulle signifie quʼun blocage des publicités est présent."
+
+#: settings.php:3213
+msgid "Custom Selectors"
+msgstr "Sélecteurs personnalisés"
+
+#: settings.php:3208
+msgctxt "no action period"
+msgid "days"
+msgstr "jours"
+
+#: settings.php:3208
+msgid "Number of days to supress action when ad blocking is detected. Leave empty for no no-action period (action fires always after defined page view delay). Sets cookie."
+msgstr "Nombre de jours pour supprimer lʼaction lorsquʼun blocage des publicités est détecté. Laissez vide pour aucune période de non-action (lʼaction se déclenche toujours après un délai dʼaffichage de page défini). Définit le cookie."
+
+#: settings.php:3205
+msgid "No Action Period"
+msgstr "Aucune période dʼaction"
+
+#: settings.php:3200
+msgctxt "Delay Action for x "
+msgid "page views"
+msgstr "pages vues"
+
+#: settings.php:3200
+msgid "Number of page views to delay action when ad blocking is detected. Leave empty for no delay (action fires on first page view). Sets cookie."
+msgstr "Nombre de pages vues pour retarder lʼaction lorsquʼun blocage des publicités est détecté. Laissez vide pour aucun délai (lʼaction se déclenche lors de la première page vue). Définit le cookie."
+
+#: settings.php:3197
+msgid "Delay Action"
+msgstr "Action de retard"
+
+#: settings.php:3180
+msgid "Global action when ad blocking is detected"
+msgstr "Action globale lorsque le blocage des publicités est détecté"
+
+#: settings.php:3150
+msgid "Ad Blocking Detection"
+msgstr "Détection du blocage des publicités"
+
+#: settings.php:3146
+msgid "Enable detection of ad blocking"
+msgstr "Activer la détection du blocage des publicités"
+
+#: settings.php:3125
+msgid "Enable insertion of this code into HTML page footer on page for Error 404: Page not found"
+msgstr "Activer lʼinsertion de ce code dans le pied de page HTML sur la page pour lʼerreur 404 : Page introuvable"
+
+#. translators: %s: HTML tags
+#: settings.php:3091
+msgid "Code before the %s tag of the HTML page"
+msgstr "Code avant lʼétiquette %s de la page HTML"
+
+#: settings.php:3083
+msgid "HTML Page Footer Code"
+msgstr "Code de pied de page HTML"
+
+#: settings.php:3073
+msgid "Enable insertion of this code into HTML page footer"
+msgstr "Activer lʼinsertion de ce code dans le pied de page HTML"
+
+#: settings.php:3055 settings.php:3125
+msgid "Insert on Error 404 page"
+msgstr "Insérer sur la page Erreur 404"
+
+#: settings.php:3055
+msgid "Enable insertion of this code into HTML page header on page for Error 404: Page not found"
+msgstr "Activer lʼinsertion de ce code dans lʼen-tête de la page HTML sur la page pour lʼerreur 404 : Page non trouvée"
+
+#: settings.php:3040 settings.php:3110
+msgid "Use server-side detection to insert code only for"
+msgstr "Utilisez la détection côté serveur pour insérer du code uniquement pour"
+
+#: settings.php:3022
+msgid "Code in the %s section of the HTML page"
+msgstr "Code dans la section %s de la page HTML"
+
+#: settings.php:3014
+msgid "HTML Page Header Code"
+msgstr "Code dʼen-tête de page HTML"
+
+#: settings.php:3009 settings.php:3078 settings.php:3287
+msgid "Process PHP code"
+msgstr "Traiter le code PHP"
+
+#: settings.php:3004
+msgid "Enable insertion of this code into HTML page header"
+msgstr "Activer lʼinsertion de ce code dans lʼen-tête de page HTML"
+
+#: settings.php:2983
+msgid "Priority for the hook (default is 10)"
+msgstr "Priorité pour le crochet (par défaut est 10)"
+
+#: settings.php:2980
+msgid "priority"
+msgstr "priorité"
+
+#: settings.php:2977
+msgid "Action name as used in the do_action () function"
+msgstr "Nom de lʼaction tel quʼutilisé dans la fonction do_action ()"
+
+#: settings.php:2974
+msgid "action"
+msgstr "action"
+
+#: settings.php:2971
+msgid "Hook name for automatic insertion selection"
+msgstr "Nom du crochet pour la sélection dʼinsertion automatique"
+
+#. translators: %d: hook number
+#: settings.php:2968
+msgid "Hook %d name"
+msgstr "Nom du crochet %d"
+
+#: settings.php:2953
+msgid "Custom Hooks"
+msgstr "Crochets personnalisé"
+
+#: settings.php:2940
+msgid "min width"
+msgstr "largeur min"
+
+#. Translators: %d: viewport number
+#: settings.php:2937
+msgid "Viewport %d name"
+msgstr "Nom du viewport %d"
+
+#: settings.php:2929
+msgid "Viewport Settings used for client-side device detection"
+msgstr "Réglages du viewport utilisés pour la détection des appareils côté client"
+
+#. translators: %s: PHP tags
+#: settings.php:2747 settings.php:3421
+msgid "BLOCK CODE"
+msgstr "Code de bloc"
+
+#: settings.php:2746
+msgid "Wrapping div"
+msgstr "Div dʼemballage"
+
+#: settings.php:2745
+msgid "Preview of the block wrapping code"
+msgstr "Aperçu du code dʼemballage de bloc"
+
+#: settings.php:2739
+msgid "Inline styles"
+msgstr "Styles en ligne"
+
+#: settings.php:2739
+msgid "Instead of alignment classes generate inline alignment styles for blocks"
+msgstr "Au lieu de classes dʼalignement, génèrent des styles dʼalignement en ligne pour les blocs"
+
+#: settings.php:2729
+msgid "Block number class"
+msgstr "Classe de numéro de bloc"
+
+#: settings.php:2729
+msgid "Include block number class"
+msgstr "Inclure la classe de numéro de bloc"
+
+#: settings.php:2723
+msgid "Block class name"
+msgstr "Nom de classe de bloc"
+
+#: settings.php:2723
+msgid "CSS class name for the wrapping div"
+msgstr "Nom de classe CSS pour la div dʼemballage"
+
+#. translators: %s: Ad Inserter
+#: settings.php:2870
+msgid "Enable tracking of %s usage and help us to make improvements to the plugin. Only information regarding the WordPress environment and %s usage is recorded (once per month and on events like plugin activation/deactivation)."
+msgstr "Activez le suivi de lʼutilisation de %s et aidez-nous à apporter des améliorations à lʼextension. Seules les informations concernant lʼenvironnement WordPress et lʼutilisation de %s sont enregistrées (une fois par mois et sur des événements comme lʼactivation/désactivation de lʼextension)."
+
+#: settings.php:2867
+msgid "Plugin usage tracking"
+msgstr "Suivi de lʼutilisation de lʼextension"
+
+#: settings.php:2711
+msgid "Maximum number of inserted blocks per page. You need to enable Max page insertions (button Misc / tab Insertion) to count block for this limit."
+msgstr "Nombre maximum de blocs insérés par page. Vous devez activer Max dʼinsertions de page (bouton Divers/onglet Insertion) pour compter le bloc pour cette limite."
+
+#: settings.php:2703
+msgid "Label text or HTML code"
+msgstr "Texte dʼétiquette ou code HTML"
+
+#: settings.php:2692
+msgid "No paragraph counting inside"
+msgstr "Aucun paragraphe ne compte à lʼintérieur"
+
+#: settings.php:2684
+msgid "Standard PHP functions are faster and work in most cases, use Multibyte functions if paragraphs are not counted properly on non-english pages."
+msgstr "Les fonctions PHP standard sont plus rapides et fonctionnent dans la plupart des cas, utilisez les fonctions Multibyte si les paragraphes ne sont pas correctement comptés sur des pages non anglaises."
+
+#: settings.php:2681
+msgid "Functions for paragraph counting"
+msgstr "Fonctions de comptage de paragraphes"
+
+#: settings.php:2668
+msgid "Dynamic blocks"
+msgstr "Blocs dynamiques"
+
+#: settings.php:2660
+msgid "Sticky widget top margin"
+msgstr "Marge supérieure du widget épinglé"
+
+#: settings.php:2651
+msgid "CSS mode is the best approach but may not work with all themes. JavaScript mode works with most themes but may reload ads on page load."
+msgstr "Le mode CSS est la meilleure approche mais peut ne pas fonctionner avec tous les thèmes. Le mode JavaScript fonctionne avec la plupart des thèmes mais peut recharger les publicités lors du chargement de la page."
+
+#: settings.php:2648
+msgid "Sticky widget mode"
+msgstr "Mode widget épinglé"
+
+#: settings.php:2837
+msgid "Min. user role for ind. exceptions editing"
+msgstr "Min. rôle dʼutilisateur pour ind. modification des exceptions"
+
+#: settings.php:2784
+msgctxt "syntax highlighting themes"
+msgid "Dark"
+msgstr "Sombre"
+
+#: settings.php:2769
+msgctxt "syntax highlighting themes"
+msgid "Light"
+msgstr "Clair"
+
+#: settings.php:2767
+msgid "No Syntax Highlighting"
+msgstr "Pas de mise en évidence de la syntaxe"
+
+#: settings.php:2766
+msgctxt "no syntax highlighting themes"
+msgid "None"
+msgstr "Acune"
+
+#: settings.php:2759
+msgid "Syntax highlighting theme"
+msgstr "Thème de mise en évidence de la syntaxe"
+
+#: settings.php:2618
+msgid "Needed for position Above header but may not work with all themes"
+msgstr "Nécessaire pour la position au-dessus de lʼen-tête mais peut ne pas fonctionner avec tous les thèmes"
+
+#: settings.php:2615
+msgid "Output buffering"
+msgstr "Tampon de sortie"
+
+#: settings.php:2607
+msgid "Plugin priority"
+msgstr "Priorité de lʼextension"
+
+#: settings.php:2587
+msgid "Debugging"
+msgstr "Débogage"
+
+#: settings.php:2585
+msgid "Ad Blocking"
+msgstr "Blocage des publicités"
+
+#: settings.php:2582 strings.php:30
+msgid "Footer"
+msgstr "Pied de page"
+
+#: settings.php:2581
+msgid "Header"
+msgstr "En-tête"
+
+#: settings.php:2580
+msgid "Hooks"
+msgstr "Crochets"
+
+#: settings.php:2579
+msgid "Viewports"
+msgstr "Viewports"
+
+#: settings.php:2535
+msgid "Reset All Settings"
+msgstr "Réinitialiser tous les réglages"
+
+#: settings.php:2535
+msgid "Are you sure you want to reset all settings?"
+msgstr "Confirmez-vous de réinitialiser tous les réglages ?"
+
+#: settings.php:1305 settings.php:2528
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: settings.php:2519
+msgid "Settings timestamp"
+msgstr "Horodatage des réglages"
+
+#: settings.php:2516
+msgid "Settings"
+msgstr "Réglages"
+
+#. translators: %s: HTML tags
+#: settings.php:2486
+msgid "%s WARNING: %s %s No Wrapping %s style has no wrapping code needed for client-side device detection!"
+msgstr "%s Avertissement : %s Le style %s aucun emballage %s n’a pas aucunes code d’emballage nécessaire pour la détection de l’appareil côté client !"
+
+#: settings.php:2477
+msgid "Used for [adinserter data=''] shortcodes when no data is found"
+msgstr "Utilisé pour les codes courts [adinserter data=''] lorsquʼaucune donnée nʼest trouvée"
+
+#: settings.php:2473
+msgid "General tag"
+msgstr "Étiquette générale"
+
+#: settings.php:2450 settings.php:2700
+msgid "Ad label"
+msgstr "Libellé de lʼannonce"
+
+#: settings.php:2419
+msgid "Not available"
+msgstr "Indisponible"
+
+#: settings.php:2417
+msgid "days after publishing"
+msgstr "jours après la publication"
+
+#: settings.php:2417
+msgid "for"
+msgstr "pour"
+
+#: settings.php:2404
+msgid "Maximum number of post/static page words, leave empty for no limit"
+msgstr "Nombre maximum de mots dʼarticle/page statique, laissez vide sans limite"
+
+#: settings.php:2402
+msgid "Minimum number of post/static page words, leave empty for no limit"
+msgstr "Nombre minimum de mots dʼarticle/page statique, laissez vide sans limite"
+
+#: settings.php:1795 settings.php:2401
+msgid "Post/Static page must have between"
+msgstr "Lʼarticle/page statique doit avoir entre"
+
+#: settings.php:2395
+msgid "Invert filter"
+msgstr "Inverser le filtre"
+
+#: settings.php:2395
+msgid "Checked means specified calls are unwanted"
+msgstr "Coché signifie que les appels spécifiés ne sont pas désirés"
+
+#: settings.php:2376
+msgid "using"
+msgstr "en utilisant"
+
+#: settings.php:2370
+msgid "Filter insertions"
+msgstr "Filtrer les insertions"
+
+#: settings.php:2358
+msgid "Disable caching"
+msgstr "Désactiver caching"
+
+#: settings.php:2354
+msgid "Disable caching for WP Super Cache, W3 Total Cache and WP Rocket plugins"
+msgstr "Désactiver la mise en cache pour les extensions WP Super Cache, W3 Total Cache et WP Rocket"
+
+#: settings.php:2344
+msgid "Insert only in the loop"
+msgstr "Insérer uniquement dans la boucle"
+
+#: settings.php:2340
+msgid "Insert block only when WP function [[in_the_loop ()]] returns true (WP loop is currently active). Might speed up insertion on content pages when [[the_content]] filter hook is called multiple times."
+msgstr "Insérer un bloc uniquement lorsque la fonction WP [[in_the_loop ()]] renvoie true (la boucle WP est actuellement active). Peut accélérer lʼinsertion sur les pages de contenu lorsque le crochet de filtre [[the_content]] est appelé plusieurs fois."
+
+#: settings.php:2332
+msgid "Insert for"
+msgstr "Insérer pour"
+
+#: settings.php:2320 settings.php:2708
+msgid "Max blocks per page"
+msgstr "Max blocs par page"
+
+#: settings.php:2317
+msgid "Count this block for Max blocks per page limit (defined on the tab [*] / tab General)"
+msgstr "Compter ce bloc pour Max blocs par page limite (défini sur lʼonglet [*]/onglet Général)"
+
+#: settings.php:2315
+msgid "insertions"
+msgstr "insertions"
+
+#: settings.php:2315
+msgid "Max"
+msgstr "Max"
+
+#: settings.php:2314
+msgid "Maximum number of insertions of this block. Empty or 0 means no limit."
+msgstr "Nombre maximum dʼinsertions de ce bloc. Vide ou 0 signifie aucune limite."
+
+#: settings.php:2302
+msgid "Error 404 page"
+msgstr "Erreur 404 page"
+
+#: settings.php:2302
+msgid "Enable insertion on page for Error 404: Page not found"
+msgstr "Activer lʼinsertion sur la page pour lʼerreur 404 : Page introuvable"
+
+#: settings.php:2297
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: settings.php:2297
+msgid "Enable insertion in RSS feeds"
+msgstr "Activer lʼinsertion dans les flux RSS"
+
+#: settings.php:2287
+msgid "Ajax requests"
+msgstr "Requêtes Ajax"
+
+#: settings.php:2287
+msgid "Enable insertion for Ajax requests"
+msgstr "Activer lʼinsertion pour les requêtes Ajax"
+
+#: settings.php:2282
+msgid "AMP pages"
+msgstr "Pages AMP"
+
+#: settings.php:2282
+msgid "To insert different codes on normal and AMP pages separate them with [ADINSERTER AMP] separator. Here you can enable insertion on AMP pages only when you need to insert THE SAME CODE also on AMP pages (no AMP separator)."
+msgstr "Pour insérer différents codes sur les pages normales et AMP, séparez-les avec le séparateur [Adinserter AMP]. Ici, vous pouvez activer lʼinsertion sur les pages AMP uniquement lorsque vous devez insérer le même code également sur les pages AMP (aucun séparateur AMP)."
+
+#: settings.php:2282
+msgid "Old settings for AMP pages detected"
+msgstr "Anciens réglages des pages AMP détectés"
+
+#: settings.php:2270 settings.php:2578
+msgid "General"
+msgstr "Général"
+
+#: settings.php:2268
+msgid "Display"
+msgstr "Afficher"
+
+#: settings.php:417 settings.php:2267 settings.php:4797
+msgid "Scheduling"
+msgstr "Planification"
+
+#: settings.php:2266
+msgid "Word Count"
+msgstr "Nombre de mots"
+
+#: settings.php:2265
+msgid "Filter"
+msgstr "Filtre"
+
+#: settings.php:2246
+msgid "Use server-side detection to insert block only for"
+msgstr "Utilisez la détection côté serveur pour insérer un bloc uniquement pour"
+
+#: settings.php:2220
+msgid "Device min width %s px"
+msgstr "Largeur minimale de lʼappareil %s px"
+
+#. Translators: only on (the following devices): viewport names (devices)
+#. listed
+#: settings.php:2192
+msgid "only on"
+msgstr "uniquement sur"
+
+#: settings.php:2185
+msgid "Use client-side detection to"
+msgstr "Utiliser la détection côté client pour"
+
+#: settings.php:2178
+msgid "Server-side device detection"
+msgstr "Détection de dispositif côté serveur"
+
+#: settings.php:2177
+msgid "Client-side device detection"
+msgstr "Détection de dispositif côté client"
+
+#: settings.php:2162
+msgid "PHP function"
+msgstr "Fonction PHP"
+
+#: settings.php:2161
+msgid "Enable PHP function call to insert this block at any position in theme file. If function is disabled for block it will return empty string."
+msgstr "Activez lʼappel de fonction PHP pour insérer ce bloc à nʼimporte quelle position dans le fichier de thème. Si la fonction est désactivée pour le bloc, elle renverra une chaîne vide."
+
+#: settings.php:2146 settings.php:4807
+msgid "Shortcode"
+msgstr "Code court"
+
+#: settings.php:2145
+msgid "Enable shortcode for manual insertion of this block in posts and pages"
+msgstr "Activer le code court pour lʼinsertion manuelle de ce bloc dans les articles et les pages"
+
+#: class.php:2608 settings.php:2134 settings.php:4808
+msgid "Widget"
+msgstr "Widget"
+
+#: settings.php:2133
+msgid "Enable widget for this block"
+msgstr "Activer widget pour ce bloc"
+
+#: settings.php:2082
+msgid "Toggle referrer editor"
+msgstr "Ouvrir/Fermer lʼéditeur de référent"
+
+#: settings.php:2079
+msgid "Referrers"
+msgstr "Référents"
+
+#: settings.php:2040
+msgid "Comma separated url query parameters or cookies with optional values (use 'parameter', 'parameter=value', 'cookie' or 'cookie=value')"
+msgstr "Paramètres de requête dʼURL séparés par des virgules ou cookies avec des valeurs facultatives (utilisez ʼparameterʼ, ʼparameter=valueʼ, ʼcookieʼ or ʼcookie=valueʼ)"
+
+#: settings.php:2037
+msgid "Toggle url parameter and cookie editor"
+msgstr "Ouvrir/Fermer lʼéditeur de paramètre dʼURL et de cookies"
+
+#: settings.php:2033
+msgid "Url parameters"
+msgstr "Paramètres dʼURL"
+
+#: settings.php:2017
+msgid "Comma separated urls (page addresses) starting with / after domain name (e.g. /permalink-url, use only when you need to taget a specific url not accessible by other means). You can also use partial urls with * (/url-start*. *url-pattern*, *url-end)"
+msgstr "URL séparées par des virgules (adresses de page) commençant par/après le nom de domaine (par exemple /permalien-url, à utiliser uniquement lorsque vous avez besoin de cibler une URL spécifique non accessible par dʼautres moyens). Vous pouvez également utiliser des URL partielles avec * (/url-start*. *URL-composition*, *url-end)"
+
+#: settings.php:2014
+msgid "Toggle url editor"
+msgstr "Ouvrir/Fermer lʼéditeur dʼURL"
+
+#: settings.php:2011
+msgid "Urls"
+msgstr "URL"
+
+#: settings.php:1994
+msgid "Comma separated post/page IDs"
+msgstr "ID dʼarticle/page séparés par des virgules"
+
+#: settings.php:1991
+msgid "Toggle post/page ID editor"
+msgstr "Ouvrir/Fermer lʼéditeur de page/article"
+
+#: settings.php:1988
+msgid "Post IDs"
+msgstr "IDs de publication"
+
+#: settings.php:1971
+msgid "Comma separated slugs: taxonomy, term or taxonomy:term"
+msgstr "Slugs séparées par des virgules : taxonomie, terme ou taxonomie : terme"
+
+#: settings.php:1968
+msgid "Toggle taxonomy editor"
+msgstr "Ouvrir/Fermer lʼéditeur de taxonomie"
+
+#: settings.php:1965
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: settings.php:1948
+msgid "Comma separated tag slugs"
+msgstr "Slugs des étiquettes séparées par des virgules"
+
+#: settings.php:1945
+msgid "Toggle tag editor"
+msgstr "Ouvrir/Fermer lʼéditeur des étiquettes"
+
+#: settings.php:1942
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: settings.php:1925
+msgid "Comma separated category slugs"
+msgstr "Slugs de catégories séparées par des virgules"
+
+#: settings.php:1922
+msgid "Toggle category editor"
+msgstr "Ouvrir/Fermer lʼéditeur de catégorie"
+
+#: settings.php:1919
+msgid "Categories"
+msgstr "Catégories"
+
+#: settings.php:1903
+msgctxt "check up to"
+msgid "paragraphs"
+msgstr "paragraphes"
+
+#: settings.php:1895
+msgid "check up to"
+msgstr "vérifier jusquʼà"
+
+#: settings.php:1888
+msgid "If text is found"
+msgstr "Si du texte est trouvé"
+
+#: settings.php:1872
+msgid "paragraphs below avoid"
+msgstr "les paragraphes ci-dessous évitent"
+
+#: settings.php:1869
+msgid "Number of paragraphs below to check, leave empty to disable checking"
+msgstr "Nombre de paragraphes ci-dessous à vérifier, laisser vide pour désactiver la vérification"
+
+#: settings.php:1846
+msgid "paragraphs above avoid"
+msgstr "les paragraphes ci-dessus évitent"
+
+#: settings.php:1843
+msgid "Number of paragraphs above to check, leave empty to disable checking"
+msgstr "Nombre de paragraphes ci-dessus à vérifier, laisser vide pour désactiver la vérification"
+
+#: settings.php:1837 settings.php:1863
+msgid "In"
+msgstr "Dans"
+
+#: settings.php:1827
+msgid "Used only with automatic insertion After paragraph and empty paragraph numbers"
+msgstr "Utilisé uniquement avec lʼinsertion automatique Après le paragraphe et les numéros de paragraphe vides"
+
+#: settings.php:1821
+msgid "Minimum number of words in paragraphs above"
+msgstr "Nombre minimum de mots dans les paragraphes ci-dessus"
+
+#: settings.php:1748
+msgid "Count also paragraphs inside these elements - defined on general plugin settings page - tab [*] / tab General"
+msgstr "Comptez également les paragraphes à lʼintérieur de ces éléments - définis sur la page des réglages généraux de lʼextension - onglet [*]/onglet Général"
+
+#: settings.php:1691 settings.php:1738 settings.php:1852 settings.php:1878
+msgid "Comma separated texts"
+msgstr "Textes séparés par des virgules"
+
+#: settings.php:1676
+msgid "words"
+msgstr "mots"
+
+#: settings.php:1673
+msgid "Maximum number of paragraph words, leave empty for no limit"
+msgstr "Nombre maximum de mots de paragraphe, laissez vide pour aucune limite"
+
+#: settings.php:1667 settings.php:1682 settings.php:1804 settings.php:2403
+msgid "and"
+msgstr "et"
+
+#: settings.php:1664
+msgid "Minimum number of paragraph words, leave empty for no limit"
+msgstr "Nombre minimum de mots de paragraphe, laissez vide pour aucune limite"
+
+#: settings.php:1658
+msgid "that have between"
+msgstr "qui ont entre"
+
+#: settings.php:1649
+msgid "Comma separated HTML tag names, usually only 'p' tags are used"
+msgstr "Noms des etiquettes HTML séparés par des virgules, généralement seules les etiquettes « p » sont utilisées"
+
+#: settings.php:1643
+msgid "paragraphs with tags"
+msgstr "paragraphes avec etiquettes"
+
+#: settings.php:1637
+msgid "Count"
+msgstr "Compter"
+
+#: settings.php:1473
+msgid "Paragraph number or comma separated paragraph numbers: 1 to N means paragraph number, %N means every N paragraphs, empty means all paragraphs, 0 means random paragraph, value between 0 and 1 means relative position on the page (0.2 means paragraph at 20% of page paragraphs, 0.5 means paragraph halfway down the page, 0.9 means paragraph at 90% of page paragraphs, etc.), negative number means counting from the opposite direction"
+msgstr "Numéro de paragraphe ou numéros de paragraphe séparés par des virgules : 1 à N signifie numéro de paragraphe, %N signifie tous les N paragraphes, vide signifie tous les paragraphes, 0 signifie paragraphe aléatoire, une valeur comprise entre 0 et 1 signifie la position relative sur la page (0,2 signifie paragraphe à 20% de paragraphes de page, 0,5 signifie paragraphe à mi-chemin de la page, 0,9 signifie paragraphe à 90% des paragraphes de page, etc.), un nombre négatif signifie compter dans la direction opposée"
+
+#: settings.php:1584
+msgid "Client-side insertion uses JavaScript to insert block when the page loads. Server-side insertion inserts block when the page is generated but needs Output buffering enabled."
+msgstr "Lʼinsertion côté client utilise JavaScript pour insérer un bloc lors du chargement de la page. Lʼinsertion côté serveur insère un bloc lorsque la page est générée mais nécessite lʼactivation de la mise en mémoire tampon de sortie."
+
+#: settings.php:1435 settings.php:1583 settings.php:2264
+msgid "Insertion"
+msgstr "Insertion"
+
+#: settings.php:1572 settings.php:3177
+msgid "Action"
+msgstr "Action"
+
+#: settings.php:1566
+msgid "HTML element selector or comma separated list of selectors"
+msgstr "Sélecteur dʼélément HTML ou liste de sélecteurs séparés par des virgules"
+
+#: settings.php:1557 settings.php:1597 settings.php:3217
+msgid "Open HTML element selector"
+msgstr "Ouvrir le sélecteur dʼélément HTML"
+
+#: settings.php:1553
+msgid "HTML element"
+msgstr "Élément HTML"
+
+#. translators: %d: block number
+#: settings.php:1406
+msgid "Clear listed exceptions for block"
+msgstr "Effacer les exceptions répertoriées pour le bloc"
+
+#. translators: %d: block number
+#: settings.php:1405
+msgid "Are you sure you want to clear listed exceptions for block %d?"
+msgstr "Confirmez-vous vouloir vraiment effacer les exceptions répertoriées pour le bloc %d ?"
+
+#: ad-inserter.php:12550 settings.php:1400
+msgid "Title"
+msgstr "Titre"
+
+#: settings.php:1400
+msgctxt "post"
+msgid "Type"
+msgstr "Type"
+
+#. translators: %s: Ad Inserter
+#: ad-inserter.php:3726 settings.php:1348
+msgid "Tag / Archive pages"
+msgstr "Pages dʼétiquettes/archives"
+
+#: settings.php:1347 settings.php:1348
+msgid "Enable insertion on tag or archive blog pages"
+msgstr "Activer lʼinsertion sur les pages de blog des etiquettes ou dʼarchives"
+
+#: settings.php:1343 settings.php:3913
+msgid "Search pages"
+msgstr "Pages de recherche"
+
+#: settings.php:1342 settings.php:1343
+msgid "Enable insertion on search blog pages"
+msgstr "Activer lʼinsertion sur les pages de blog de recherche"
+
+#: settings.php:1338 settings.php:3909
+msgid "Static pages"
+msgstr "Pages statistiques"
+
+#: settings.php:1337 settings.php:1338
+msgid "Enable insertion on static pages"
+msgstr "Activer lʼinsertion sur les pages statistiques"
+
+#: settings.php:1327 settings.php:3911
+msgid "Category pages"
+msgstr "Pages de catégorie"
+
+#: settings.php:1326 settings.php:1327
+msgid "Enable insertion on category blog pages (including sub-pages)"
+msgstr "Activer lʼinsertion sur les pages de blog de catégorie (y compris les sous-pages)"
+
+#: settings.php:1322 settings.php:3910
+msgid "Homepage"
+msgstr "Page d’accueil"
+
+#: settings.php:1321 settings.php:1322
+msgid "Enable insertion on homepage: latest posts (including on sub-pages), static page or theme homepage (available positions may depend on hooks used by the theme)"
+msgstr "Activer lʼinsertion sur la page dʼaccueil : derniers articles (y compris sur les sous-pages), page statique ou page dʼaccueil du thème (les positions disponibles peuvent dépendre des crochets utilisés par le thème)"
+
+#: settings.php:1317 settings.php:3908
+msgid "Posts"
+msgstr "Articles"
+
+#: settings.php:1316 settings.php:1317
+msgid "Enable insertion on posts"
+msgstr "Activer lʼinsertion sur les articles"
+
+#: includes/placeholders.php:351 includes/preview.php:2819 settings.php:1543
+#: settings.php:4115
+msgid "Edit"
+msgstr "Modifier"
+
+#: settings.php:1535 settings.php:1536 settings.php:1537 settings.php:1538
+#: settings.php:1539 settings.php:1540
+msgid "CSS code for the wrapping div, click to edit"
+msgstr "Code CSS pour la div dʼemballage, cliquez pour modifier"
+
+#: settings.php:1532
+msgid "Custom CSS code for the wrapping div"
+msgstr "Code CSS personnalisé pour la div dʼemballage"
+
+#: strings.php:224
+msgctxt "Button"
+msgid "Show"
+msgstr "Afficher"
+
+#: settings.php:4793
+msgid "Automatic insertion"
+msgstr "Insertion automatique"
+
+#: settings.php:1303 settings.php:2526
+msgid "Rotation editor active - rotation code not generated! Make sure no rotation editor is active before saving settings."
+msgstr "Éditeur de rotation actif - code de rotation non généré ! Assurez-vous quʼaucun éditeur de rotation nʼest actif avant dʼenregistrer les réglages."
+
+#: includes/preview.php:2437 settings.php:1300 settings.php:3290
+msgid "Preview"
+msgstr "Aperçu"
+
+#: settings.php:1300
+msgid "Preview code and alignment"
+msgstr "Aperçu du code et de lʼalignement"
+
+#: settings.php:1299
+msgid "Misc"
+msgstr "Divers"
+
+#: settings.php:1299
+msgid "Check for user status, Limit insertions (error 404 page, Ajax requests, RSS feeds), Filter, Scheduling, General tag"
+msgstr "Vérifier lʼétat de lʼutilisateur, limiter les insertions (page dʼerreur 404, requêtes Ajax, flux RSS), filtrer, planifier, etiquette générale"
+
+#: settings.php:1298
+msgid "Devices"
+msgstr "Appareils"
+
+#: settings.php:1298
+msgid "Client/Server-side Device Detection (Desktop, Tablet, Phone,...)"
+msgstr "Détection des périphériques côté client/serveur (ordinateur, tablette, téléphone,...)"
+
+#: settings.php:1297
+msgid "Manual"
+msgstr "Manuel"
+
+#: settings.php:1297
+msgid "Widget, Shortcode and PHP function call"
+msgstr "Widget, code court et appel de fonction PHP."
+
+#: settings.php:1296
+msgid "Lists"
+msgstr "Listes"
+
+#: settings.php:1296
+msgid "White/Black-list Category, Tag, Taxonomy, Post ID, Url, Url parameter, Cookie or Referer (domain)"
+msgstr "Catégorie de liste blanche/noire, étiquette, taxonomie, ID dʼarticle, URL, paramètre dʼURL, cookie ou référent (domaine)"
+
+#: settings.php:1165
+msgctxt "AdSense"
+msgid "Layout Key"
+msgstr "Clé de mise en page"
+
+#: settings.php:1156
+msgctxt "AdSense"
+msgid "Layout"
+msgstr "Mise en page"
+
+#: settings.php:1139
+msgid "AdSense ad units"
+msgstr "Blocs dʼannonces de AdSense"
+
+#: settings.php:1139
+msgid "Show ad units from your AdSense account"
+msgstr "Afficher les blocs dʼannonces de votre compte AdSense"
+
+#: settings.php:1114 settings.php:1256
+msgid "AMP Ad"
+msgstr "Annonce AMP"
+
+#: includes/placeholders.php:361 settings.php:1102 settings.php:4884
+msgid "Size"
+msgstr "Taille"
+
+#: settings.php:1089
+msgid "Ad Type"
+msgstr "Type dʼannonce"
+
+#: settings.php:1080
+msgctxt "AdSense"
+msgid "Ad Slot ID"
+msgstr "ID de lʼespace publicitaire"
+
+#: settings.php:1071
+msgctxt "AdSense"
+msgid "Publisher ID"
+msgstr "ID éditeur"
+
+#: settings.php:1062
+msgid "Comment"
+msgstr "Commentaire"
+
+#: settings.php:1050
+msgid "Select Placeholder"
+msgstr "Sélectionnez le texte indicatif"
+
+#: settings.php:1049
+msgid "Select Image"
+msgstr "Sélectionnez lʼimage"
+
+#: settings.php:1046
+msgid "Open link in a new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: settings.php:1035
+msgid "Link"
+msgstr "Lien"
+
+#: settings.php:1013
+msgid "Image"
+msgstr "Image"
+
+#: settings.php:1001
+msgid "Banner"
+msgstr "Bannière"
+
+#: settings.php:996
+msgid "Generate code"
+msgstr "Générer le code"
+
+#: settings.php:992
+msgid "Import code"
+msgstr "Importer le code"
+
+#: settings.php:977
+msgid "Add option"
+msgstr "Ajouter une option"
+
+#: settings.php:973
+msgid "Remove option"
+msgstr "Supprimer lʼoption"
+
+#: settings.php:950
+msgid "Paste block (name, code and settings)"
+msgstr "Coller le bloc (nom, code et réglages)"
+
+#: settings.php:946
+msgid "Paste settings"
+msgstr "Coller les réglages"
+
+#: settings.php:942
+msgid "Paste code"
+msgstr "Coller le code"
+
+#: settings.php:938
+msgid "Paste name"
+msgstr "Coller le nom"
+
+#: settings.php:934 settings.php:4748
+msgid "Copy block"
+msgstr "Copier le bloc"
+
+#: settings.php:929
+msgid "Clear block"
+msgstr "Effacer le bloc"
+
+#: settings.php:314 settings.php:920 settings.php:2545
+msgid "Show AdSense ad units"
+msgstr "Afficher les blocs dʼannonces AdSense"
+
+#: settings.php:910
+msgid "Open visual HTML editor"
+msgstr "Ouvrir lʼéditeur visuel HTML"
+
+#: settings.php:906
+msgid "Toggle rotation editor"
+msgstr "Ouvrir/Fermer lʼéditeur de rotation"
+
+#: settings.php:902
+msgid "Toggle code generator"
+msgstr "Ouvrir/Fermer le générateur de code"
+
+#: settings.php:890
+msgid "Disable insertion of this block"
+msgstr "Désactiver lʼinsertion de ce bloc"
+
+#: settings.php:883
+msgid "Process PHP code in block"
+msgstr "Traiter le code PHP dans le bloc"
+
+#: settings.php:875
+msgid "Toggle tools"
+msgstr "Ouvrir/Fermer les outils"
+
+#: settings.php:868 settings.php:2999 settings.php:3068 settings.php:3281
+msgid "Toggle Syntax Highlighting / Simple editor for mobile devices"
+msgstr "Permuter Mise en évidence de la syntaxe/Éditeur simple pour les appareils mobiles"
+
+#: settings.php:603
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: settings.php:426
+msgid "Option time in seconds - 0 means option is disabled and will be skipped. Leave all time fields empty for no timed rotation."
+msgstr "Durée de lʼoption en secondes - 0 signifie que lʼoption est désactivée et sera ignorée. Laissez tous les champs de temps vides pour aucune rotation chronométrée."
+
+#: settings.php:423
+msgid "Time"
+msgstr "Temps"
+
+#: settings.php:414
+msgid "Option share in percents - 0 means option is disabled, if share for one option is not defined it will be calculated automatically. Leave all share fields empty for equal option shares."
+msgstr "Part dʼoption en pourcentage - 0 signifie que lʼoption est désactivée, si la part pour une option nʼest pas définie, elle sera calculée automatiquement. Laissez tous les champs de partage vides pour des partages dʼoptions égaux."
+
+#: settings.php:411
+msgid "Share"
+msgstr "Partager"
+
+#: settings.php:405
+msgid "Option name"
+msgstr "Nom de lʼoption"
+
+#. translators: %s: HTML tags
+#: settings.php:362
+msgid "Check ad blocking software that may block CSS, JavaScript or image files."
+msgstr "Vérifiez les logiciels de blocage des publicités susceptibles de bloquer les fichiers CSS, JavaScript ou image."
+
+#. translators: %s: HTML tags
+#: settings.php:361
+msgid "Page may %s not be loaded properly. %s"
+msgstr "La page peut %s ne pas être chargée correctement. %s"
+
+#: settings.php:359 settings.php:385
+msgid "WARNING"
+msgstr "Avertissement"
+
+#: includes/editor.php:261 settings.php:359
+msgid "Error loading page"
+msgstr "Erreur lors du chargement de la page"
+
+#: settings.php:352
+msgid "Incompatible (old) CSS file loaded, probably due to inappropriate caching."
+msgstr "Fichier CSS incompatible (ancien) chargé, probablement en raison dʼune mise en cache inappropriée."
+
+#. translators: %s: HTML tags
+#: settings.php:351
+msgid "Missing version parameter of the CSS file, probably due to inappropriate caching."
+msgstr "Paramètre de version manquant du fichier CSS, probablement en raison dʼune mise en cache inappropriée."
+
+#. translators: %s: HTML tags
+#: settings.php:350
+msgid "Wrong or %s missing version parameter %s of the CSS file, probably due to inappropriate caching."
+msgstr "Paramètre de version %s incorrect ou %s manquant du fichier CSS, probablement en raison dʼune mise en cache inappropriée."
+
+#: settings.php:348
+msgid "Loaded plugin CSS file version"
+msgstr "Version du fichier CSS de lʼextension chargé"
+
+#: settings.php:342 settings.php:353
+msgid "Please delete browser's cache and all other caches used and then reload this page."
+msgstr "Veuillez supprimer le cache du navigateur et tous les autres caches utilisés, puis recharger cette page."
+
+#: settings.php:341
+msgid "Incompatible (old) JavaScript file loaded, probably due to inappropriate caching."
+msgstr "Fichier JavaScript incompatible (ancien) chargé, probablement en raison dʼune mise en cache inappropriée."
+
+#. translators: %s: HTML tags
+#: settings.php:340
+msgid "Missing version parameter of the JavaScript file, probably due to inappropriate caching."
+msgstr "Paramètre de version manquant du fichier JavaScript, probablement en raison dʼune mise en cache inappropriée."
+
+#. translators: %s: HTML tags
+#: settings.php:339
+msgid "Wrong or %s missing version parameter %s of the JavaScript file, probably due to inappropriate caching."
+msgstr "Paramètre de version %s incorrect ou %s manquant du fichier JavaScript, probablement en raison dʼune mise en cache inappropriée."
+
+#: settings.php:337
+msgid "Loaded plugin JavaScript file version"
+msgstr "Version du fichier JavaScript de lʼextension chargé"
+
+#: settings.php:309
+msgid "Support Forum"
+msgstr "Forum de support"
+
+#: settings.php:306
+msgid "Online documentation"
+msgstr "Documentation en ligne"
+
+#. Author URI of the plugin
+msgid "http://igorfuna.com/"
+msgstr "http://igorfuna.com/"
+
+#. Author of the plugin
+msgid "Igor Funa"
+msgstr "Igor Funa"
+
+#. Description of the plugin
+msgid "Ad management with many advanced advertising features to insert ads at optimal positions"
+msgstr "Gestion des annonces avec de nombreuses fonctionnalités publicitaires avancées pour insérer des annonces à des positions optimales"
+
+#. Plugin URI of the plugin
+msgid "https://adinserter.pro/documentation"
+msgstr "https://adinserter.pro/documentation"
+
+#. Plugin Name of the plugin
+msgid "Ad Inserter"
+msgstr "Ad Inserter"

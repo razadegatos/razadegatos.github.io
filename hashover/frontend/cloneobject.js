@@ -1,0 +1,1 @@
+HashOver.prototype.cloneObject=function(e){return JSON.parse(JSON.stringify(e))};

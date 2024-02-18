@@ -1,0 +1,1 @@
+HashOverCountLink.onReady(function(){window.hashoverCountLink=new HashOverCountLink});

@@ -1,0 +1,1 @@
+HashOverConstructor.backendPath=HashOverConstructor.rootPath+"/backend";

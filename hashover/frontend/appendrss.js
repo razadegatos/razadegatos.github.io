@@ -1,0 +1,1 @@
+HashOver.prototype.appendRSS=function(){var e=document.head||document.getElementsByTagName("head")[0],t=encodeURIComponent(this.instance["page-url"]),n=this.createElement("link",{rel:"alternate",href:this.setup["rss-api"]+"?url="+t,type:"application/rss+xml",title:"Comments"});e.appendChild(n)};

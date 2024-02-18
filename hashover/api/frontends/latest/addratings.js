@@ -1,0 +1,1 @@
+HashOverLatest.prototype.addRatings=function(t,s,i,a){if(void 0!==t[i+"s"]){s[i+"s"]=t[i+"s"];var e=1===t[i+"s"]?0:1,n=t[i+"s"]+" "+this.locale[i][e]}s[i+"-count"]=this.strings.parseTemplate(this.ui[i+"-count"],{permalink:a,text:n||""})};

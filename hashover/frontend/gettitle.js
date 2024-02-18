@@ -1,0 +1,1 @@
+HashOverConstructor.getTitle=function(){return document.title};

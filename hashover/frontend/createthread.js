@@ -1,0 +1,1 @@
+HashOver.prototype.createThread=function(a,e,t){var n=this,r=arguments;!0===HashOver.backendReady||1===HashOver.instanceCount?HashOver.onReady(function(){HashOver.instantiator.apply(n,r)}):setTimeout(function(){n.createThread.apply(n,r)},10)};

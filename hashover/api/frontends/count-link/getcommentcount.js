@@ -1,0 +1,1 @@
+HashOverCountLink.prototype.getCommentCount=function(n,t){var e=["url="+encodeURIComponent(n.href)],o=HashOverCountLink.backendPath+"/count-link-ajax.php",a=HashOverCountLink.cfgQueries(t);e=e.concat(a),this.ajax("POST",o,e,function(t){void 0!==t["link-text"]&&(n.textContent=t["link-text"])},!0)};

@@ -1,0 +1,1 @@
+HashOver.prototype.formattingOnclick=function(e,t){t=t?"-"+t:"";var s=this,n=this.getElement(e+"-formatting"+t),o=this.getElement(e+"-formatting-message"+t);n.onclick=function(){return s.classes.contains(o,"hashover-message-open")?(s.closeMessage(o),!1):(s.openMessage(o),!1)}};

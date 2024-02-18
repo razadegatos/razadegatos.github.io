@@ -1,0 +1,1 @@
+HashOverLatest.onReady(function(){window.hashoverLatest=new HashOverLatest});

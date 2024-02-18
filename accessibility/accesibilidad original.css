@@ -1,0 +1,166 @@
+/* INICIO ACCESIBILIDAD AJUSTES VARIOS */
+@media only screen and (max-width: 768px) {
+#NagishLiBar {
+margin-top:70px !important;
+}
+}
+@media only screen and (min-width: 768px) {
+#NagishLiBar {
+margin-top:115px !important;
+}
+}
+#NagishLiBar {
+z-index: 998 !important;
+opacity: 0.90 !important;
+}
+#NagishLiTitle {
+margin-left:24px !important;
+}
+li.nl-dropdown:nth-child(4){
+display: none !important;
+}
+#NagishLiMisc > li:nth-child(1) {
+display: none !important;
+}
+#NagishLiMisc > li:nth-child(5) {
+display: none !important;
+}
+#NagishLiInfo > li:nth-child(2) {
+display: none !important;
+}
+#NagishLiInfo > li:nth-child(4) {
+display: none !important;
+}
+#NagishLiDeveloper {
+display: none !important;
+}
+#NagishLiHelp {
+display: none !important;
+}
+#NagishLiMisc > li:nth-child(2) {
+display: none !important;
+}
+#NagishLiColors > li.not-clickable{
+display: none !important;
+}
+#NagishLiMoveTL {
+display: none !important;
+visibility: hidden !important;
+}
+#NagishLiMoveTR {
+display: none !important;
+visibility: hidden !important;
+}
+#NagishLiMoveBL {
+display: none !important;
+visibility: hidden !important;
+}
+#NagishLiMoveBR {
+display: none !important;
+visibility: hidden !important;
+}
+.nl-dropdown-arrow {
+display: none !important;
+visibility: hidden !important;
+}
+#NagishLiToggleMenus {
+display: none !important;
+visibility: hidden !important;
+}
+#NagishLiBar {
+max-width: 215px !important;
+}
+#NagishLiMove {
+margin-top:-12px !important;
+}
+#NagishLiLogo {
+margin-top:-8px !important;
+margin-bottom:-8px !important;
+}
+#NagishLiOverlayContent > div > span.nlas-title {
+padding-top:40px !important;
+}
+#NagishLiMenus * {
+margin-top:-10px !important;
+}
+#NagishLiMenus * {
+margin-bottom:-10px !important;
+}
+nagishli#NagishLiTag > #NagishLiBar > #NagishLiMenus > .nl-dropdown > .nl-dropdown-menu.show * {
+color:black !important;
+}
+/* INICIO ACCESIBILIDAD AYUDA Y REINICIAR AJUSTES */
+#NagishLiMenus > li:nth-child(1) > div * {
+font-size: 14px !important;
+}
+#NagishLiInfo > li:nth-child(1) * {
+font-size: 13px !important;
+}
+#NagishLiInfo > li:nth-child(3) * {
+font-size: 13px !important;
+}
+#NagishLiInfo > li:nth-child(6) * {
+font-size: 13px !important;
+}
+/* INICIO ACCESIBILIDAD TAMAÃ‘O DEL TEXTO */
+#NagishLiMenus > li:nth-child(2) > div * {
+font-size: 14px !important;
+}
+#NagishLiText > li:nth-child(1) * {
+font-size: 13px !important;
+}
+#NagishLiText > li:nth-child(2) * {
+font-size: 13px !important;
+}
+#NagishLiText > li:nth-child(3) * {
+font-size: 13px !important;
+}
+/* INICIO ACCESIBILIDAD COLORES */
+#NagishLiMenus > li:nth-child(3) > div * {
+font-size: 14px !important;
+}
+#NagishLiColors  > li:nth-child(1) > div * {
+font-size: 13px !important;
+}
+#NagishLiColors  > li:nth-child(2) > div * {
+font-size: 13px !important;
+}
+#NagishLiColors  > li:nth-child(3) > div * {
+font-size: 13px !important;
+}
+#NagishLiColors  > li:nth-child(4) > div * {
+font-size: 13px !important;
+}
+#NagishLiColors  > li:nth-child(5) > div * {
+font-size: 13px !important;
+}
+#NagishLiColors  > li:nth-child(7) > div * {
+font-size: 13px !important;
+}
+/* INICIO ACCESIBILIDAD REALCE */
+#NagishLiMenus > li:nth-child(5) > div * {
+font-size: 14px !important;
+}
+#NagishLiHighlight > li:nth-child(1) * {
+font-size: 13px !important;
+}
+#NagishLiHighlight > li:nth-child(2) * {
+font-size: 13px !important;
+}
+/* INICIO ACCESIBILIDAD MISCELANEAS */
+#NagishLiMenus > li:nth-child(6) > div > span.nl-dropdown-title {
+font-size: 14px !important;
+}
+#NagishLiMisc > li:nth-child(4) {
+display: none !important;
+visibility: hidden !important;
+}
+#NagishLiMisc > li:nth-child(3) * {
+font-size: 13px !important;
+}
+#NagishLiMisc > li:nth-child(6) * {
+font-size: 13px !important;
+}
+#NagishLiMisc > li:nth-child(7) * {
+font-size: 13px !important;
+}

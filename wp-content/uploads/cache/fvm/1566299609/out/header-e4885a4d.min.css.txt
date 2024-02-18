@@ -1,0 +1,14 @@
+PROCESSED on Tue, 20 Aug 2019 11:34:57 +0000
+/wp-content/plugins/menu-icons/css/extra.min.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/exopite-multifilter/public/css/bootstrap4-grid-light.min.css
+/wp-content/plugins/search-filter/style.css
+/wp-content/plugins/wp-math-captcha/css/frontend.css
+/wp-content/themes/generatepress/css/unsemantic-grid.min.css
+/wp-content/themes/generatepress/style.min.css
+/wp-content/themes/generatepress/css/mobile.min.css
+/wp-content/plugins/divi-builder/includes/builder/styles/magnific_popup.css
+/wp-content/plugins/divi-builder/includes/builder/styles/frontend-builder-plugin-style.css
+/wp-content/plugins/gp-premium/blog/functions/css/style-min.css
+/wp-content/plugins/gp-premium/menu-plus/functions/css/sticky.min.css
+PROCESSED from https://razadegatos.info/?ao_speedup_cachebuster=64187

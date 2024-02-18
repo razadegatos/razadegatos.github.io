@@ -1,0 +1,29 @@
+# Deny access to all .htaccess files
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+# Prevenir el listado de directorios desde el navegador
+Options All -Indexes
+## Prevenir el listado de directorios desde el navegador "otro"
+IndexIgnore *
+# Añadir cabeceras HTTP de seguridad en WordPress
+Header always unset "X-Powered-By"
+Header always edit Set-Cookie "(?i)^((?:(?!;\s?HttpOnly).)+)$" "$1; HttpOnly"
+## Cabecera X-Frame-Options para mejorar la seguridad
+Header always append X-Frame-Options SAMEORIGIN
+# Tell the browser to attempt the HTTPS version first
+Header set Strict-Transport-Security "max-age=10886400; includeSubDomains; preload"
+## Cabecera X-XSS-Protection para evitar ataques XSS en IE y Chrome
+Header set X-XSS-Protection "1; mode=block"
+## Cabecera X-Content-Type-Options para evitar que se carguen hojas de estilo o scripts maliciosos
+Header set X-Content-Type-Options "nosniff"
+# Disable server signature
+Header set ServerSignature "Off"
+Header set ServerTokens "Prod"
+# Control Cross-Domain Policies
+Header set X-Permitted-Cross-Domain-Policies "master-only"
+# Cabecera Content-Security-Policy
+Header set X-Content-Security-Policy "allow 'self';"
+header set Content-Security-Policy: upgrade-insecure-request;

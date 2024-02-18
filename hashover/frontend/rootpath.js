@@ -1,0 +1,1 @@
+HashOverConstructor.rootPath=HashOverConstructor.script.getAttribute("src").replace(/\/[^\/]*\/?$/,"");

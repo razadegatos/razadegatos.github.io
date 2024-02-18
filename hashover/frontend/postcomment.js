@@ -1,0 +1,1 @@
+HashOver.prototype.postComment=function(t,e,s,i,o){return!1!==this.validateComment(t,s,i)&&(setTimeout(function(){e.disabled=!0},250),this.postRequest?this.postRequest.apply(this,arguments):(setTimeout(function(){e.disabled=!1},1e4),!0))};

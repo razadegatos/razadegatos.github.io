@@ -1,0 +1,1 @@
+HashOver.prototype.getAllComments=function(e){var r=[],t=this.cloneObject(e);function l(e){if(r.push(e),void 0!==e.replies){for(var t=0,i=e.replies.length;t<i;t++)l(e.replies[t]);delete e.replies}}for(var i=0,n=t.length;i<n;i++)l(t[i]);return r};

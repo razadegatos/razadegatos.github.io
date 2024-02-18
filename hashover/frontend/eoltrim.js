@@ -1,0 +1,1 @@
+HashOverConstructor.prototype.EOLTrim=function(r){return r.replace(this.rx.EOLTrim,"")};

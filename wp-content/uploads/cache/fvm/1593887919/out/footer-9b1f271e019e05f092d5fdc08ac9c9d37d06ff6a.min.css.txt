@@ -1,0 +1,3 @@
+PROCESSED on Sat, 04 Jul 2020 18:38:47 +0000
+/wp-content/plugins/bloom/css/style.css
+PROCESSED from https://razadegatos.info/

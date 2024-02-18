@@ -1,0 +1,1 @@
+HashOverConstructor.prototype.eachClass=function(e,t,s){for(var a=e.getElementsByClassName(t),o=a.length-1;o>=0;o--)s(a[o],a,o,t)};

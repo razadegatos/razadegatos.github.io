@@ -1,0 +1,1 @@
+HashOver.prototype.AJAXEdit=function(t,e){for(var n=this.getElement(e),m=this.permalinkComment(e,this.instance.comments.primary),r=this.htmlChildren(this.parseComment(t.comment))[0].children,i=n.children,o=r.length-1;o>=0;o--)n.replaceChild(r[o],i[o]);for(var h in this.addControls(t.comment),t.comment)!0===t.comment.hasOwnProperty(h)&&(m[h]=t.comment[h])};

@@ -1,0 +1,1 @@
+HashOverLatest.prototype.addControls=function(e,t){var s=this;if(!1!==this.setup["allows-images"])for(var a=this.instance["main-element"].getElementsByClassName("hashover-embedded-image"),n=0,i=a.length;n<i;n++)a[n].onclick=function(){s.openEmbeddedImage(this)}};

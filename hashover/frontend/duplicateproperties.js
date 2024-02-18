@@ -1,0 +1,1 @@
+HashOverConstructor.prototype.duplicateProperties=function(r,t,e){for(var o={},i=0,n=t.length;i<n;i++)o[t[i]]=e;return r=this.addProperties(r,o)};

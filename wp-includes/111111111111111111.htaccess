@@ -1,0 +1,16 @@
+# Deny access to all .htaccess files
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+# Disable access to all file types except the following
+Order deny,allow
+Deny from all
+<Files ~ ".(xml|css|js|jpe?g|png|gif|pdf|docx|rtf|odf|zip|rar)$">
+Allow from all
+</Files>
+# Prevenir el listado de directorios desde el navegador
+Options All -Indexes
+## Prevenir el listado de directorios desde el navegador "otro"
+IndexIgnore *

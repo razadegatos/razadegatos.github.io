@@ -1,0 +1,1 @@
+HashOver.prototype.mouseOverChanger=function(o,n,t){var e=this;if(null===n||null===t)return o.onmouseover=null,o.onmouseout=null,!1;o.onmouseover=function(){this.textContent=e.locale[n]},o.onmouseout=function(){this.textContent=e.locale[t]}};

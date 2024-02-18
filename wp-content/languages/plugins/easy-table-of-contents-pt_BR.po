@@ -1,0 +1,2355 @@
+# Translation of Plugins - Easy Table of Contents - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Easy Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-13 02:02:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Easy Table of Contents - Stable (latest release)\n"
+
+#: includes/inc.admin-options-page.php:643
+msgid "Users can show/hide sub headings of the table of contents."
+msgstr "Os usuários podem mostrar/ocultar subtítulos da tabela de conteúdos."
+
+#: includes/inc.admin-options-page.php:641
+msgid "Collapsable Sub Headings"
+msgstr "Subtítulos recolhíveis"
+
+#: includes/inc.admin-options-page.php:634
+msgid "Users can show estimated read time for your posts/pages inside the table of contents."
+msgstr "Os usuários podem mostrar o tempo estimado de leitura de seus posts/páginas dentro da tabela de conteúdos."
+
+#: includes/inc.admin-options-page.php:632
+msgid "Read Time"
+msgstr "Tempo de leitura"
+
+#: includes/inc.admin-options-page.php:625
+msgid "Users can show limited number of headings on initial view and show remaining headings on clicking a button."
+msgstr "Os usuários podem mostrar um número limitado de títulos na visualização inicial e mostrar os títulos restantes ao clicar em um botão."
+
+#: includes/inc.admin-options-page.php:623
+msgid "View More"
+msgstr "Ver mais"
+
+#: includes/inc.admin-options-page.php:616
+msgid "Users can alos customize the appearance of Sticky of the table of contents."
+msgstr "Os usuários também podem personalizar a aparência fixa (sticky) da tabela de conteúdos."
+
+#: includes/inc.admin-options-page.php:614
+msgid "Customize Sticky TOC"
+msgstr "Personalizar o TOC fixo"
+
+#: includes/inc.admin-options-page.php:607
+msgid "Users can faster find the content they want with sticky. Also can change the position of Sticky table of contents with different options."
+msgstr "Os usuários podem encontrar mais rapidamente o conteúdo que desejam com o TOC fixo. Também é possível alterar a posição da tabela de conteúdos fixa com diferentes opções."
+
+#: includes/class.widget-toc-sticky.php:577 includes/class.widget-toc.php:414
+msgid "Font Title Color:"
+msgstr "Cor da fonte do título:"
+
+#: includes/class.widget-toc-sticky.php:572 includes/class.widget-toc.php:442
+msgid "900"
+msgstr "900"
+
+#: includes/class.widget-toc-sticky.php:571 includes/class.widget-toc.php:441
+msgid "800"
+msgstr "800"
+
+#: includes/class.widget-toc-sticky.php:570 includes/class.widget-toc.php:440
+msgid "700"
+msgstr "700"
+
+#: includes/class.widget-toc-sticky.php:569 includes/class.widget-toc.php:439
+msgid "600"
+msgstr "600"
+
+#: includes/class.widget-toc-sticky.php:568 includes/class.widget-toc.php:438
+msgid "500"
+msgstr "500"
+
+#: includes/class.widget-toc-sticky.php:567 includes/class.widget-toc.php:437
+msgid "400"
+msgstr "400"
+
+#: includes/class.widget-toc-sticky.php:566 includes/class.widget-toc.php:436
+msgid "300"
+msgstr "300"
+
+#: includes/class.widget-toc-sticky.php:565 includes/class.widget-toc.php:435
+msgid "200"
+msgstr "200"
+
+#: includes/class.widget-toc-sticky.php:564 includes/class.widget-toc.php:434
+msgid "100"
+msgstr "100"
+
+#: includes/class.options.php:1013
+msgctxt "Alignment"
+msgid "Bottom"
+msgstr "Inferior"
+
+#: includes/class.options.php:1011
+msgctxt "Alignment"
+msgid "Top"
+msgstr "Superior"
+
+#: includes/class.options.php:1001
+msgctxt "Position"
+msgid "Right"
+msgstr "Direita"
+
+#: includes/class.options.php:1000
+msgctxt "Position"
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/class.options.php:886
+msgid "Manual Adding widget shortcode"
+msgstr "Adição manual do shortcode do widget"
+
+#: includes/class.options.php:504
+msgid "Font Weight"
+msgstr "Peso da fonte"
+
+#: includes/class.admin.php:563
+msgid "Do not show counters for the table of contents."
+msgstr "Não mostrar contadores para a tabela de conteúdos."
+
+#: includes/class.admin.php:556 includes/class.admin.php:562
+msgid "Hide Counter"
+msgstr "Ocultar contador"
+
+#: includes/inc.admin-options-page.php:481
+msgid "eztoc_wordpress_final_output"
+msgstr "eztoc_wordpress_final_output"
+
+#: includes/inc.admin-options-page.php:478
+msgid "ez_toc_label_below_html"
+msgstr "ez_toc_label_below_html"
+
+#: includes/inc.admin-options-page.php:475
+msgid "ez_toc_modify_icon"
+msgstr "ez_toc_modify_icon"
+
+#: includes/inc.admin-options-page.php:472
+msgid "ez_toc_sticky_post_types"
+msgstr "ez_toc_sticky_post_types"
+
+#: includes/inc.admin-options-page.php:469
+msgid "ez_toc_sticky_enable_support"
+msgstr "ez_toc_sticky_enable_support"
+
+#: includes/inc.admin-options-page.php:466
+msgid "ez_toc_url_anchor_target"
+msgstr "ez_toc_url_anchor_target"
+
+#: includes/inc.admin-options-page.php:463
+msgid "ez_toc_widget_sticky_container_class"
+msgstr "ez_toc_widget_sticky_container_class"
+
+#: includes/inc.admin-options-page.php:460
+msgid "ez_toc_container_class"
+msgstr "ez_toc_container_class"
+
+#: includes/inc.admin-options-page.php:457
+msgid "ez_toc_sticky_title"
+msgstr "ez_toc_sticky_title"
+
+#: includes/inc.admin-options-page.php:454
+msgid "ez_toc_title"
+msgstr "ez_toc_title"
+
+#: includes/inc.admin-options-page.php:410
+msgid "You can also choose Custom Theme colors of Sticky `Easy Table of Contents` according to your requirements. (PRO)"
+msgstr "Você também pode escolher cores personalizadas do tema para o \"Easy Table of Contents\" fixo de acordo com seus requisitos. (PRO)"
+
+#: includes/inc.admin-options-page.php:408
+msgid "You can also choose Theme color of Sticky `Easy Table of Contents` on Theme Options section according to your choice. (PRO)"
+msgstr "Você também pode escolher a cor do tema para o \"Easy Table of Contents\" fixo na seção de \"Opções de tema\", de acordo com sua preferência. (PRO)"
+
+#: includes/inc.admin-options-page.php:406
+msgid "You can also change title of highlight headings of Sticky `Easy Table of Contents`. (PRO)"
+msgstr "Você também pode alterar o título dos títulos destacados do \"Easy Table of Contents\" fixo. (PRO)"
+
+#: includes/inc.admin-options-page.php:404
+msgid "You can also change background of highlight headings of Sticky `Easy Table of Contents`. (PRO)"
+msgstr "Você também pode alterar o plano de fundo dos títulos destacados do \"Easy Table of Contents\" fixo. (PRO)"
+
+#: includes/inc.admin-options-page.php:402
+msgid "You can also highlight headings while scrolling of Sticky `Easy Table of Contents`. (PRO)"
+msgstr "Você também pode destacar títulos enquanto rola no 'Easy Table of Contents' fixo. (PRO)"
+
+#: includes/inc.admin-options-page.php:400
+msgid "You can also change title of Sticky `Easy Table of Contents`. (PRO)"
+msgstr "Você também pode alterar o título do \"Easy Table of Contents\" fixo. (PRO)"
+
+#: includes/inc.admin-options-page.php:398
+msgid "You can also choose Click TOC Close on desktop of Sticky `Easy Table of Contents`."
+msgstr "Você também pode escolher \"Fechar TOC\" ao clicar no desktop do \"Easy Table of Contents\" fixo."
+
+#: includes/inc.admin-options-page.php:396
+msgid "You can also choose Click TOC Close on Mobile of Sticky `Easy Table of Contents`."
+msgstr "Você também pode escolher fechar o TOC ao clicar em dispositivos móveis do \"Easy Table of Contents\" fixo."
+
+#: includes/inc.admin-options-page.php:394
+msgid "You can change Button Text of Sticky `Easy Table of Contents`."
+msgstr "Você pode alterar o texto do botão do \"Easy Table of Contents\" fixo."
+
+#: includes/inc.admin-options-page.php:392
+msgid "You can change height of Sticky `Easy Table of Contents` from select Fixed or Relative sizes or you select custom height then it will be showing custom height option for enter manually height."
+msgstr "Você pode alterar a altura do \"Easy Table of Contents\" fixo selecionando tamanhos \"Fixo\" ou \"Relativo\", ou escolher uma altura personalizada, quando será exibida a opção para digitar a altura manualmente."
+
+#: includes/inc.admin-options-page.php:390
+msgid "You can change width of Sticky `Easy Table of Contents` from select Fixed or Relative sizes or you select custom width then it will be showing custom width option for enter manually width."
+msgstr "Você pode alterar a largura do \"Easy Table of Contents\" fixo selecionando tamanhos \"Fixo\" ou \"Relativo\", ou escolher uma largura personalizada, quando será exibida a opção para digitar a largura manualmente."
+
+#: includes/inc.admin-options-page.php:388
+msgid "You can also decide whether the sticky toc should be opened by default on load."
+msgstr "Você também pode decidir se o TOC fixo deve ser aberto por padrão ao ser carregado."
+
+#: includes/inc.admin-options-page.php:386
+msgid "You can also choose Alignment of Sticky `Easy Table of Contents`."
+msgstr "Você também pode escolher o alinhamento do \"Easy Table of Contents\" fixo."
+
+#: includes/inc.admin-options-page.php:384
+msgid "You can also decide the position of sticky table of contents on left or right."
+msgstr "Você também pode decidir a posição da tabela de conteúdos fixa, à esquerda ou à direita."
+
+#: includes/inc.admin-options-page.php:382
+msgid "You can also decide on which device you want to show sticky table of contents Mobile or Laptop."
+msgstr "Você também pode decidir em qual dispositivo deseja mostrar a tabela de conteúdos fixa, seja em dispositivos móveis ou laptops."
+
+#: includes/inc.admin-options-page.php:380
+msgid "You can also decide whether to have sticky table of contents enabled on Custom Taxonomy."
+msgstr "Você também pode decidir se deseja ter a tabela de conteúdos fixa ativada em taxonomia personalizada."
+
+#: includes/inc.admin-options-page.php:378
+msgid "You can also decide whether to have sticky table of contents enabled on Product Category."
+msgstr "Você também pode decidir se deseja ter a tabela de conteúdos fixa ativada em categoria de produto."
+
+#: includes/inc.admin-options-page.php:376
+msgid "You can also decide whether to have sticky table of contents enabled on Category|Tag."
+msgstr "Você também pode decidir se deseja ter a tabela de conteúdos fixa ativada em categoria/tag."
+
+#: includes/inc.admin-options-page.php:374
+msgid "You can also decide whether to have sticky table of contents enabled on Homepage."
+msgstr "Você também pode decidir se deseja ter a tabela de conteúdos fixa ativada na página inicial."
+
+#: includes/inc.admin-options-page.php:372
+msgid "Select the post types on which sticky table of contents has been to be enabled."
+msgstr "Selecione os tipos de posts nos quais a tabela de conteúdos fixa deve ser ativada."
+
+#: includes/inc.admin-options-page.php:370
+msgid "Go to Sticky TOC tab to show Table of contents as sticky on your site."
+msgstr "Acesse a aba \"TOC fixo\" para mostrar a tabela de conteúdos como fixa em seu site."
+
+#: includes/inc.admin-options-page.php:367
+msgid "4. STICKY TABLE"
+msgstr "4. TABELA FIXA"
+
+#: includes/class.options.php:934
+msgid "Table of contents as Sticky on your site. <a target=\"_blank\" href=\"%s\">Learn More</a>"
+msgstr "Tabela de conteúdos fixa em seu site. <a target=\"_blank\" href=\"%s\">Saiba mais</a>"
+
+#: includes/class.options.php:880
+msgid "<p><code>[header_label=\"Title\"]</code> – title for the table of contents</p><p><code>[display_header_label=\"no\"]</code> – no title for the table of contents</p><p><code>[toggle_view=\"no\"]</code> – no toggle for the table of contents</p><p><code>[initial_view=\"no\"]</code> – initially hide the table of contents</p><p><code>[display_counter=\"no\"]</code> – no counter for the table of contents</p><p><code>[post_types=\"post,page\"]</code> – post types seperated by ,(comma)</p><p><code>[post_in=\"1,2\"]</code> – ID’s of the posts|pages seperated by ,(comma)</p><p><code>[device_target=\"desktop\"]</code> – mobile or desktop device support for the table of contents</p><p><code>[view_more=\"5\"]</code> – 5, is the number of headings loads on first view, before user interaction (PRO)</p>"
+msgstr "<p><code>[header_label=\"Title\"]</code> – título para a tabela de conteúdos</p><p><code>[display_header_label=\"no\"]</code> – sem título para a tabela de conteúdos</p><p><code>[toggle_view=\"no\"]</code> – sem botão de alternância para a tabela de conteúdos</p><p><code>[initial_view=\"no\"]</code> – ocultar inicialmente a tabela de conteúdos</p><p><code>[display_counter=\"no\"]</code> – sem contador para a tabela de conteúdos</p><p><code>[post_types=\"post,page\"]</code> – tipos de posts separados por vírgula (`,`)</p><p><code>[post_in=\"1,2\"]</code> – IDs dos posts|páginas separados por vírgula (`,`)</p><p><code>[device_target=\"desktop\"]</code> – suporte para dispositivo móvel ou desktop para a tabela de conteúdos</p><p><code>[view_more=\"5\"]</code> – 5 é o número de títulos carregados na visualização inicial, antes da interação do usuário (PRO)</p>"
+
+#: includes/class.options.php:878
+msgid "Supported Attributes"
+msgstr "Atributos suportados"
+
+#: includes/class.options.php:832
+msgid "Makes toggle (js method) work for Infinite Scroll – Ajax Loaded contents/posts."
+msgstr "Faz com que a alternância (método js) funcione para rolagem infinita – conteúdos/posts carregados por Ajax."
+
+#: includes/class.options.php:831
+msgid "Ajax Load More"
+msgstr "Carregar mais por Ajax"
+
+#: includes/class.options.php:719
+msgid "<p><strong>Examples:</strong></p><ul><li><code>Fruit*</code> Ignore headings starting with \"Fruit\".</li><li><code>*Fruit Diet*</code> Ignore headings with \"Fruit Diet\" somewhere in the heading.</li><li><code>Apple Tree|Oranges|Yellow Bananas</code> Ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\".</li></ul><p><strong>Note:</strong> This is not case sensitive</p>"
+msgstr "<p><strong>Exemplos:</strong></p><ul><li><code>Fruta*</code> Ignorar títulos começando com \"Fruta\".</li><li><code>*Dieta de frutas*</code> Ignorar títulos com \"Dieta de frutas\" em algum lugar do título.</li><li><code>Macieira|Laranjas|Bananas amarelas</code> Ignorar títulos que sejam exatamente \"Macieira\", \"Laranjas\" ou \"Bananas amarelas\".</li></ul><p><strong>Observação:</strong> Isso não diferencia maiúsculas de minúsculas</p>"
+
+#: includes/class.options.php:620
+msgid "Show the table of contents for qualifying items on the homepage. <a target=\"_blank\" href=\"%s\">Learn More</a>"
+msgstr "Mostrar a tabela de conteúdos para itens qualificados na página inicial. <a target=\"_blank\" href=\"%s\">Saiba mais</a>"
+
+#: includes/class.options.php:1097
+msgid "Molongui Authorship"
+msgstr "Autoria de Molongui"
+
+#: includes/class.options.php:671
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: includes/class.options.php:670
+msgid "Footer (default)"
+msgstr "Rodapé (padrão)"
+
+#: includes/class.options.php:667
+msgid "Load Js In"
+msgstr "Carregar JS em"
+
+#: includes/class.options.php:660 includes/class.options.php:990
+msgid "Desktop"
+msgstr "Desktop"
+
+#: includes/class.options.php:659 includes/class.options.php:989
+msgid "Mobile"
+msgstr "Dispositivo móvel"
+
+#: includes/class.options.php:658 includes/class.options.php:988
+msgid "Select"
+msgstr "Selecionar"
+
+#: includes/class.options.php:655 includes/class.options.php:985
+msgid "Device Target"
+msgstr "Dispositivo destino"
+
+#: includes/class.options.php:248
+msgid "Select Image after which ETOC should get display"
+msgstr "Selecione a imagem após a qual o ETOC deve ser exibido"
+
+#: includes/class.options.php:247
+msgid "Select Image"
+msgstr "Selecionar imagem"
+
+#: includes/class.options.php:231
+msgid "After Image number"
+msgstr "Após o número da imagem"
+
+#: includes/class.admin.php:469
+msgid "Using the appearance options below will override the global Appearance settings."
+msgstr "O uso das opções de aparência abaixo substituirá as configurações globais de aparência."
+
+#: includes/class.admin.php:461
+msgid "Appearance:"
+msgstr "Aparência:"
+
+#: includes/class.options.php:979
+msgid "Show the Sticky TOC for description on the custom taxonomy pages."
+msgstr "Mostrar o TOC fixo para a descrição nas páginas de taxonomia personalizada."
+
+#: includes/class.options.php:965
+msgid "Show the Sticky TOC for description on the tag pages."
+msgstr "Mostrar o TOC fixo para a descrição nas páginas de tags."
+
+#: includes/class.options.php:825
+msgid "Keeps line break of headings while generating toc."
+msgstr "Mantém quebras de linha nos títulos ao gerar o TOC."
+
+#: includes/class.options.php:824
+msgid "Preserve Line Breaks"
+msgstr "Preservar quebras de linha"
+
+#: includes/class.options.php:775
+msgid "Apply default anchor prefix option to all anchors whether characters qualify or not."
+msgstr "Aplicar a opção de prefixo de âncora padrão a todas as âncoras, independentemente de os caracteres serem qualificados ou não."
+
+#: includes/class.options.php:774
+msgid "Default Anchor Prefix For All"
+msgstr "Prefixo de âncora padrão para todos"
+
+#: includes/class.options.php:757
+msgid "Note: This setting will override above Limit Path option, if the limit path has been set."
+msgstr "Observação: Essa configuração substituirá a opção de limite de caminho acima, se o limite de caminho tiver sido definido."
+
+#: includes/class.options.php:756
+msgid "Add the url of the pages that you do not want to show table of contents on. Any part or match of the url, will restrict table of contents from loading on those pages. Please add the urls in the new lines by clicking on \"enter\"."
+msgstr "Adicione o URL das páginas em que você não deseja mostrar a tabela de conteúdos. Qualquer parte ou correspondência do URL impedirá que a tabela de conteúdos seja carregada nessas páginas. Adicione os URLs nas novas linhas clicando em \"Enter\"."
+
+#: includes/class.options.php:755
+msgid "Exclude By Matching Url/String"
+msgstr "Excluir por correspondência de URL/string"
+
+#: includes/class.options.php:649
+msgid "Show the table of contents for description on the custom taxonomy pages."
+msgstr "Mostrar a tabela de conteúdos para a descrição nas páginas de taxonomia personalizada."
+
+#: includes/class.options.php:648 includes/class.options.php:978
+msgid "Custom Taxonomy"
+msgstr "Taxonomia personalizada"
+
+#: includes/class.options.php:635
+msgid "Show the table of contents for description on the tag pages."
+msgstr "Mostrar a tabela de conteúdos para a descrição nas páginas de tags."
+
+#: includes/class.options.php:634 includes/class.options.php:964
+msgid "Tag"
+msgstr "Tag"
+
+#: includes/class.options.php:356
+msgid "NOTE: Please keep Smooth Scroll \"ON\" to make this option work properly."
+msgstr "OBSERVAÇÃO: Mantenha a rolagem suave \"ATIVADA\" para que esta opção funcione corretamente."
+
+#: includes/class.options.php:355
+msgid "Jump link works without adding ids in the URL"
+msgstr "O link de salto funciona sem adicionar IDs no URL"
+
+#: includes/class.options.php:354
+msgid "Exclude href from url"
+msgstr "Excluir href do URL"
+
+#: includes/class.options.php:726
+msgid "Add SiteNavigation Schema for displayed table of contents"
+msgstr "Adicionar dados estruturados (schema) de navegação do site para a tabela de conteúdos exibida"
+
+#: includes/class.options.php:725
+msgid "SiteNavigation Schema"
+msgstr "Dados estruturados (schema) de navegação do site"
+
+#: includes/class.options.php:256
+msgid "Do not consider Paragraphs which are inside Blockqoute"
+msgstr "Não considerar parágrafos que estão dentro de citações em bloco"
+
+#: includes/class.options.php:255
+msgid "Exclude Blockqoute"
+msgstr "Excluir citação em bloco"
+
+#: includes/inc.admin-options-page.php:652
+msgid "Easily create TOC with your custom ACF fields."
+msgstr "Crie facilmente um TOC com seus campos personalizados ACF."
+
+#: includes/inc.admin-options-page.php:650
+msgid "ACF Support"
+msgstr "Suporte ACF"
+
+#: includes/class.options.php:2116
+msgid "Upgrade to  Pro"
+msgstr "Atualizar para Pro"
+
+#: includes/class.options.php:2116
+msgid "To unlock Sticky Theme Design options"
+msgstr "Para desbloquear as opções de design de tema fixo"
+
+#: includes/class.options.php:1091
+msgid "It includes Goodlayers Builder content to TOC."
+msgstr "Inclui conteúdo do Goodlayers Builder no TOC."
+
+#: includes/class.options.php:1090
+msgid "Goodlayers Core Builder"
+msgstr "Goodlayers Core Builder"
+
+#: includes/class.options.php:1074
+msgid "Close Sticky Toggle on click over headings in desktop"
+msgstr "Fechar botão de alternância de fixação ao clicar nos títulos no desktop"
+
+#: includes/class.options.php:1071
+msgid "Click TOC Close on desktop"
+msgstr "Clique em \"Fechar TOC\" no desktop"
+
+#: includes/class.options.php:1012
+msgid "Middle"
+msgstr "Meio"
+
+#: includes/class.options.php:972
+msgid "Show the Sticky TOC for description on the product category pages."
+msgstr "Mostrar o TOC fixo para a descrição nas páginas de categoria de produtos."
+
+#: includes/class.options.php:958
+msgid "Show the Sticky TOC for description on the category pages."
+msgstr "Mostrar o TOC fixo para a descrição nas páginas de categoria."
+
+#: includes/class.options.php:951
+msgid "Show the Sticky TOC for qualifying items on the homepage."
+msgstr "Mostrar o TOC fixo para os itens qualificados na página inicial."
+
+#: includes/class.options.php:943
+msgid "NOTE: The Sticky TOC will only be inserted on post types for which it has been enabled."
+msgstr "OBSERVAÇÃO: O TOC fixo será inserido apenas nos tipos de posts para os quais foi ativado."
+
+#: includes/class.options.php:942
+msgid "Select the post types which will have the Sticky TOC inserted."
+msgstr "Selecione os tipos de posts nos quais o TOC fixo será inserido."
+
+#: includes/class.options.php:932 includes/inc.admin-options-page.php:83
+#: includes/inc.admin-options-page.php:163
+msgid "Sticky TOC"
+msgstr "TOC fixo"
+
+#: includes/class.options.php:818
+msgid "Enable This option when the TOC shortcode is used inside custom template, sidebar or when manually added do_shortcode(\"[ez-toc]\") function in php files"
+msgstr "Ativar esta opção quando o shortcode TOC for usado dentro de um modelo personalizado, barra lateral ou quando adicionado manualmente com a função do_shortcode(\"[ez-toc]\") em um arquivo PHP"
+
+#: includes/class.options.php:817
+msgid "Generate TOC link ids"
+msgstr "Gerar IDs para links do TOC"
+
+#: includes/class.options.php:811
+msgid "It excludes TOC from Rest API Content."
+msgstr "Isso exclui o TOC do conteúdo da API Rest."
+
+#: includes/class.options.php:810
+msgid "Disable TOC in RestAPI"
+msgstr "Desativar TOC na API Rest"
+
+#: includes/class.options.php:804
+msgid "It will add page title to the list in TOC"
+msgstr "Isso irá adicionar o título da página à lista no TOC"
+
+#: includes/class.options.php:803
+msgid "Show Page title in TOC"
+msgstr "Mostrar título da página no TOC"
+
+#: includes/class.options.php:434
+msgid "Enable Wrapping"
+msgstr "Ativar quebra de linha (wrapping)"
+
+#: includes/class.options.php:1019
+msgid "TOC open on load"
+msgstr "TOC aberto ao carregar"
+
+#: includes/class.options.php:297
+msgid "label"
+msgstr "rótulo"
+
+#: includes/class.options.php:296
+msgid "div"
+msgstr "div"
+
+#: includes/class.options.php:295
+msgid "span"
+msgstr "span"
+
+#: includes/class.options.php:294
+msgid "p (default)"
+msgstr "p (padrão)"
+
+#: includes/class.options.php:291
+msgid "Header Label Tag"
+msgstr "Tag de rótulo do cabeçalho"
+
+#: includes/inc.admin-options-page.php:776
+msgid "One-Time Fee"
+msgstr "Taxa única"
+
+#: includes/inc.admin-options-page.php:297
+msgid "Write your query"
+msgstr "Escreva sua consulta"
+
+#: includes/class.options.php:1134
+msgid "Outside"
+msgstr "Fora"
+
+#: includes/class.options.php:1133
+msgid "Inside"
+msgstr "Dentro"
+
+#: easy-table-of-contents.php:1643
+msgid "Index"
+msgstr "Índice"
+
+#: includes/inc.admin-options-page.php:212
+msgid "Upload json settings file to import"
+msgstr "Enviar arquivo de configurações JSON para importação"
+
+#: includes/inc.admin-options-page.php:209
+msgid "Import Settings"
+msgstr "Importar configurações"
+
+#: includes/inc.admin-options-page.php:205
+msgid "Export all ETOC settings to json file"
+msgstr "Exportar todas as configurações do ETOC para um arquivo JSON"
+
+#: includes/inc.admin-options-page.php:204
+msgid "Export"
+msgstr "Exportar"
+
+#: includes/inc.admin-options-page.php:202
+msgid "Export Settings"
+msgstr "Exportar configurações"
+
+#: includes/inc.admin-options-page.php:195
+msgid "Import/Export Settings"
+msgstr "Configurações de importação/exportação"
+
+#: includes/inc.admin-options-page.php:83
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: includes/inc.admin-options-page.php:83
+#: includes/inc.admin-options-page.php:179
+msgid "Compatibility"
+msgstr "Compatibilidade"
+
+#: includes/class.options.php:1084
+msgid "It includes headings created by mediavine recipe card custom post."
+msgstr "Isso inclui os títulos criados pelo post personalizado do cartão de receitas do Mediavine."
+
+#: includes/class.options.php:1083
+msgid "Create by Mediavine"
+msgstr "Criado por Mediavine"
+
+#: includes/class.options.php:240
+msgid "Select paragraph after which ETOC should get display"
+msgstr "Selecionar o parágrafo após o qual o ETOC deve ser exibido"
+
+#: includes/class.options.php:239
+msgid "Select Paragraph"
+msgstr "Selecionar parágrafo"
+
+#: includes/class.options.php:230
+msgid "After paragraph number"
+msgstr "Após o número do parágrafo"
+
+#: includes/class.options.php:791
+msgid "Eg: href=\"/post/id#xxxx\""
+msgstr "Por exemplo: href=\"/post/id#xxxx\""
+
+#: includes/class.options.php:791
+msgid "Add request URI before anchor link. "
+msgstr "Adicionar URI da solicitação antes do link de âncora. "
+
+#: includes/class.options.php:790
+msgid "Add Request URI"
+msgstr "Adicionar URI da solicitação"
+
+#: includes/class.options.php:330
+msgid "Counter Position"
+msgstr "Posição do contador"
+
+#: includes/class.options.php:278
+msgid "Allow the user to toggle the visibility of the table of contents on header text"
+msgstr "Permitir que o usuário alterne a visibilidade da tabela de conteúdo no texto do cabeçalho"
+
+#: includes/class.options.php:277
+msgid "Toggle on Header Text"
+msgstr "Alternar no texto do cabeçalho"
+
+#: includes/class.options.php:642
+msgid "Show the table of contents for description on the product category pages."
+msgstr "Exibir a tabela de conteúdos para a descrição nas páginas de categoria de produtos."
+
+#: includes/class.options.php:641 includes/class.options.php:971
+msgid "Product Category"
+msgstr "Categoria de produto"
+
+#: includes/inc.admin-options-page.php:528
+msgid "I Want To Upgrade!"
+msgstr "Quero atualizar!"
+
+#: includes/class.options.php:464
+msgid "Headings Padding Right"
+msgstr "Preenchimento à direita dos títulos"
+
+#: includes/class.options.php:458
+msgid "Headings Padding Left"
+msgstr "Preenchimento à esquerda dos títulos"
+
+#: includes/class.options.php:452
+msgid "Headings Padding Bottom"
+msgstr "Preenchimento inferior dos títulos"
+
+#: includes/class.options.php:446
+msgid "Headings Padding Top"
+msgstr "Preenchimento superior dos títulos"
+
+#: includes/class.options.php:440
+msgid "Headings Padding"
+msgstr "Preenchimento dos títulos"
+
+#: includes/inc.functions.php:143
+msgid "PHP Manual"
+msgstr "Manual do PHP"
+
+#: includes/inc.functions.php:143
+msgid "Check official doc:"
+msgstr "Consulte a documentação oficial:"
+
+#: includes/inc.functions.php:143
+msgid "PHP MBString Extension is not enabled in your php setup, please enabled to work perfectly"
+msgstr "A extensão PHP MBString não está ativada na sua configuração PHP, ative para que funcione perfeitamente"
+
+#: includes/class.options.php:2096
+msgid "Security Alert: Unauthorized Access!"
+msgstr "Alerta de segurança: Acesso não autorizado!"
+
+#: includes/class.options.php:628
+msgid "Show the table of contents for description on the category pages."
+msgstr "Exibir a tabela de conteúdos para a descrição nas páginas de categoria."
+
+#: includes/class.options.php:627 includes/class.options.php:957
+msgid "Category"
+msgstr "Categoria"
+
+#: includes/class.options.php:1067
+msgid "Close Sticky Toggle on click over headings in mobile devices"
+msgstr "Fechar botão de alternância fixa ao clicar nos títulos em dispositivos móveis"
+
+#: includes/class.options.php:1064
+msgid "Click TOC Close on Mobile"
+msgstr "Clique em \"Fechar TOC\" em dispositivos móveis"
+
+#: includes/class.options.php:364
+msgid "You can on or off Easy TOC for the AMP Pages."
+msgstr "Você pode ativar ou desativar o Easy Table of Contents para as páginas AMP."
+
+#: includes/class.options.php:363
+msgid "TOC AMP Page Support"
+msgstr "Suporte de página AMP para Tabela de conteúdos (TOC)"
+
+#: includes/class.widget-toc-sticky.php:632
+msgid "Scroll Max Height"
+msgstr "Altura máxima de rolagem"
+
+#: includes/class.widget-toc-sticky.php:626
+msgid "Navigation Scroll Bar"
+msgstr "Barra de rolagem de navegação"
+
+#: includes/class.widget-toc-sticky.php:612
+msgid "Fixed Top Position"
+msgstr "Posição aderente superior"
+
+#: includes/class.widget-toc-sticky.php:606
+#: includes/class.widget-toc-sticky.php:620
+#: includes/class.widget-toc-sticky.php:640
+msgid "none"
+msgstr "nenhum"
+
+#: includes/class.widget-toc-sticky.php:556
+#: includes/class.widget-toc-sticky.php:605
+#: includes/class.widget-toc-sticky.php:619
+#: includes/class.widget-toc-sticky.php:639 includes/class.widget-toc.php:426
+msgid "em"
+msgstr "em"
+
+#: includes/class.widget-toc-sticky.php:553
+#: includes/class.widget-toc-sticky.php:604
+#: includes/class.widget-toc-sticky.php:618
+#: includes/class.widget-toc-sticky.php:638 includes/class.widget-toc.php:423
+msgid "%"
+msgstr "%"
+
+#: includes/class.widget-toc-sticky.php:555
+#: includes/class.widget-toc-sticky.php:603
+#: includes/class.widget-toc-sticky.php:617
+#: includes/class.widget-toc-sticky.php:637 includes/class.widget-toc.php:425
+msgid "px"
+msgstr "px"
+
+#: includes/class.widget-toc-sticky.php:554
+#: includes/class.widget-toc-sticky.php:601
+#: includes/class.widget-toc-sticky.php:616
+#: includes/class.widget-toc-sticky.php:636 includes/class.widget-toc.php:424
+msgid "pt"
+msgstr "pt"
+
+#: includes/class.widget-toc-sticky.php:597
+msgid "Sidebar Width"
+msgstr "Largura da barra lateral"
+
+#: includes/class.widget-toc-sticky.php:592
+msgid "Scroll Fixed Position"
+msgstr "Posição aderente da rolagem"
+
+#: includes/class.widget-toc-sticky.php:588
+msgid "Advanced Options"
+msgstr "Opções avançadas"
+
+#: includes/class.widget-toc-sticky.php:31
+msgid "Sticky Sidebar Table of Contents"
+msgstr "Tabela de conteúdos lateral fixa"
+
+#: easy-table-of-contents.php:1220
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s: Classe do widget não encontrada. Certifique-se de que este widget exista e o nome da classe esteja correto"
+
+#: includes/inc.admin-options-page.php:868
+msgid "Black Friday, Cyber Monday, Christmas &amp; New year are the only times we offer discounts this big."
+msgstr "A Black Friday, Cyber Monday, Natal e Ano Novo são as únicas ocasiões em que oferecemos descontos tão grandes."
+
+#: includes/inc.admin-options-page.php:867
+msgid "Get This Offer Now"
+msgstr "Obtenha esta oferta agora"
+
+#: includes/inc.admin-options-page.php:866
+msgid "Upgrade the PRO version during this festive season and get our biggest discount of all time on New Purchases, Renewals &amp; Upgrades"
+msgstr "Atualize para a versão PRO durante esta temporada festiva e obtenha o nosso maior desconto de todos os tempos em novas compras, renovações e atualizações"
+
+#: includes/inc.admin-options-page.php:865
+msgid "Easy TOC PRO"
+msgstr "Easy Table of Contents PRO"
+
+#: includes/inc.admin-options-page.php:865
+msgid "40% OFF on"
+msgstr "40% DE DESCONTO em"
+
+#: includes/inc.admin-options-page.php:860
+msgid "40% OFF - Limited Time Only"
+msgstr "40% DE DESCONTO - Por tempo limitado"
+
+#: includes/inc.admin-options-page.php:244
+msgid "Reset"
+msgstr "Redefinir"
+
+#: includes/class.options.php:2092
+msgid "Security Alert: nonce not verified!"
+msgstr "Alerta de segurança: nonce não verificado!"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://tocwp.com/"
+msgstr "https://tocwp.com/"
+
+#: includes/inc.admin-options-page.php:846
+msgid "Contact a Human"
+msgstr "Contatar com um humano"
+
+#: includes/inc.admin-options-page.php:844
+msgid "All the plans are year-to-year which are subscribed annually."
+msgstr "Todos os planos são anuais e são assinados anualmente."
+
+#: includes/inc.admin-options-page.php:843
+msgid "I have other pre-sale questions, can you help?"
+msgstr "Tenho outras perguntas sobre a pré-venda, você pode me ajudar?"
+
+#: includes/inc.admin-options-page.php:837
+msgid "Yes, you will get updates for all the premium plugins until your subscription is active."
+msgstr "Sim, você receberá atualizações para todos os plugins premium enquanto sua assinatura estiver ativa."
+
+#: includes/inc.admin-options-page.php:836
+msgid "Do I get updates for the premium plugin?"
+msgstr "Recebo atualizações para o plugin premium?"
+
+#: includes/inc.admin-options-page.php:833
+msgid "You are fully protected by our 100% Money-Back Guarantee Unconditional. If during the next 14 days you experience an issue that makes the plugin unusable, and we are unable to resolve it, we’ll happily offer a full refund."
+msgstr "Você está totalmente protegido pela nossa garantia de reembolso incondicional de 100%. Se durante os próximos 14 dias você enfrentar um problema que torne o plugin inutilizável e não pudermos resolvê-lo, teremos o prazer de oferecer um reembolso total."
+
+#: includes/inc.admin-options-page.php:832
+msgid "Do you offer refunds?"
+msgstr "Vocês oferecem reembolsos?"
+
+#: includes/inc.admin-options-page.php:829
+msgid "Yes. You can upgrade your plan by contacting us."
+msgstr "Sim. Você pode atualizar seu plano falando conosco."
+
+#: includes/inc.admin-options-page.php:828
+msgid "Can I change my plan later on?"
+msgstr "Posso mudar meu plano posteriormente?"
+
+#: includes/inc.admin-options-page.php:825
+msgid "Yes. You can cancel your membership by contacting us."
+msgstr "Sim, você pode cancelar sua assinatura falando conosco."
+
+#: includes/inc.admin-options-page.php:824
+msgid "Can I cancel my membership at any time?"
+msgstr "Posso cancelar minha assinatura a qualquer momento?"
+
+#: includes/inc.admin-options-page.php:817
+msgid "Yes, you can use the plugins, but you will not get future updates for those plugins."
+msgstr "Sim, você pode usar os plugins, mas não receberá atualizações futuras para esses plugins."
+
+#: includes/inc.admin-options-page.php:816
+msgid "Can I use the plugins after my subscription is expired?"
+msgstr "Posso usar os plugins depois que minha assinatura expirar?"
+
+#: includes/inc.admin-options-page.php:813
+msgid "Yes! Top-notch customer support for our paid customers is key for a quality product, so we’ll do our very best to resolve any issues you encounter via our support page."
+msgstr "Sim! O suporte ao cliente de alta qualidade para nossos clientes pagos é fundamental para um produto de qualidade, portanto, faremos o possível para resolver quaisquer problemas que você encontrar por meio de nossa página de suporte."
+
+#: includes/inc.admin-options-page.php:812
+msgid "Do you offer support if I need help?"
+msgstr "Oferecem suporte se eu precisar de ajuda?"
+
+#: includes/inc.admin-options-page.php:809
+msgid "We accepts PayPal and Credit Card payments."
+msgstr "Aceitamos pagamentos por PayPal e cartão de crédito."
+
+#: includes/inc.admin-options-page.php:808
+msgid "What payment methods are accepted?"
+msgstr "Quais métodos de pagamento são aceitos?"
+
+#: includes/inc.admin-options-page.php:805
+msgid "All the plans are year-to-year which are subscribed annually except for lifetime plan."
+msgstr "Todos os planos são anuais e são assinados por um período de um ano, exceto o plano vitalício."
+
+#: includes/inc.admin-options-page.php:804
+msgid "What's the time span for your contracts?"
+msgstr "Qual é o período de duração dos seus contratos?"
+
+#: includes/inc.admin-options-page.php:801
+msgid "No. There are no setup fees on any of our plans"
+msgstr "Não. Não há taxas de configuração em nenhum dos nossos planos"
+
+#: includes/inc.admin-options-page.php:800
+msgid "Is there a setup fee?"
+msgstr "Existe taxa de configuração?"
+
+#: includes/inc.admin-options-page.php:795
+msgid "Frequently Asked Questions"
+msgstr "Perguntas frequentes (FAQ)"
+
+#: includes/inc.admin-options-page.php:791
+msgid "Read The Reviews"
+msgstr "Leia as avaliações"
+
+#: includes/inc.admin-options-page.php:789
+msgid "More than 500k Websites, Blogs &amp; E-Commerce shops are powered by our easy table of contents plugin making it the #1 Independent TOC plugin in WordPress."
+msgstr "Mais de 500 mil sites, blogs e lojas de comércio eletrônico são impulsionados pelo nosso plugin Easy Table of Contents, o que o torna o plugin TOC independente número 1 do WordPress."
+
+#: includes/inc.admin-options-page.php:788
+msgid "Used by more than 5,00,000+ Users!"
+msgstr "Usado por mais de 500.000 usuários!"
+
+#: includes/inc.admin-options-page.php:779
+msgid "Lifetime License"
+msgstr "Licença vitalícia"
+
+#: includes/inc.admin-options-page.php:778
+msgid "Unlimited E-mail support"
+msgstr "Suporte ilimitado por e-mail"
+
+#: includes/inc.admin-options-page.php:772
+msgid "LIFETIME"
+msgstr "VITALÍCIO"
+
+#: includes/inc.admin-options-page.php:765
+#: includes/inc.admin-options-page.php:780
+msgid "UNLIMITED"
+msgstr "ILIMITADO"
+
+#: includes/inc.admin-options-page.php:763
+msgid "E-mail support"
+msgstr "Suporte por e-mail"
+
+#: includes/inc.admin-options-page.php:762
+#: includes/inc.admin-options-page.php:777
+msgid "Unlimited Sites"
+msgstr "Sites ilimitados"
+
+#: includes/inc.admin-options-page.php:760
+#: includes/inc.admin-options-page.php:775
+msgid "(Save $199)"
+msgstr "(Economize $199)"
+
+#: includes/inc.admin-options-page.php:757
+msgid "AGENCY"
+msgstr "AGÊNCIA"
+
+#: includes/inc.admin-options-page.php:750
+msgid "Save 90%"
+msgstr "Economize 90%"
+
+#: includes/inc.admin-options-page.php:747
+msgid "25 Site License"
+msgstr "Licença para 25 sites"
+
+#: includes/inc.admin-options-page.php:745
+msgid "(Save $119)"
+msgstr "(Economize $119)"
+
+#: includes/inc.admin-options-page.php:742
+msgid "FREELANCER"
+msgstr "FREELANCER"
+
+#: includes/inc.admin-options-page.php:735
+msgid "Save 83%"
+msgstr "Economize 83%"
+
+#: includes/inc.admin-options-page.php:732
+msgid "10 Site License"
+msgstr "Licença para 10 sites"
+
+#: includes/inc.admin-options-page.php:730
+msgid "(Save $99)"
+msgstr "(Economize $99)"
+
+#: includes/inc.admin-options-page.php:727
+msgid "WEBMASTER"
+msgstr "WEBMASTER"
+
+#: includes/inc.admin-options-page.php:721
+msgid "RECOMMENDED"
+msgstr "RECOMENDADO"
+
+#: includes/inc.admin-options-page.php:719
+msgid "Save 78%"
+msgstr "Economize 78%"
+
+#: includes/inc.admin-options-page.php:716
+msgid "3 Site License"
+msgstr "Licença para 3 sites"
+
+#: includes/inc.admin-options-page.php:714
+msgid "(Save $79)"
+msgstr "(Economize $79)"
+
+#: includes/inc.admin-options-page.php:711
+msgid "MULTIPLE"
+msgstr "MÚLTIPLOS"
+
+#: includes/inc.admin-options-page.php:705
+#: includes/inc.admin-options-page.php:720
+#: includes/inc.admin-options-page.php:736
+#: includes/inc.admin-options-page.php:751
+#: includes/inc.admin-options-page.php:766
+#: includes/inc.admin-options-page.php:781
+msgid "Buy Now"
+msgstr "Comprar agora"
+
+#: includes/inc.admin-options-page.php:704
+msgid "Pro Features"
+msgstr "Recursos Pro"
+
+#: includes/inc.admin-options-page.php:703
+#: includes/inc.admin-options-page.php:718
+#: includes/inc.admin-options-page.php:734
+#: includes/inc.admin-options-page.php:749
+#: includes/inc.admin-options-page.php:764
+msgid "1 year Updates"
+msgstr "Atualizações por 1 ano"
+
+#: includes/inc.admin-options-page.php:701
+msgid "1 Site License"
+msgstr "Licença para 1 site"
+
+#: includes/inc.admin-options-page.php:700
+#: includes/inc.admin-options-page.php:715
+#: includes/inc.admin-options-page.php:731
+#: includes/inc.admin-options-page.php:746
+#: includes/inc.admin-options-page.php:761
+msgid "Billed Annually"
+msgstr "Cobrado anualmente"
+
+#: includes/inc.admin-options-page.php:699
+msgid "(Save $59)"
+msgstr "(Economize $59)"
+
+#: includes/inc.admin-options-page.php:696
+msgid "PERSONAL"
+msgstr "PESSOAL"
+
+#: includes/inc.admin-options-page.php:690
+msgid "Choose your plan and upgrade in minutes!"
+msgstr "Escolha o seu plano e atualize em minutos!"
+
+#: includes/inc.admin-options-page.php:689
+msgid "Let's Upgrade Your Easy Table of Contents"
+msgstr "Vamos atualizar o seu Easy Table of Contents"
+
+#: includes/inc.admin-options-page.php:681
+msgid "Upgrade to Pro"
+msgstr "Atualizar para Pro"
+
+#: includes/inc.admin-options-page.php:677
+msgid "We create tutorials for every possible feature and keep it updated for you."
+msgstr "Criamos tutoriais para todos os recursos possíveis e os mantemos atualizados para você."
+
+#: includes/inc.admin-options-page.php:669
+msgid "We're continuously updating our premium features and releasing them."
+msgstr "Estamos continuamente atualizando nossos recursos premium e lançando novas atualizações."
+
+#: includes/inc.admin-options-page.php:667
+msgid "Continuous Updates"
+msgstr "Atualizações contínuas"
+
+#: includes/inc.admin-options-page.php:661
+msgid "Generates a table of contents with your existing setup and makes them AMP automatically."
+msgstr "Gera automaticamente uma tabela de conteúdos com a sua configuração existente e a torna compatível com AMP."
+
+#: includes/inc.admin-options-page.php:659
+msgid "Full AMP Support"
+msgstr "Suporte completo para AMP"
+
+#: includes/inc.admin-options-page.php:605
+msgid "Fixed/Sticky TOC"
+msgstr "TOC fixo/aderente"
+
+#: includes/inc.admin-options-page.php:580
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/inc.admin-options-page.php:567
+msgid "FREE"
+msgstr "GRATUITO"
+
+#: includes/inc.admin-options-page.php:528
+msgid "Support the innovation & development by upgrading to PRO "
+msgstr "Apoie a inovação e o desenvolvimento atualizando para a versão PRO "
+
+#: includes/inc.admin-options-page.php:527
+msgid "Delivering a good user experience means a lot to us, so we try our best to reply each and every question."
+msgstr "Entregar uma boa experiência ao usuário significa muito para nós, então nos esforçamos ao máximo para responder a cada pergunta."
+
+#: includes/inc.admin-options-page.php:518
+#: includes/inc.admin-options-page.php:524
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+#: includes/inc.admin-options-page.php:512
+msgid "Lead Dev"
+msgstr "Desenvolvimento principal"
+
+#: includes/inc.admin-options-page.php:506
+msgid "We strive to provide the best TOC in the world."
+msgstr "Nos esforçamos para fornecer a melhor Tabela de conteúdos (TOC) do mundo."
+
+#: includes/inc.admin-options-page.php:505
+msgid "Vision & Mission"
+msgstr "Visão e missão"
+
+#: includes/inc.admin-options-page.php:491
+msgid "Some Text or Element here "
+msgstr "Algum texto ou elemento aqui "
+
+#: includes/inc.admin-options-page.php:488
+msgid "Get this following code and paste into your theme\\'s function.php file:"
+msgstr "Obtenha o código a seguir e cole no arquivo function.php do seu tema:"
+
+#: includes/inc.admin-options-page.php:486
+msgid "Example: adding a span tag before the `Easy Table of Contents`"
+msgstr "Exemplo: Adicionar uma tag span antes do \"Easy Table of Contents\""
+
+#: includes/inc.admin-options-page.php:451
+msgid "ez_toc_after_widget"
+msgstr "ez_toc_after_widget"
+
+#: includes/inc.admin-options-page.php:449
+msgid "ez_toc_after_widget_container"
+msgstr "ez_toc_after_widget_container"
+
+#: includes/inc.admin-options-page.php:446
+msgid "ez_toc_before_widget"
+msgstr "ez_toc_before_widget"
+
+#: includes/inc.admin-options-page.php:444
+msgid "ez_toc_before_widget_container"
+msgstr "ez_toc_before_widget_container"
+
+#: includes/inc.admin-options-page.php:441
+msgid "ez_toc_sticky_toggle_after"
+msgstr "ez_toc_sticky_toggle_after"
+
+#: includes/inc.admin-options-page.php:438
+msgid "ez_toc_sticky_toggle_before"
+msgstr "ez_toc_sticky_toggle_before"
+
+#: includes/inc.admin-options-page.php:435
+msgid "ez_toc_after"
+msgstr "ez_toc_after"
+
+#: includes/inc.admin-options-page.php:433
+msgid "ez_toc_before"
+msgstr "ez_toc_before"
+
+#: includes/inc.admin-options-page.php:431
+msgid "Actions:"
+msgstr "Ações:"
+
+#: includes/inc.admin-options-page.php:429
+msgid "Developer can use these below hooks for customization of this plugin:"
+msgstr "Desenvolvedores podem usar os seguintes ganchos (hooks) para personalizar este plugin:"
+
+#: includes/inc.admin-options-page.php:428
+msgid "Hooks"
+msgstr "Hooks (Ganchos)"
+
+#: includes/inc.admin-options-page.php:426
+msgid "This plugin has been designed for easiest way & best features for the users & also as well as for the developers, any developer follow the below advanced instructions:"
+msgstr "Este plugin foi projetado para ser a forma mais fácil e com melhores recursos tanto para os usuários como para os desenvolvedores. Se você é um desenvolvedor, siga as instruções avançadas abaixo:"
+
+#: includes/inc.admin-options-page.php:418
+msgid "Use the following shortcode within your content to have the table of contents display where you wish to:"
+msgstr "Use o seguinte shortcode dentro do seu conteúdo para exibir a tabela de conteúdo onde desejar:"
+
+#: includes/inc.admin-options-page.php:414
+msgid " for more documentation of `Easy Table of Contents`"
+msgstr " para mais documentação sobre o \"Easy Table of Contents\""
+
+#: includes/inc.admin-options-page.php:414
+msgid "More Documentation"
+msgstr "Mais documentação"
+
+#: includes/inc.admin-options-page.php:414
+msgid "You can visit this link "
+msgstr "Você pode acessar este link "
+
+#: includes/inc.admin-options-page.php:413
+msgid "5. MORE DOCUMENTATION:"
+msgstr "5. MAIS DOCUMENTAÇÃO:"
+
+#: includes/inc.admin-options-page.php:364
+msgid "You can also choose Custom Theme colors of `Easy Table of Contents`. according to your requirements"
+msgstr "Você também pode escolher cores personalizadas do tema para o \"Easy Table of Contents\", de acordo com suas necessidades"
+
+#: includes/inc.admin-options-page.php:362
+msgid "You can also choose Theme color of `Easy Table of Contents` on Theme Options section according to your choice."
+msgstr "Você também pode escolher a cor do tema do \"Easy Table of Contents\" na seção de Opções de tema, de acordo com sua preferência."
+
+#: includes/inc.admin-options-page.php:360
+msgid "You can also set Font Option of `Easy Table of Contents` according to your needs."
+msgstr "Você também pode definir a opção de fonte do \"Easy Table of Contents\" de acordo com suas necessidades."
+
+#: includes/inc.admin-options-page.php:358
+msgid "You can also choose Alignment of `Easy Table of Contents`."
+msgstr "Você também pode escolher o alinhamento do \"Easy Table of Contents\"."
+
+#: includes/inc.admin-options-page.php:356
+msgid "You can change width of `Easy Table of Contents` from select Fixed or Relative sizes or you select custom width then it will be showing custom width option for enter manually width."
+msgstr "Você pode alterar a largura do \"Easy Table of Contents\" selecionando os tamanhos aderente ou relativo ou selecionando a largura personalizada, então será exibida a opção de largura personalizada para digitar a largura manualmente."
+
+#: includes/inc.admin-options-page.php:354
+msgid "Go to tab Settings &gt; Appearance for design customization."
+msgstr "Acesse a aba Configurações > Aparência para personalizar o design."
+
+#: includes/inc.admin-options-page.php:351
+msgid "3. DESIGN CUSTOMIZATION"
+msgstr "3. PERSONALIZAÇÃO DO DESIGN"
+
+#: includes/inc.admin-options-page.php:349
+msgid "You have to choose post types on tab General &gt; Enable Support section then `Easy Table of Contents` editor options would be shown to choose settings for particular post type."
+msgstr "É preciso escolher os tipos de posts na aba \"Geral\" > Seção \"Ativar suporte\" e, em seguida, as opções de edição do \"Easy Table of Contents\" serão exibidas para escolher as configurações para um tipo de post específico."
+
+#: includes/inc.admin-options-page.php:346
+msgid "Using Insert table of contents option on editor of any post type."
+msgstr "Usando a opção \"Inserir tabela de conteúdos\" no editor de qualquer tipo de post."
+
+#: includes/inc.admin-options-page.php:344
+msgid "Using shortcode, you can copy shortcode and paste the shortcode on editor of any post type."
+msgstr "Usando o shortcode, você pode copiar o shortcode e colá-lo no editor de qualquer tipo de post."
+
+#: includes/inc.admin-options-page.php:341
+msgid "There are two ways for manual adding & display `Easy Table of Contents`:"
+msgstr "Há duas maneiras de adicionar e exibir manualmente o `Easy Table of Contents`:"
+
+#: includes/inc.admin-options-page.php:340
+msgid "2. MANUALLY"
+msgstr "2. MANUALMENTE"
+
+#: includes/inc.admin-options-page.php:338
+msgid "After Auto Insert, the Position option for choosing where you want to display the `Easy Table of Contents`."
+msgstr "Após ativar a opção \"Inserção automática\", você pode escolher a opção \"Posição\" para selecionar onde deseja exibir o \"Easy Table of Contents\"."
+
+#: includes/inc.admin-options-page.php:334
+msgid "Go to the tab Settings &gt; General section, check Auto Insert"
+msgstr "Vá para a aba Configurações > Seção geral, marque a opção \"Inserção automática\""
+
+#: includes/inc.admin-options-page.php:332
+msgid "1. AUTOMATICALLY"
+msgstr "1. AUTOMATICAMENTE"
+
+#: includes/inc.admin-options-page.php:331
+msgid "You can check how to use `Easy Table of Contents`, follow the basic details below."
+msgstr "Você pode verificar como usar o `Easy Table of Contents`, seguindo os detalhes básicos abaixo."
+
+#: includes/inc.admin-options-page.php:313
+msgid "( Avg Response within 48-72 hrs)"
+msgstr "(Resposta média em até 48-72 horas)"
+
+#: includes/inc.admin-options-page.php:313
+msgid "Free"
+msgstr "Gratuito"
+
+#: includes/inc.admin-options-page.php:310
+msgid "(Response within 24 hrs)"
+msgstr "(Resposta em 24 horas)"
+
+#: includes/inc.admin-options-page.php:310
+msgid "Paid"
+msgstr "Pago"
+
+#: includes/inc.admin-options-page.php:309
+msgid "Select Customer Type"
+msgstr "Selecione o tipo de cliente"
+
+#: includes/inc.admin-options-page.php:306
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/inc.admin-options-page.php:291
+msgid "Query"
+msgstr "Consulta"
+
+#: includes/inc.admin-options-page.php:286
+msgid "Enter your Email"
+msgstr "Digite seu e-mail"
+
+#: includes/inc.admin-options-page.php:282
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/inc.admin-options-page.php:269
+#: includes/inc.admin-options-page.php:425
+msgid "Hooks (for Developers)"
+msgstr "Hooks (ganchos para desenvolvedores)"
+
+#: includes/inc.admin-options-page.php:265
+#: includes/inc.admin-options-page.php:675
+msgid "Documentation"
+msgstr "Documentação"
+
+#: includes/inc.admin-options-page.php:258
+#: includes/inc.admin-options-page.php:330
+msgid "How to Use"
+msgstr "Como usar"
+
+#: includes/inc.admin-options-page.php:254
+#: includes/inc.admin-options-page.php:274
+msgid "Technical Support"
+msgstr "Suporte técnico"
+
+#: includes/inc.admin-options-page.php:83
+#: includes/inc.admin-options-page.php:147
+#: includes/inc.admin-options-page.php:262
+#: includes/inc.admin-options-page.php:417
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/inc.admin-options-page.php:77
+msgid "No Thanks, I will stick with FREE version for now."
+msgstr "Não, vou continuar com a versão GRATUITA por enquanto."
+
+#: includes/inc.admin-options-page.php:71
+msgid "YES! I want to Support by UPGRADING."
+msgstr "SIM! Eu quero apoiar ATUALIZANDO."
+
+#: includes/inc.admin-options-page.php:68
+msgid "Please support us by Upgrading to Premium version."
+msgstr "Nos apoie atualizando para a versão Premium."
+
+#: includes/inc.admin-options-page.php:67
+msgid "We strive to create the best TOC solution in WordPress. Our dedicated development team does continuous development and innovation to make sure we are able to meet your demand."
+msgstr "Nos esforçamos para criar a melhor solução de Tabela de conteúdos (TOC) no WordPress. Nossa equipe de desenvolvimento dedicada trabalha continuamente no desenvolvimento e inovação para garantir que possamos atender à sua demanda."
+
+#: includes/inc.admin-options-page.php:66
+msgid "Thank YOU for using Easy Table of Content."
+msgstr "OBRIGADO por usar o Easy Table of Content."
+
+#: includes/inc.admin-options-page.php:44
+msgid "License"
+msgstr "Licença"
+
+#: includes/inc.admin-options-page.php:30
+msgid "UPGRADE to PRO"
+msgstr "ATUALIZAR para PRO"
+
+#: includes/inc.admin-options-page.php:28
+msgid "Help & Support"
+msgstr "Ajuda e suporte"
+
+#: includes/inc.admin-options-page.php:24
+msgid "Free vs PRO"
+msgstr "Gratuito x PRO"
+
+#: includes/inc.admin-options-page.php:9
+msgid "Welcome"
+msgstr "Boas-vindas"
+
+#: includes/class.options.php:1227
+msgid "Urdu"
+msgstr "Urdu"
+
+#: includes/class.options.php:1226
+msgid "Hangul Consonant"
+msgstr "Consoante Hangul"
+
+#: includes/class.options.php:1225
+msgid "Hangul"
+msgstr "Hangul"
+
+#: includes/class.options.php:1224
+msgid "Traditional Chinese Informal"
+msgstr "Chinês tradicional informal"
+
+#: includes/class.options.php:1223
+msgid "Traditional Chinese Formal"
+msgstr "Chinês tradicional formal"
+
+#: includes/class.options.php:1222
+msgid "Tibetan"
+msgstr "Tibetano"
+
+#: includes/class.options.php:1221
+msgid "Thai"
+msgstr "Tailandês"
+
+#: includes/class.options.php:1220
+msgid "Telugu"
+msgstr "Telugu"
+
+#: includes/class.options.php:1219
+msgid "Tamil"
+msgstr "Tâmil"
+
+#: includes/class.options.php:1218
+msgid "Simplified Chinese Informal"
+msgstr "Chinês simplificado informal"
+
+#: includes/class.options.php:1217
+msgid "Simplified Chinese Formal"
+msgstr "Chinês simplificado formal"
+
+#: includes/class.options.php:1216
+msgid "Persian"
+msgstr "Persa"
+
+#: includes/class.options.php:1215
+msgid "Oriya"
+msgstr "Oriá"
+
+#: includes/class.options.php:1214
+msgid "Myanmar"
+msgstr "Mianmar"
+
+#: includes/class.options.php:1213
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: includes/class.options.php:1212
+msgid "Malayalam"
+msgstr "Malaiala"
+
+#: includes/class.options.php:1211
+msgid "Laotian"
+msgstr "Laosiano"
+
+#: includes/class.options.php:1210
+msgid "Korean Hanja Informal"
+msgstr "Hanja coreano informal"
+
+#: includes/class.options.php:1209
+msgid "Korean Hanja Formal"
+msgstr "Hanja coreano formal"
+
+#: includes/class.options.php:1208
+msgid "Korean Hangul Formal"
+msgstr "Hangul formal coreano"
+
+#: includes/class.options.php:1207
+msgid "Katakana-Iroha"
+msgstr "Katakana-Iroha"
+
+#: includes/class.options.php:1206
+msgid "Katakana"
+msgstr "Katakana"
+
+#: includes/class.options.php:1205
+msgid "Kannada"
+msgstr "Kannada"
+
+#: includes/class.options.php:1204
+msgid "Japanese Informal"
+msgstr "Japonês informal"
+
+#: includes/class.options.php:1203
+msgid "Japanese Formal"
+msgstr "Japonês formal"
+
+#: includes/class.options.php:1202
+msgid "Hiragana-Iroha"
+msgstr "Hiragana-Iroha"
+
+#: includes/class.options.php:1201
+msgid "Hiragana"
+msgstr "Hiragana"
+
+#: includes/class.options.php:1200
+msgid "Hebrew"
+msgstr "Hebraico"
+
+#: includes/class.options.php:1199
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#: includes/class.options.php:1198
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: includes/class.options.php:1197
+msgid "Georgian"
+msgstr "Georgiano"
+
+#: includes/class.options.php:1196
+msgid "Ethiopic"
+msgstr "Etiópico"
+
+#: includes/class.options.php:1195
+msgid "Hindi (Devanagari)"
+msgstr "Hindi (Devanagari)"
+
+#: includes/class.options.php:1194
+msgid "CJK Ideographic/trad-chinese-informal"
+msgstr "Ideograma CJK/chinês tradicional informal"
+
+#: includes/class.options.php:1193
+msgid "Heavenly Stem"
+msgstr "Haste celestial"
+
+#: includes/class.options.php:1192
+msgid "Cambodian/Khmer"
+msgstr "Cambojano/Khmer"
+
+#: includes/class.options.php:1191
+msgid "Bengali"
+msgstr "Bengalês"
+
+#: includes/class.options.php:1190
+msgid "Arabic"
+msgstr "Arábico"
+
+#: includes/class.options.php:1189
+msgid "Lower Armenian"
+msgstr "Armênio minúsculo"
+
+#: includes/class.options.php:1188
+msgid "Armenian"
+msgstr "Armênio"
+
+#: includes/class.options.php:1187
+msgid "Lower Alpha/Latin"
+msgstr "Alfa/Latino minúsculo"
+
+#: includes/class.options.php:1186
+msgid "Upper Alpha/Latin"
+msgstr "Alfa/Latino maiúsculo"
+
+#: includes/class.options.php:1185
+msgid "Lower Greek"
+msgstr "Grego minúsculo"
+
+#: includes/class.options.php:1184
+msgid "Lower Roman"
+msgstr "Romano minúsculo"
+
+#: includes/class.options.php:1183
+msgid "Upper Roman"
+msgstr "Romano maiúsculo"
+
+#: includes/class.options.php:1170
+msgid "CJK Decimal"
+msgstr "Decimal CJK"
+
+#: includes/class.options.php:1169
+msgid "Decimal Leading Zero"
+msgstr "Zero à esquerda decimal"
+
+#: includes/class.options.php:1154
+msgid "Disclosure Closed"
+msgstr "Divulgação fechada"
+
+#: includes/class.options.php:1153
+msgid "Disclosure Open"
+msgstr "Divulgação aberta"
+
+#: includes/class.options.php:1152
+msgid "Earthly Branch"
+msgstr "Ramo terrestre"
+
+#: includes/class.options.php:1150
+msgid "Square"
+msgstr "Quadrado"
+
+#: includes/class.options.php:1149
+msgid "Circle"
+msgstr "Círculo"
+
+#: includes/class.options.php:922
+msgid "You can add `Easy Table of Contents` without using shortcode from `Auto Insert` option in General Setting so then there is no need to add shortcode while post, page or any post type editing."
+msgstr "Você pode adicionar o `Easy Table of Contents` sem usar o shortcode, através da opção `Inserção automática` nas Configurações gerais, assim não será necessário adicionar o shortcode ao editar uma postagem, página ou qualquer tipo de postagem."
+
+#: includes/class.options.php:888
+msgid "You can use the following widget shortcode to display `Easy Table of Contents` in your sidebar. <a target=\"_blank\" href=\"%s\">Learn More</a><br/><input type=\"text\" id=\"ez-toc-clipboard-apply\" value=\"[ez-toc-widget-sticky]\" disabled />&nbsp;<span class=\"ez-toc-tooltip\"><button type=\"button\" onclick=\"ez_toc_clipboard('ez-toc-clipboard-apply', 'ez-toc-myTooltip', this, event)\" onmouseout=\"ez_toc_outFunc('ez-toc-myTooltip', this, event)\"><span class=\"ez-toc-tooltiptext ez-toc-myTooltip\">Copy to clipboard</span>Copy shortcode</button></span>"
+msgstr "Você pode usar o seguinte shortcode do widget para exibir o `Easy Table of Contents` na sua barra lateral. <a target=\"_blank\" href=\"%s\">Saiba mais</a><br/><input type=\"text\" id=\"ez-toc-clipboard-apply\" value=\"[ez-toc-widget-sticky]\" disabled />&nbsp;<span class=\"ez-toc-tooltip\"><button type=\"button\" onclick=\"ez_toc_clipboard('ez-toc-clipboard-apply', 'ez-toc-myTooltip', this, event)\" onmouseout=\"ez_toc_outFunc('ez-toc-myTooltip', this, event)\"><span class=\"ez-toc-tooltiptext ez-toc-myTooltip\">Copiar para a área de transferência</span>Copiar shortcode</button></span>"
+
+#: includes/class.options.php:843
+msgid "Manual Adding the shortcode"
+msgstr "Adicionando manualmente o shortcode"
+
+#: includes/class.options.php:593
+msgid "Right to Left (RTL)"
+msgstr "Da direita para a esquerda (RTL)"
+
+#: includes/class.options.php:592
+msgid "Left to Right (LTR)"
+msgstr "Da esquerda para a direita (LTR)"
+
+#: includes/class.options.php:589
+msgid "Heading Text Direction"
+msgstr "Direção do texto dos títulos"
+
+#: includes/class.options.php:1060
+msgid "Enter sticky toggle open button text here.."
+msgstr "Digite o texto do botão de alternância aberto aqui..."
+
+#: includes/class.options.php:1057
+msgid "Open Button Text"
+msgstr "Texto do botão de abertura"
+
+#: includes/class.options.php:1051
+msgid "Custom Height"
+msgstr "Altura personalizada"
+
+#: includes/class.options.php:1041
+msgid "Height"
+msgstr "Altura"
+
+#: includes/class.options.php:395 includes/class.options.php:1028
+#: includes/class.options.php:1044
+msgid "Auto"
+msgstr "Automático"
+
+#: includes/class.options.php:229
+msgid "After first paragraph"
+msgstr "Após o primeiro parágrafo"
+
+#: includes/newsletter.php:80
+msgid "No Thanks"
+msgstr "Não, obrigado"
+
+#: includes/newsletter.php:45
+msgid "before others and some best resources on Easy TOC in a single email? - Free just for users of Easy TOC!"
+msgstr "antes de outros e alguns dos melhores recursos do Easy Table of Contents em um único e-mail? - Gratuito apenas para usuários do Easy TOC!"
+
+#: includes/newsletter.php:45
+msgid " Easy TOC "
+msgstr " Easy Table of Contents "
+
+#: includes/newsletter.php:45
+msgid "Do you want the latest update on"
+msgstr "Deseja receber as últimas atualizações sobre"
+
+#: includes/newsletter.php:44
+msgid "Thank You for using Easy TOC!"
+msgstr "Obrigado por usar o Easy Table of Contents!"
+
+#: includes/deactivate-feedback.php:45
+msgid "Don't deactivate"
+msgstr "Não desativar"
+
+#: includes/deactivate-feedback.php:44
+msgid "Only Deactivate"
+msgstr "Apenas desativar"
+
+#: includes/deactivate-feedback.php:43
+msgid "Submit & Deactivate"
+msgstr "Enviar e desativar"
+
+#: includes/deactivate-feedback.php:32
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Se você tiver um momento, nos informe por que você está desativando:"
+
+#: includes/deactivate-feedback.php:23
+msgid "Please specify, if possible"
+msgstr "Especifique, se possível"
+
+#: includes/deactivate-feedback.php:22
+msgid "Other reason"
+msgstr "Outra razão"
+
+#: includes/deactivate-feedback.php:20
+msgid "I switched to another plugin"
+msgstr "Mudei para outro plugin"
+
+#: includes/deactivate-feedback.php:19
+msgid "Can we help? Please describe your problem"
+msgstr "Podemos ajudar? Descreva o seu problema"
+
+#: includes/deactivate-feedback.php:18
+msgid "Technical Issue"
+msgstr "Problema técnico"
+
+#: includes/deactivate-feedback.php:16
+msgid "I miss a feature"
+msgstr "Sinto falta de um recurso"
+
+#: includes/deactivate-feedback.php:15
+msgid "I stopped showing TOC on my site"
+msgstr "Parei de exibir o TOC (Tabela de conteúdos) no meu site"
+
+#: includes/deactivate-feedback.php:14
+msgid "It is only temporary"
+msgstr "É apenas temporário"
+
+#: includes/class.options.php:797
+msgid "Remove ':' from TOC Title"
+msgstr "Remover ':' do título do TOC"
+
+#: includes/class.options.php:686
+msgid "Improve your  website performance by inlining your CSS."
+msgstr "Melhore o desempenho do seu site incorporando o CSS."
+
+#: includes/class.options.php:685
+msgid "Inline CSS"
+msgstr "CSS embutido"
+
+#: includes/class.options.php:527
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: includes/class.options.php:521
+msgid "Child Font Size"
+msgstr "Tamanho da fonte secundária"
+
+#: includes/class.options.php:470
+msgid "Font Option"
+msgstr "Opção de fonte"
+
+#: includes/class.options.php:1151
+msgid "Hyphen"
+msgstr "Hífen"
+
+#: includes/class.options.php:1148
+msgid "Disc"
+msgstr "Disco"
+
+#: includes/inc.admin-options-page.php:598
+msgid "Easily create TOC in Elementor with the widget without the need any coding or shortcode."
+msgstr "Crie facilmente uma Tabela de conteúdos no Elementor com o widget, sem precisar de codificação ou shortcode."
+
+#: includes/inc.admin-options-page.php:596
+msgid "Elementor Widget"
+msgstr "Widget do Elementor"
+
+#: includes/inc.admin-options-page.php:590
+msgid "Easily create TOC in Gutenberg block without the need any coding or shortcode."
+msgstr "Crie facilmente uma Tabela de conteúdos no bloco Gutenberg, sem precisar de codificação ou shortcode."
+
+#: includes/inc.admin-options-page.php:588
+msgid "Gutenberg Block"
+msgstr "Bloco Gutenberg"
+
+#: includes/inc.admin-options-page.php:582
+msgid "Everything in Free, and:"
+msgstr "Tudo do gratuito, e:"
+
+#: includes/inc.admin-options-page.php:575
+msgid "We're constantly expanding the plugin and make it more useful. We have wide variety of features which will fit any use-case."
+msgstr "Estamos constantemente expandindo o plugin e tornando-o mais útil. Temos uma ampla variedade de recursos que se adequam a qualquer caso de uso."
+
+#: includes/inc.admin-options-page.php:574
+msgid "50+ Features"
+msgstr "Mais de 50 recursos"
+
+#: includes/inc.admin-options-page.php:571
+msgid "We take bug reports and feature requests seriously. We’re continiously developing &amp; improve this product for last 2 years with passion and love."
+msgstr "Levamos relatórios de erros e solicitações de recursos a sério. Estamos continuamente desenvolvendo e melhorando este produto nos últimos 2 anos com paixão e dedicação."
+
+#: includes/inc.admin-options-page.php:570
+msgid "Continious Development"
+msgstr "Desenvolvimento contínuo"
+
+#: includes/inc.admin-options-page.php:563
+msgid "See what you'll get with the professional version"
+msgstr "Veja o que você terá com a versão profissional"
+
+#: includes/inc.admin-options-page.php:562
+msgid "Compare Pro vs. Free Version"
+msgstr "Compare a versão Pro com a versão Gratuita"
+
+#: includes/inc.admin-options-page.php:557
+msgid "Get private ticketing help from our full-time technical staff & developers who helps you with the technical issues."
+msgstr "Obtenha suporte privado por meio de tickets de nossa equipe técnica em tempo integral e desenvolvedores que o ajudarão com problemas técnicos."
+
+#: includes/inc.admin-options-page.php:556
+#: includes/inc.admin-options-page.php:702
+#: includes/inc.admin-options-page.php:717
+#: includes/inc.admin-options-page.php:733
+#: includes/inc.admin-options-page.php:748
+msgid "Tech Support"
+msgstr "Suporte técnico"
+
+#: includes/inc.admin-options-page.php:553
+msgid "We are planning to continiously build premium features and release them. We have a roadmap and we listen to our customers to turn their feedback into reality."
+msgstr "Estamos planejando desenvolver continuamente recursos premium e lançá-los. Temos um plano de ação e ouvimos nossos clientes para transformar o feedback deles em realidade."
+
+#: includes/inc.admin-options-page.php:552
+msgid "Continuous Innovation"
+msgstr "Inovação contínua"
+
+#: includes/inc.admin-options-page.php:549
+msgid "Easy TOC Pro will enhances your website table of contents and takes it to a next level to help you reach more engagement and personalization with your users."
+msgstr "O Easy TOC Pro aprimora a tabela de conteúdos do seu site e leva-a a um próximo nível para ajudar você a alcançar mais engajamento e personalização com seus usuários."
+
+#: includes/inc.admin-options-page.php:548
+msgid "Premium Features"
+msgstr "Recursos Premium"
+
+#: includes/inc.admin-options-page.php:543
+msgid "Purchase Now"
+msgstr "Compre agora"
+
+#: includes/inc.admin-options-page.php:542
+msgid "Take your Table of Contents to the NEXT Level!"
+msgstr "Eleve sua Tabela de conteúdos para o PRÓXIMO nível!"
+
+#: includes/inc.admin-options-page.php:541
+msgid "UPGRADE to PRO Version"
+msgstr "ATUALIZAR para a versão PRO"
+
+#: includes/inc.admin-options-page.php:320
+msgid "Send Support Request"
+msgstr "Enviar solicitação de suporte"
+
+#: includes/inc.admin-options-page.php:276
+msgid "You can also contact us from "
+msgstr "Você também pode falar conosco através de "
+
+#: includes/inc.admin-options-page.php:275
+msgid "We are dedicated to provide Technical support & Help to our users. Use the below form for sending your questions."
+msgstr "Estamos empenhados em fornecer suporte técnico e ajuda aos nossos usuários. Use o formulário abaixo para enviar suas perguntas."
+
+#: includes/inc.admin-options-page.php:16
+#: includes/inc.admin-options-page.php:228
+msgid "PRO Settings"
+msgstr "Configurações PRO"
+
+#: includes/class.admin.php:488 includes/class.options.php:428
+msgid "Center"
+msgstr "Centro"
+
+#: includes/class.admin.php:478 includes/class.options.php:422
+#: includes/class.options.php:1008
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: includes/class.options.php:341
+msgid "Pure CSS"
+msgstr "CSS puro"
+
+#: includes/class.options.php:340
+msgid "JavaScript (default)"
+msgstr "JavaScript (padrão)"
+
+#: includes/class.options.php:337
+msgid "TOC Loading Method"
+msgstr "Método de carregamento da Tabela de conteúdos (TOC)"
+
+#: includes/class.admin.php:81
+msgid " Website"
+msgstr " Site"
+
+#: includes/class.admin.php:80
+msgid " Upgrade"
+msgstr " Atualizar"
+
+#: includes/class.admin.php:79
+msgid " Support"
+msgstr " Suporte"
+
+#: includes/inc.admin-options-page.php:325
+msgid "Message not sent. please check your network connection"
+msgstr "Mensagem não enviada. Verifique sua conexão de rede"
+
+#: includes/inc.admin-options-page.php:324
+msgid "Message sent successfully, Please wait we will get back to you shortly"
+msgstr "Mensagem enviada com sucesso. Aguarde que entraremos em contato em breve"
+
+#. Author of the plugin
+msgid "Magazine3"
+msgstr "Magazine3"
+
+#: includes/class.options.php:741
+msgid "This provides the same function as the Smooth Scroll Offset option above but applied when the user is visiting your site on a mobile device."
+msgstr "Isso fornece a mesma função que a opção Deslocamento de rolagem suave acima, mas aplicada quando o usuário está visitando seu site em um dispositivo móvel."
+
+#: includes/class.options.php:740
+msgid "Mobile Smooth Scroll Offset"
+msgstr "Deslocamento de rolagem suave em dispositivos móveis"
+
+#: includes/class.options.php:492 includes/class.options.php:515
+msgid "Heavy"
+msgstr "Pesado"
+
+#: includes/class.options.php:491 includes/class.options.php:514
+msgid "Extra Bold"
+msgstr "Extra negrito"
+
+#: includes/class.options.php:490 includes/class.options.php:513
+msgid "Bold"
+msgstr "Negrito"
+
+#: includes/class.options.php:489 includes/class.options.php:512
+msgid "Semi Bold"
+msgstr "Semi negrito"
+
+#: includes/class.options.php:488 includes/class.options.php:511
+msgid "Medium"
+msgstr "Médio"
+
+#: includes/class.options.php:487 includes/class.options.php:510
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/class.options.php:486 includes/class.options.php:509
+msgid "Light"
+msgstr "Leve"
+
+#: includes/class.options.php:485 includes/class.options.php:508
+msgid "Extra Light"
+msgstr "Extra leve"
+
+#: includes/class.options.php:484 includes/class.options.php:507
+msgid "Thin"
+msgstr "Fino"
+
+#: includes/class.options.php:481 includes/class.widget-toc-sticky.php:561
+#: includes/class.widget-toc.php:431
+msgid "Title Font Weight"
+msgstr "Peso da fonte do título"
+
+#: includes/class.options.php:475 includes/class.widget-toc-sticky.php:549
+#: includes/class.widget-toc.php:419
+msgid "Title Font Size"
+msgstr "Tamanho da fonte do título"
+
+#. Description of the plugin
+msgid "Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content."
+msgstr "Adiciona uma forma amigável ao usuário e totalmente automática de criar e exibir uma tabela de conteúdos gerada a partir do conteúdo da página."
+
+#. Plugin Name of the plugin
+#: includes/inc.functions.php:143
+msgid "Easy Table of Contents"
+msgstr "Easy Table of Contents"
+
+#: includes/inc.admin-options-page.php:243
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: includes/inc.admin-options-page.php:83
+#: includes/inc.admin-options-page.php:128
+msgid "Advanced"
+msgstr "Avançado"
+
+#: includes/class.widget-toc-sticky.php:546 includes/class.widget-toc.php:409
+#: includes/inc.admin-options-page.php:83
+#: includes/inc.admin-options-page.php:109
+msgid "Appearance"
+msgstr "Aparência"
+
+#: includes/inc.admin-options-page.php:83
+#: includes/inc.admin-options-page.php:91
+msgid "General"
+msgstr "Geral"
+
+#: includes/class.widget-toc.php:463
+msgid "If you choose to affix the widget, do not add any other widgets on the sidebar. Also, make sure you have only one instance Table of Contents widget on the page."
+msgstr "Se você optar por fixar o widget, não adicione nenhum outro widget na barra lateral. Além disso, certifique-se de ter apenas uma instância do widget Tabela de conteúdos na página."
+
+#: includes/class.widget-toc.php:459
+msgid "Affix or pin the widget."
+msgstr "Afixe ou fixe o widget."
+
+#: includes/class.widget-toc-sticky.php:581 includes/class.widget-toc.php:447
+msgid "Active Section Highlight Color:"
+msgstr "Cor de destaque da seção ativa:"
+
+#: includes/class.widget-toc-sticky.php:538 includes/class.widget-toc.php:399
+msgid "Title"
+msgstr "Título"
+
+#: includes/class.widget-toc-sticky.php:26 includes/class.widget-toc.php:22
+msgid "Display the table of contents."
+msgstr "Exibir a tabela de conteúdos."
+
+#: includes/class.options.php:1502
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "A função de retorno de chamada usada para a configuração <strong>%s</strong> está ausente."
+
+#: includes/class.options.php:784
+msgid "Eg: .widget-area or #sidebar"
+msgstr "Por exemplo: .widget-area ou #sidebar"
+
+#: includes/class.options.php:783
+msgid "Since every theme is different, this can not be determined automatically. If you are unsure how to find the sidebar's class or id, please ask the theme's support persons."
+msgstr "Como cada tema é diferente, isso não pode ser determinado automaticamente. Se você não sabe como encontrar a classe ou ID da barra lateral, por favor, pergunte ao suporte do tema."
+
+#: includes/class.options.php:782
+msgid "To enable the option to affix or pin the Table of Contents widget enter the theme's sidebar class or id."
+msgstr "Para ativar a opção de fixar o widget da Tabela de conteúdos, insira a classe ou ID da barra lateral do tema."
+
+#: includes/class.options.php:781
+msgid "Widget Affix Selector"
+msgstr "Seletor de fixação de widget"
+
+#: includes/class.options.php:768
+msgid "Eg: i, toc_index, index, _"
+msgstr "Por exemplo: i, toc_index, index, _"
+
+#: includes/class.options.php:767
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Esta opção geralmente se aplica a conteúdos escritos em conjuntos de caracteres diferentes do ASCII."
+
+#: includes/class.options.php:766
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Os alvos das âncoras são restritos a caracteres alfanuméricos, conforme especificação HTML (consulte o readme para obter mais detalhes). O prefixo de âncora padrão será usado quando nenhum caractere qualificar. Quando deixado em branco, será usado um número em vez disso."
+
+#: includes/class.options.php:765
+msgid "Default Anchor Prefix"
+msgstr "Prefixo de âncora padrão"
+
+#: includes/class.options.php:750
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Por exemplo: /wiki/, /corporate/annual-reports/"
+
+#: includes/class.options.php:749
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Restrinja a geração da tabela de conteúdos às páginas que correspondem ao caminho necessário. Esse caminho é a partir da raiz do seu site e sempre começa com uma barra (/)."
+
+#: includes/class.options.php:748
+msgid "Limit Path"
+msgstr "Limite do caminho"
+
+#: includes/class.options.php:733
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting only has an effect after you have enabled Smooth Scroll option."
+msgstr "Se você tem um menu consistente na parte superior do seu site, você pode ajustar o deslocamento superior para impedir que os títulos apareçam abaixo do menu superior. Uma configuração de 30 acomoda a barra de administração do WordPress. Essa configuração só tem efeito após você ter ativado a opção de Rolagem suave."
+
+#: includes/class.options.php:732
+msgid "Smooth Scroll Offset"
+msgstr "Deslocamento da Rolagem suave"
+
+#: includes/class.options.php:679
+msgid "Prevent the loading the core CSS styles. When selected, the appearance options from above will be ignored."
+msgstr "Impedir o carregamento dos estilos CSS principais. Quando selecionado, as opções de aparência acima serão ignoradas."
+
+#: includes/class.options.php:678
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class.options.php:618 includes/class.options.php:950
+msgid "Homepage"
+msgstr "Pagina inicial"
+
+#: includes/class.options.php:612
+msgid "Use - rather than _ in anchors."
+msgstr "Use - em vez de _ nas âncoras."
+
+#: includes/class.options.php:611
+msgid "Hyphenate"
+msgstr "Hifenizar"
+
+#: includes/class.options.php:605
+msgid "Ensure anchors are in lowercase."
+msgstr "Certifique-se de que as âncoras estejam em minúsculas."
+
+#: includes/class.options.php:604
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: includes/class.options.php:583
+msgid "Link Visited Color"
+msgstr "Cor do link visitado"
+
+#: includes/class.options.php:577
+msgid "Link Hover Color"
+msgstr "Cor do link ao passar o mouse"
+
+#: includes/class.options.php:571
+msgid "Link Color"
+msgstr "Cor do link"
+
+#: includes/class.options.php:565
+msgid "Title Color"
+msgstr "Cor do título"
+
+#: includes/class.options.php:559
+msgid "Border Color"
+msgstr "Cor da borda"
+
+#: includes/class.options.php:553
+msgid "Background Color"
+msgstr "Cor do plano de fundo"
+
+#: includes/class.options.php:548
+msgid "For the following settings to apply, select the Custom Theme option."
+msgstr "Para aplicar as seguintes configurações, selecione a opção Tema personalizado."
+
+#: includes/class.options.php:547
+msgid "Custom Theme"
+msgstr "Tema personalizado"
+
+#: includes/class.options.php:540
+msgid "Transparent"
+msgstr "Transparente"
+
+#: includes/class.options.php:539
+msgid "Black"
+msgstr "Preto"
+
+#: includes/class.options.php:538
+msgid "White"
+msgstr "Branco"
+
+#: includes/class.options.php:537
+msgid "Light Blue"
+msgstr "Azul claro"
+
+#: includes/class.options.php:536
+msgid "Grey"
+msgstr "Cinza"
+
+#: includes/class.options.php:533
+msgid "The theme is only applied to the table of contents which is auto inserted into the post. The Table of Contents widget will inherit the theme widget styles."
+msgstr "O tema é aplicado apenas à Tabela de conteúdos que é inserida automaticamente no post. O widget Tabela de conteúdos herda os estilos de widget do tema."
+
+#: includes/class.options.php:532
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class.options.php:498
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: includes/class.admin.php:487 includes/class.options.php:427
+msgid "Right"
+msgstr "Direita"
+
+#: includes/class.admin.php:486 includes/class.options.php:426
+msgid "Left"
+msgstr "Esquerda"
+
+#: includes/class.admin.php:485 includes/class.options.php:425
+msgid "None (Default)"
+msgstr "Nenhum (Padrão)"
+
+#: includes/class.options.php:416
+msgid "Select the User Defined option from the Width option to utilitze the custom width."
+msgstr "Selecione a opção \"Definido pelo usuário\" na opção de Largura para usar a largura personalizada."
+
+#: includes/class.options.php:415 includes/class.options.php:1035
+msgid "Custom Width"
+msgstr "Largura personalizada"
+
+#: includes/class.options.php:407 includes/class.options.php:1029
+#: includes/class.options.php:1045
+msgid "User Defined"
+msgstr "Definido pelo usuário"
+
+#: includes/class.options.php:405 includes/class.options.php:541
+msgid "Custom"
+msgstr "Personalizado"
+
+#: includes/class.options.php:393
+msgid "Relative"
+msgstr "Relativo"
+
+#: includes/class.options.php:379
+msgid "Fixed"
+msgstr "Aderente"
+
+#: includes/class.options.php:375 includes/class.options.php:1025
+msgid "Width"
+msgstr "Largura"
+
+#: includes/class.options.php:348
+msgid "Smooth Scroll"
+msgstr "Rolagem suave"
+
+#: includes/class.options.php:1147
+msgid "None"
+msgstr "Nenhum"
+
+#: includes/class.options.php:1155
+msgid "Numeric"
+msgstr "Numérico"
+
+#: includes/class.options.php:1168
+msgid "Decimal (default)"
+msgstr "Decimal (padrão)"
+
+#: includes/class.options.php:323
+msgid "Counter"
+msgstr "Contador"
+
+#: includes/class.options.php:317
+msgid "Show as Hierarchy"
+msgstr "Mostrar como hierarquia"
+
+#: includes/class.admin.php:547 includes/class.options.php:311
+msgid "Initially hide the table of contents."
+msgstr "Inicialmente, ocultar a tabela de conteúdos."
+
+#: includes/class.admin.php:540 includes/class.admin.php:546
+#: includes/class.options.php:310
+msgid "Initial View"
+msgstr "Visão inicial"
+
+#: includes/class.options.php:304
+msgid "Allow the user to toggle the visibility of the table of contents."
+msgstr "Permitir ao usuário alternar a visibilidade da tabela de conteúdos."
+
+#: includes/class.options.php:303
+msgid "Toggle View"
+msgstr "Alternar visualização"
+
+#: includes/class.options.php:287
+msgid "Contents"
+msgstr "Conteúdos"
+
+#: includes/class.admin.php:451 includes/class.options.php:285
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Por exemplo: Conteúdo, Tabela de conteúdos, Conteúdo da página"
+
+#: includes/class.admin.php:445 includes/class.options.php:284
+msgid "Header Label"
+msgstr "Rótulo do cabeçalho"
+
+#: includes/class.options.php:271
+msgid "Show header text above the table of contents."
+msgstr "Exibir texto do cabeçalho acima da tabela de conteúdo."
+
+#: includes/class.options.php:270
+msgid "Display Header Label"
+msgstr "Exibir rótulo de cabeçalho"
+
+#: includes/class.options.php:263
+msgid "or more headings are present"
+msgstr "ou mais títulos estão presentes"
+
+#: includes/class.options.php:262
+msgid "Show when"
+msgstr "Mostrar quando"
+
+#: includes/class.options.php:233
+msgid "Bottom"
+msgstr "Inferior"
+
+#: includes/class.options.php:232
+msgid "Top"
+msgstr "Topo"
+
+#: includes/class.options.php:228
+msgid "After first heading"
+msgstr "Após o primeiro título"
+
+#: includes/class.options.php:227
+msgid "Before first heading (default)"
+msgstr "Antes do primeiro título (padrão)"
+
+#: includes/class.options.php:224
+msgid "Choose where where you want to display the table of contents."
+msgstr "Escolha onde deseja exibir a tabela de conteúdos."
+
+#: includes/class.options.php:223 includes/class.options.php:997
+msgid "Position"
+msgstr "Posição"
+
+#: includes/class.options.php:216 includes/inc.admin-options-page.php:337
+msgid "NOTE: The table of contents will only be automatically inserted on post types for which it has been enabled."
+msgstr "OBSERVAÇÃO: A tabela de conteúdos só será inserida automaticamente nos tipos de posts para os quais ela foi ativada."
+
+#: includes/class.options.php:215 includes/inc.admin-options-page.php:336
+msgid "Select the post types which will have the table of contents automatically inserted."
+msgstr "Selecione os tipos de posts que terão a tabela de conteúdo inserida automaticamente."
+
+#: includes/class.options.php:214 includes/class.options.php:921
+msgid "Auto Insert"
+msgstr "Inserção automática"
+
+#: includes/class.options.php:207
+msgid "Select the post types to enable the support for table of contents."
+msgstr "Selecione os tipos de posts para ativar o suporte para a tabela de conteúdo."
+
+#: includes/class.options.php:206 includes/class.options.php:941
+msgid "Enable Support"
+msgstr "Ativar suporte"
+
+#: includes/class.admin.php:635
+msgid "<strong>Note:</strong> This is not case sensitive."
+msgstr "<strong>Observação:</strong> Isso não diferencia maiúsculas de minúsculas."
+
+#: includes/class.admin.php:633
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> Ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\"."
+msgstr "<code>Macieira|Laranjas|Bananas amarelas</code> Ignore os títulos que são exatamente \"Macieira\", \"Laranjas\" ou \"Bananas amarelas\"."
+
+#: includes/class.admin.php:632
+msgid "<code>*Fruit Diet*</code> Ignore headings with \"Fruit Diet\" somewhere in the heading."
+msgstr "<code>*Dieta de frutas*</code> Ignore os títulos com \"Dieta de frutas\" em algum lugar do título."
+
+#: includes/class.admin.php:631
+msgid "<code>Fruit*</code> Ignore headings starting with \"Fruit\"."
+msgstr "<code>Fruta*</code> Ignorar títulos que começam com \"Fruta\"."
+
+#: includes/class.admin.php:612 includes/class.options.php:709
+msgid "Specify headings to be excluded from appearing in the table of contents. Separate multiple headings with a pipe <code>|</code>. Use an asterisk <code>*</code> as a wildcard to match other text."
+msgstr "Especifique os títulos a serem excluídos da tabela de conteúdos. Separe vários títulos com um pipe <code>|</code>. Use um asterisco <code>*</code> como curinga para corresponder a outros textos."
+
+#: includes/class.admin.php:606 includes/class.options.php:707
+msgid "Exclude Headings"
+msgstr "Excluir títulos"
+
+#: includes/class.admin.php:599
+msgid "<strong>Note:</strong> This is case sensitive."
+msgstr "<strong>Observação:</strong> Isso diferencia maiúsculas de minúsculas."
+
+#: includes/class.admin.php:597
+msgid "<code>Level [1.1]|Alternate TOC Header</code> Replaces Level [1.1] in the table of contents with Alternate TOC Header."
+msgstr "<code>Nível [1.1]|Cabeçalho alternativo do TOC</code> Substitui o nível [1.1] na tabela de conteúdos pelo Cabeçalho alternativo do TOC."
+
+#: includes/class.admin.php:595 includes/class.admin.php:629
+msgid "Examples:"
+msgstr "Exemplos:"
+
+#: includes/class.admin.php:578
+msgid "Specify alternate table of contents header string. Add the header to be replaced and the alternate header on a single line separated with a pipe <code>|</code>. Put each additional original and alternate header on its own line."
+msgstr "Especifique a string de cabeçalho alternativo para a tabela de conteúdos. Adicione o cabeçalho a ser substituído e o cabeçalho alternativo em uma única linha, separados por um caractere de barra vertical <code>|</code>. Coloque cada cabeçalho original e alternativo em sua própria linha."
+
+#: includes/class.admin.php:572
+msgid "Alternate Headings"
+msgstr "Títulos alternativos"
+
+#: includes/class.admin.php:530 includes/class.options.php:701
+msgid "Heading 6 (h6)"
+msgstr "Título 6 (h6)"
+
+#: includes/class.admin.php:529 includes/class.options.php:700
+msgid "Heading 5 (h5)"
+msgstr "Título 5 (h5)"
+
+#: includes/class.admin.php:528 includes/class.options.php:699
+msgid "Heading 4 (h4)"
+msgstr "Título 4 (h4)"
+
+#: includes/class.admin.php:527 includes/class.options.php:698
+msgid "Heading 3 (h3)"
+msgstr "Título 3 (H3)"
+
+#: includes/class.admin.php:526 includes/class.options.php:697
+msgid "Heading 2 (h2)"
+msgstr "Título 2 (h2)"
+
+#: includes/class.admin.php:525 includes/class.options.php:696
+msgid "Heading 1 (h1)"
+msgstr "Título 1 (h1)"
+
+#: includes/class.admin.php:523 includes/class.options.php:693
+msgid "Select the heading to consider when generating the table of contents. Deselecting a heading will exclude it."
+msgstr "Selecione o título a ser considerado ao gerar a tabela de conteúdos. Desmarcar um título o exclui."
+
+#: includes/class.admin.php:517 includes/class.options.php:692
+msgid "Headings:"
+msgstr "Títulos:"
+
+#: includes/class.admin.php:508
+msgid "Using the advanced options below will override the global advanced settings."
+msgstr "Usar as opções avançadas abaixo substituirá as configurações avançadas globais."
+
+#: includes/class.admin.php:467 includes/class.admin.php:506
+msgid "NOTE:"
+msgstr "OBSERVAÇÃO:"
+
+#: includes/class.admin.php:499
+msgid "Advanced:"
+msgstr "Avançado:"
+
+#: includes/class.admin.php:433
+msgid "Insert table of contents."
+msgstr "Inserir tabela de conteúdos (índice)."
+
+#: includes/class.admin.php:422
+msgid "Disable the automatic insertion of the table of contents."
+msgstr "Desativar a inserção automática da tabela de conteúdos (índice)."
+
+#: includes/class.admin.php:321 includes/class.admin.php:322
+#: includes/class.admin.php:375 includes/class.widget-toc.php:27
+#: includes/class.widget-toc.php:384
+msgid "Table of Contents"
+msgstr "Table of Contents"
+
+#: includes/class.admin.php:78 includes/inc.admin-options-page.php:11
+msgid "Settings"
+msgstr "Configurações"

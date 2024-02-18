@@ -1,0 +1,478 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: LiteSpeed
+MySQL version 		: 5.5.5
+PHP Version 		: 7.3.6
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 128 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: -3
+
+-----
+
+Importing Started! - 18:13:52 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpcolorway.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 18:13:52 UTC
+
+---
+
+2. Importing "XML"  - 18:13:53 UTC
+Imported "age" (category)
+Term 2 remapped to 15
+Imported "Asian Cuisine" (category)
+Term 3 remapped to 16
+Imported "beauty" (category)
+Term 4 remapped to 17
+Imported "Climbing" (category)
+Term 15 remapped to 18
+Imported "Exotic Foods" (category)
+Term 5 remapped to 19
+Imported "Homemade Dishes" (category)
+Term 6 remapped to 20
+Imported "myths" (category)
+Term 7 remapped to 21
+Imported "secrets" (category)
+Term 8 remapped to 22
+Imported "spa" (category)
+Term 9 remapped to 23
+Imported "tips" (category)
+Term 10 remapped to 24
+Imported "Uncategorized" (category)
+Term 1 remapped to 25
+Imported "secrets" (post_tag)
+Term 11 remapped to 26
+Imported "page" (elementor_library_type)
+Term 12 remapped to 27
+Imported "section" (elementor_library_type)
+Term 13 remapped to 28
+Imported "Main Menu" (nav_menu)
+Term 14 remapped to 29
+Imported "Services 01" (Multimedia)
+Post 1581 remapped to 1581
+Imported "Slider" (Multimedia)
+Post 1609 remapped to 1609
+Imported "Slider-01" (Multimedia)
+Post 1614 remapped to 1614
+Imported "Slider-03" (Multimedia)
+Post 1616 remapped to 1616
+Imported "Slider-04" (Multimedia)
+Post 1618 remapped to 1618
+Imported "about image" (Multimedia)
+Post 1654 remapped to 1654
+Imported "feature-1" (Multimedia)
+Post 1744 remapped to 1744
+Imported "feature-02" (Multimedia)
+Post 1745 remapped to 1745
+Imported "feature-03" (Multimedia)
+Post 1746 remapped to 1746
+Imported "paralax-img" (Multimedia)
+Post 1781 remapped to 1781
+Imported "video1" (Multimedia)
+Post 1829 remapped to 1829
+Imported "team-1" (Multimedia)
+Post 1868 remapped to 1868
+Imported "team-2" (Multimedia)
+Post 1869 remapped to 1869
+Imported "team-3" (Multimedia)
+Post 1870 remapped to 1870
+Imported "team-4" (Multimedia)
+Post 1871 remapped to 1871
+Imported "book-now-image" (Multimedia)
+Post 1903 remapped to 1903
+Imported "paralax-image" (Multimedia)
+Post 1924 remapped to 1924
+Imported "blog-img-1" (Multimedia)
+Post 1934 remapped to 1934
+Imported "blog-img-2" (Multimedia)
+Post 1935 remapped to 1935
+Imported "blog-img-3" (Multimedia)
+Post 1936 remapped to 1936
+Imported "colorway" (CSS personalizado)
+Post 118 remapped to 118
+Imported "colorway" (CSS personalizado)
+Post 140 remapped to 140
+Imported "twentyseventeen" (CSS personalizado)
+Post 164 remapped to 164
+Imported "colorway" (CSS personalizado)
+Post 401 remapped to 401
+Imported "blog-img-4" (Multimedia)
+Post 1937 remapped to 1937
+Imported "blog-img-5" (Multimedia)
+Post 1938 remapped to 1938
+Imported "blog-img-6" (Multimedia)
+Post 1939 remapped to 1939
+Imported "logo-light" (Multimedia)
+Post 2089 remapped to 2089
+Imported "img-01" (Multimedia)
+Post 2291 remapped to 2291
+Imported "img-02" (Multimedia)
+Post 2292 remapped to 2292
+Imported "img-03" (Multimedia)
+Post 2293 remapped to 2293
+Imported "img-04" (Multimedia)
+Post 2294 remapped to 2294
+Imported "img-05" (Multimedia)
+Post 2295 remapped to 2295
+Imported "img-06" (Multimedia)
+Post 2296 remapped to 2296
+Imported "team-01" (Multimedia)
+Post 2303 remapped to 2303
+Imported "team-02" (Multimedia)
+Post 2304 remapped to 2304
+Imported "team-03" (Multimedia)
+Post 2305 remapped to 2305
+Imported "logo-new" (Multimedia)
+Post 2311 remapped to 2311
+Imported "logo-new2" (Multimedia)
+Post 2317 remapped to 2317
+Imported "Favicon InkThemes" (Multimedia)
+Post 2417 remapped to 2417
+Imported "colorway" (CSS personalizado)
+Post 4 remapped to 4
+Imported "foxtradeign Business theme" (Plantilla)
+Post 26 remapped to 2418
+Imported "food template" (Plantilla)
+Post 73 remapped to 2419
+Imported "Business tmp-1" (Plantilla)
+Post 131 remapped to 131
+Imported "morningspa tampe-1" (Plantilla)
+Post 235 remapped to 235
+Imported "abut us -1" (Plantilla)
+Post 257 remapped to 257
+Imported "pre tempe -31" (Plantilla)
+Post 328 remapped to 328
+Imported "abut us-2" (Plantilla)
+Post 362 remapped to 362
+Imported "contact page-2" (Plantilla)
+Post 383 remapped to 383
+Imported "about-22" (Plantilla)
+Post 394 remapped to 394
+Imported "contact form-2" (Plantilla)
+Post 409 remapped to 409
+Imported "auto mechanic" (Plantilla)
+Post 1175 remapped to 1175
+Imported "Appointment Form - Auto Mechanic" (Plantilla)
+Post 1400 remapped to 1400
+Imported "Home" (Elemento del menú de navegación)
+Post 2065 remapped to 2065
+Processing menu item custom
+Menu item 2065 mapped to 2065
+Imported "About" (Elemento del menú de navegación)
+Post 2066 remapped to 2066
+Processing menu item custom
+Menu item 2066 mapped to 2066
+Imported "Services" (Elemento del menú de navegación)
+Post 2067 remapped to 2067
+Processing menu item custom
+Menu item 2067 mapped to 2067
+Imported "Contact Us" (Elemento del menú de navegación)
+Post 2068 remapped to 2068
+Processing menu item custom
+Menu item 2068 mapped to 2068
+Imported "Book Now" (Elemento del menú de navegación)
+Post 2070 remapped to 2070
+Processing menu item custom
+Menu item 2070 mapped to 2070
+Imported "Team" (Elemento del menú de navegación)
+Post 2071 remapped to 2071
+Processing menu item custom
+Menu item 2071 mapped to 2071
+Imported "rock-climbing-gallery" (Plantilla)
+Post 2159 remapped to 2159
+Imported "About Us" (Página)
+Post 214 remapped to 214
+Imported "Contact Us" (Página)
+Post 217 remapped to 217
+Imported "Gallery" (Página)
+Post 568 remapped to 568
+Imported "Services" (Página)
+Post 572 remapped to 572
+Imported "Book Now" (Página)
+Post 1078 remapped to 1078
+Imported "Home" (Página)
+Post 1494 remapped to 1494
+Imported "Blog" (Elemento del menú de navegación)
+Post 2072 remapped to 2072
+Processing menu item custom
+Menu item 2072 mapped to 2072
+Imported "Review" (Elemento del menú de navegación)
+Post 2200 remapped to 2200
+Processing menu item custom
+Menu item 2200 mapped to 2200
+Imported "Rock Climbing With Safety Equipments" (Entrada)
+Post 2207 remapped to 2207
+Imported "Climb Alone And Reach Heights" (Entrada)
+Post 2209 remapped to 2209
+Imported "Fulfill Your Desire For Climbing" (Entrada)
+Post 2211 remapped to 2211
+Running post-processing for post 1581
+Could not find the author for "Services 01" (post #1581)
+Post 1581 was imported with author "mayanktidke", but could not be found
+Running post-processing for post 1609
+Could not find the author for "Slider" (post #1609)
+Post 1609 was imported with author "admin", but could not be found
+Running post-processing for post 1614
+Could not find the author for "Slider-01" (post #1614)
+Post 1614 was imported with author "admin", but could not be found
+Running post-processing for post 1616
+Could not find the author for "Slider-03" (post #1616)
+Post 1616 was imported with author "admin", but could not be found
+Running post-processing for post 1618
+Could not find the author for "Slider-04" (post #1618)
+Post 1618 was imported with author "admin", but could not be found
+Running post-processing for post 1654
+Could not find the author for "about image" (post #1654)
+Post 1654 was imported with author "admin", but could not be found
+Running post-processing for post 1744
+Could not find the author for "feature-1" (post #1744)
+Post 1744 was imported with author "admin", but could not be found
+Running post-processing for post 1745
+Could not find the author for "feature-02" (post #1745)
+Post 1745 was imported with author "admin", but could not be found
+Running post-processing for post 1746
+Could not find the author for "feature-03" (post #1746)
+Post 1746 was imported with author "admin", but could not be found
+Running post-processing for post 1781
+Could not find the author for "paralax-img" (post #1781)
+Post 1781 was imported with author "admin", but could not be found
+Running post-processing for post 1829
+Could not find the author for "video1" (post #1829)
+Post 1829 was imported with author "admin", but could not be found
+Running post-processing for post 1868
+Could not find the author for "team-1" (post #1868)
+Post 1868 was imported with author "admin", but could not be found
+Running post-processing for post 1869
+Could not find the author for "team-2" (post #1869)
+Post 1869 was imported with author "admin", but could not be found
+Running post-processing for post 1870
+Could not find the author for "team-3" (post #1870)
+Post 1870 was imported with author "admin", but could not be found
+Running post-processing for post 1871
+Could not find the author for "team-4" (post #1871)
+Post 1871 was imported with author "admin", but could not be found
+Running post-processing for post 1903
+Could not find the author for "book-now-image" (post #1903)
+Post 1903 was imported with author "admin", but could not be found
+Running post-processing for post 1924
+Could not find the author for "paralax-image" (post #1924)
+Post 1924 was imported with author "admin", but could not be found
+Running post-processing for post 1934
+Could not find the author for "blog-img-1" (post #1934)
+Post 1934 was imported with author "admin", but could not be found
+Running post-processing for post 1935
+Could not find the author for "blog-img-2" (post #1935)
+Post 1935 was imported with author "admin", but could not be found
+Running post-processing for post 1936
+Could not find the author for "blog-img-3" (post #1936)
+Post 1936 was imported with author "admin", but could not be found
+Running post-processing for post 118
+Could not find the author for "colorway" (post #118)
+Post 118 was imported with author "pradeepsir", but could not be found
+Post 118 was marked for post-processing, but none was required.
+Running post-processing for post 140
+Could not find the author for "colorway" (post #140)
+Post 140 was imported with author "pradeepsir", but could not be found
+Post 140 was marked for post-processing, but none was required.
+Running post-processing for post 164
+Could not find the author for "twentyseventeen" (post #164)
+Post 164 was imported with author "pradeepsir", but could not be found
+Post 164 was marked for post-processing, but none was required.
+Running post-processing for post 401
+Could not find the author for "colorway" (post #401)
+Post 401 was imported with author "pradeepsir", but could not be found
+Post 401 was marked for post-processing, but none was required.
+Running post-processing for post 1937
+Could not find the author for "blog-img-4" (post #1937)
+Post 1937 was imported with author "admin", but could not be found
+Running post-processing for post 1938
+Could not find the author for "blog-img-5" (post #1938)
+Post 1938 was imported with author "admin", but could not be found
+Running post-processing for post 1939
+Could not find the author for "blog-img-6" (post #1939)
+Post 1939 was imported with author "admin", but could not be found
+Running post-processing for post 2089
+Could not find the author for "logo-light" (post #2089)
+Post 2089 was imported with author "admin", but could not be found
+Post 2089 was marked for post-processing, but none was required.
+Running post-processing for post 2291
+Could not find the author for "img-01" (post #2291)
+Post 2291 was imported with author "admin", but could not be found
+Running post-processing for post 2292
+Could not find the author for "img-02" (post #2292)
+Post 2292 was imported with author "admin", but could not be found
+Running post-processing for post 2293
+Could not find the author for "img-03" (post #2293)
+Post 2293 was imported with author "admin", but could not be found
+Running post-processing for post 2294
+Could not find the author for "img-04" (post #2294)
+Post 2294 was imported with author "admin", but could not be found
+Running post-processing for post 2295
+Could not find the author for "img-05" (post #2295)
+Post 2295 was imported with author "admin", but could not be found
+Running post-processing for post 2296
+Could not find the author for "img-06" (post #2296)
+Post 2296 was imported with author "admin", but could not be found
+Running post-processing for post 2303
+Could not find the author for "team-01" (post #2303)
+Post 2303 was imported with author "admin", but could not be found
+Running post-processing for post 2304
+Could not find the author for "team-02" (post #2304)
+Post 2304 was imported with author "admin", but could not be found
+Running post-processing for post 2305
+Could not find the author for "team-03" (post #2305)
+Post 2305 was imported with author "admin", but could not be found
+Running post-processing for post 2311
+Could not find the author for "logo-new" (post #2311)
+Post 2311 was imported with author "admin", but could not be found
+Post 2311 was marked for post-processing, but none was required.
+Running post-processing for post 2317
+Could not find the author for "logo-new2" (post #2317)
+Post 2317 was imported with author "admin", but could not be found
+Post 2317 was marked for post-processing, but none was required.
+Running post-processing for post 2417
+Could not find the author for "Favicon InkThemes" (post #2417)
+Post 2417 was imported with author "admin", but could not be found
+Post 2417 was marked for post-processing, but none was required.
+Running post-processing for post 4
+Could not find the author for "colorway" (post #4)
+Post 4 was imported with author "admin", but could not be found
+Post 4 was marked for post-processing, but none was required.
+Running post-processing for post 2418
+Could not find the author for "foxtradeign Business theme" (post #2418)
+Post 2418 was imported with author "sonamtesting", but could not be found
+Post 2418 was marked for post-processing, but none was required.
+Running post-processing for post 2419
+Could not find the author for "food template" (post #2419)
+Post 2419 was imported with author "pradeepsir", but could not be found
+Post 2419 was marked for post-processing, but none was required.
+Running post-processing for post 131
+Could not find the author for "Business tmp-1" (post #131)
+Post 131 was imported with author "pradeepsir", but could not be found
+Post 131 was marked for post-processing, but none was required.
+Running post-processing for post 235
+Could not find the author for "morningspa tampe-1" (post #235)
+Post 235 was imported with author "pradeepsir", but could not be found
+Post 235 was marked for post-processing, but none was required.
+Running post-processing for post 257
+Could not find the author for "abut us -1" (post #257)
+Post 257 was imported with author "pradeepsir", but could not be found
+Post 257 was marked for post-processing, but none was required.
+Running post-processing for post 328
+Could not find the author for "pre tempe -31" (post #328)
+Post 328 was imported with author "pradeepsir", but could not be found
+Post 328 was marked for post-processing, but none was required.
+Running post-processing for post 362
+Could not find the author for "abut us-2" (post #362)
+Post 362 was imported with author "pradeepsir", but could not be found
+Post 362 was marked for post-processing, but none was required.
+Running post-processing for post 383
+Could not find the author for "contact page-2" (post #383)
+Post 383 was imported with author "pradeepsir", but could not be found
+Post 383 was marked for post-processing, but none was required.
+Running post-processing for post 394
+Could not find the author for "about-22" (post #394)
+Post 394 was imported with author "pradeepsir", but could not be found
+Post 394 was marked for post-processing, but none was required.
+Running post-processing for post 409
+Could not find the author for "contact form-2" (post #409)
+Post 409 was imported with author "pradeepsir", but could not be found
+Post 409 was marked for post-processing, but none was required.
+Running post-processing for post 1175
+Could not find the author for "auto mechanic" (post #1175)
+Post 1175 was imported with author "admin", but could not be found
+Post 1175 was marked for post-processing, but none was required.
+Running post-processing for post 1400
+Could not find the author for "Appointment Form &#8211; Auto Mechanic" (post #1400)
+Post 1400 was imported with author "admin", but could not be found
+Post 1400 was marked for post-processing, but none was required.
+Running post-processing for post 2065
+Could not find the author for "Home" (post #2065)
+Post 2065 was imported with author "admin", but could not be found
+Post 2065 was marked for post-processing, but none was required.
+Running post-processing for post 2066
+Could not find the author for "About" (post #2066)
+Post 2066 was imported with author "admin", but could not be found
+Post 2066 was marked for post-processing, but none was required.
+Running post-processing for post 2067
+Could not find the author for "Services" (post #2067)
+Post 2067 was imported with author "admin", but could not be found
+Post 2067 was marked for post-processing, but none was required.
+Running post-processing for post 2068
+Could not find the author for "Contact Us" (post #2068)
+Post 2068 was imported with author "admin", but could not be found
+Post 2068 was marked for post-processing, but none was required.
+Running post-processing for post 2070
+Could not find the author for "Book Now" (post #2070)
+Post 2070 was imported with author "admin", but could not be found
+Post 2070 was marked for post-processing, but none was required.
+Running post-processing for post 2071
+Could not find the author for "Team" (post #2071)
+Post 2071 was imported with author "admin", but could not be found
+Post 2071 was marked for post-processing, but none was required.
+Running post-processing for post 2159
+Could not find the author for "rock-climbing-gallery" (post #2159)
+Post 2159 was imported with author "admin", but could not be found
+Post 2159 was marked for post-processing, but none was required.
+Running post-processing for post 214
+Could not find the author for "About Us" (post #214)
+Post 214 was imported with author "admin", but could not be found
+Post 214 was marked for post-processing, but none was required.
+Running post-processing for post 217
+Could not find the author for "Contact Us" (post #217)
+Post 217 was imported with author "pradeepsir", but could not be found
+Post 217 was marked for post-processing, but none was required.
+Running post-processing for post 568
+Could not find the author for "Gallery" (post #568)
+Post 568 was imported with author "admin", but could not be found
+Post 568 was marked for post-processing, but none was required.
+Running post-processing for post 572
+Could not find the author for "Services" (post #572)
+Post 572 was imported with author "admin", but could not be found
+Running post-processing for post 1078
+Could not find the author for "Book Now" (post #1078)
+Post 1078 was imported with author "pradeepsir", but could not be found
+Post 1078 was marked for post-processing, but none was required.
+Running post-processing for post 1494
+Could not find the author for "Home" (post #1494)
+Post 1494 was imported with author "admin", but could not be found
+Running post-processing for post 2072
+Could not find the author for "Blog" (post #2072)
+Post 2072 was imported with author "admin", but could not be found
+Post 2072 was marked for post-processing, but none was required.
+Running post-processing for post 2200
+Could not find the author for "Review" (post #2200)
+Post 2200 was imported with author "admin", but could not be found
+Post 2200 was marked for post-processing, but none was required.
+Running post-processing for post 2207
+Could not find the author for "Rock Climbing With Safety Equipments" (post #2207)
+Post 2207 was imported with author "admin", but could not be found
+Running post-processing for post 2209
+Could not find the author for "Climb Alone And Reach Heights" (post #2209)
+Post 2209 was imported with author "admin", but could not be found
+Running post-processing for post 2211
+Could not find the author for "Fulfill Your Desire For Climbing" (post #2211)
+Post 2211 was imported with author "admin", but could not be found
+
+---
+
+3. Imported "Site Options"  - 18:14:46 UTC
+
+---
+
+4. Importing "Widgets"  - 18:14:47 UTC
+
+---
+
+Import Complete!  - 18:14:48 UTC

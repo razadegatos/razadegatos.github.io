@@ -1,0 +1,11 @@
+PROCESSED on Sat, 04 Jul 2020 18:38:43 +0000
+/wp-content/plugins/search-filter/style.css
+/wp-content/plugins/wp-math-captcha/css/frontend.css
+/wp-content/plugins/monarch/css/style.css
+/wp-content/themes/generatepress/css/all.min.css
+/wp-content/themes/generatepress_child/style.css
+/wp-content/plugins/divi-builder/includes/builder/styles/frontend-builder-plugin-style.unified.css
+/wp-content/plugins/gp-premium/blog/functions/css/style-min.css
+/wp-content/plugins/gp-premium/menu-plus/functions/css/sticky.min.css
+/wp-content/plugins/gp-premium/menu-plus/functions/css/navigation-branding.min.css
+PROCESSED from https://razadegatos.info/
